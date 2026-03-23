@@ -35,6 +35,19 @@ jobs:
           cd scraper
           python main.py
 
+      - name: Send Email Report
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          secure: true
+          username: ${{ secrets.SMTP_USERNAME }}
+          password: ${{ secrets.SMTP_PASSWORD }}
+          subject: "LA Jazz Sheet: Daily Scraper Output"
+          to: ${{ secrets.SMTP_USERNAME }}
+          from: LA Jazz Automator
+          body: file://scraper/email_report.txt
+
       - name: Commit and Push Updates
         run: |
           # Configure Git
