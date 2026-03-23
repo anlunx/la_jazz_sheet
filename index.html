@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>LA Jazz Lead Sheet</title>
+  <meta name="description" content="A curated directory of live jazz performances in Los Angeles." />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./style.css" />
+</head>
+<body>
+  <div class="app-container">
+    <header class="main-header">
+      <div class="header-content">
+        <div class="brand">
+          <h1>LA Jazz Sheet</h1>
+          <p>Live performances in Los Angeles</p>
+        </div>
+        <div class="search-container">
+          <input type="text" id="search-input" placeholder="Search artists..." aria-label="Search artists" />
+        </div>
+      </div>
+      <div class="filter-tabs">
+        <button class="tab active">All</button>
+        <button class="tab">Noteworthy</button>
+      </div>
+      <nav class="month-nav">
+        <button class="nav-btn" aria-label="Previous month">&larr;</button>
+        <span class="current-month">March 2026</span>
+        <button class="nav-btn" aria-label="Next month">&rarr;</button>
+      </nav>
+    </header>
+
+    <main id="events-container">
+      <!-- Loading State -->
+      <div class="loading-state">
+        <div class="spinner"></div>
+        <p>Loading LA Jazz shows...</p>
+      </div>
+    </main>
+  </div>
+
+  <script src="./main.js"></script>
+</body>
+</html>

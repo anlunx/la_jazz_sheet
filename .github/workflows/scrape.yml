@@ -1,0 +1,53 @@
+name: Daily LA Jazz AI Scraper
+
+on:
+  schedule:
+    # Runs at 10:00 UTC (3:00 AM Pacific Time / LA Time) every day
+    - cron: '0 10 * * *'
+  workflow_dispatch:
+    # Allows you to run this workflow manually from the GitHub Actions UI
+
+jobs:
+  scrape-and-update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Needed to push changes back to the repository
+      
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install Dependencies
+        run: |
+          cd scraper
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run AI Scraper
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          cd scraper
+          python main.py
+
+      - name: Commit and Push Updates
+        run: |
+          # Configure Git
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Check for changes in the events.json file
+          # If there are changes, commit them and push back to main branch
+          git add real_entries/events.json
+          
+          if ! git diff-index --quiet HEAD; then
+            git commit -m "Automated update of LA Jazz events [skip ci]"
+            git push
+          else
+            echo "No changes in events to commit."
+          fi

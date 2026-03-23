@@ -1,0 +1,18 @@
+# Environment variables
+.env
+
+# Python caching and virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.venv/
+
+# IDE files
+.vscode/
+.idea/
+.DS_Store
+
+# Node (just in case)
+node_modules/

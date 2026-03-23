@@ -1,0 +1,69 @@
+[
+  {
+    "date": "2026-03-24",
+    "time": "8:00 PM",
+    "artist": "Kamasi Washington Quintet",
+    "venue": {
+      "name": "The Baked Potato",
+      "address": "3787 Cahuenga Blvd, Studio City, CA 91604"
+    },
+    "personnel": [
+      { "name": "Kamasi Washington", "instrument": "Tenor Saxophone" },
+      { "name": "Ryan Porter", "instrument": "Trombone" },
+      { "name": "Brandon Coleman", "instrument": "Keyboards" },
+      { "name": "Miles Mosley", "instrument": "Upright Bass" },
+      { "name": "Tony Austin", "instrument": "Drums" }
+    ],
+    "priceRange": "$40–$60",
+    "ticketLink": "#"
+  },
+  {
+    "date": "2026-03-25",
+    "time": "7:30 PM",
+    "artist": "Gerald Clayton Trio",
+    "venue": {
+      "name": "Catalina Jazz Club",
+      "address": "6725 Sunset Blvd, Hollywood, CA 90028"
+    },
+    "personnel": [
+      { "name": "Gerald Clayton", "instrument": "Piano" },
+      { "name": "Joe Sanders", "instrument": "Bass" },
+      { "name": "Justin Brown", "instrument": "Drums" }
+    ],
+    "priceRange": "$35",
+    "ticketLink": "#"
+  },
+  {
+    "date": "2026-03-25",
+    "time": "9:30 PM",
+    "artist": "Christian Scott aTunde Adjuah",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      { "name": "Christian Scott", "instrument": "Trumpet" },
+      { "name": "Lawrence Fields", "instrument": "Piano" },
+      { "name": "Max Mucha", "instrument": "Bass" },
+      { "name": "Corey Fonville", "instrument": "Drums" }
+    ],
+    "priceRange": "$30",
+    "ticketLink": "#"
+  },
+  {
+    "date": "2026-03-27",
+    "time": "8:00 PM",
+    "artist": "Esperanza Spalding: Songwrights Apothecary Lab",
+    "venue": {
+      "name": "Walt Disney Concert Hall",
+      "address": "111 S Grand Ave, Los Angeles, CA 90012"
+    },
+    "personnel": [
+      { "name": "Esperanza Spalding", "instrument": "Vocals, Bass" },
+      { "name": "Leo Genovese", "instrument": "Piano, Synths" },
+      { "name": "Francisco Mela", "instrument": "Drums" }
+    ],
+    "priceRange": "$55–$120",
+    "ticketLink": "#"
+  }
+]
