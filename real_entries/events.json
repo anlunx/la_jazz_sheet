@@ -1,59 +1,5 @@
 [
   {
-    "date": "2026-03-26",
-    "time": "7:30 PM",
-    "artist": "Ralph Alessi Quartet",
-    "venue": {
-      "name": "Sam First",
-      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
-    },
-    "personnel": [
-      {
-        "name": "Ralph Alessi",
-        "instrument": "Trumpet"
-      },
-      {
-        "name": "Adam Benjamin",
-        "instrument": "Piano"
-      },
-      {
-        "name": "Richard Giddens",
-        "instrument": "Bass"
-      },
-      {
-        "name": "Mark Ferber",
-        "instrument": "Drums"
-      }
-    ],
-    "priceRange": "$XX",
-    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
-  },
-  {
-    "date": "2026-03-26",
-    "time": "8:00 PM",
-    "artist": "ANDREW SYNOWIEC GROUP",
-    "venue": {
-      "name": "The Baked Potato",
-      "address": "3787 Cahuenga Blvd, Studio City, CA 91604"
-    },
-    "personnel": [
-      {
-        "name": "KAVEH RASTEGAR",
-        "instrument": "Bass"
-      },
-      {
-        "name": "KIEL FEHER",
-        "instrument": "Drums"
-      },
-      {
-        "name": "ANDREW SYNOWIEC",
-        "instrument": "Guitar"
-      }
-    ],
-    "priceRange": "$30",
-    "ticketLink": "https://www.thebakedpotato.com/events-calendar/"
-  },
-  {
     "date": "2026-03-27",
     "time": "7:30 PM",
     "artist": "Allison, Cardenas & Nash",
@@ -64,18 +10,17 @@
     "personnel": [
       {
         "name": "Ben Allison",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Steve Cardenas",
-        "instrument": "Guitar"
+        "instrument": "guitar"
       },
       {
         "name": "Ted Nash",
-        "instrument": "Saxophone"
+        "instrument": "saxophone"
       }
     ],
-    "priceRange": "$XX",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -88,20 +33,24 @@
     },
     "personnel": [
       {
-        "name": "TOSHI YANAGI",
+        "name": "Toshi Yanagi",
         "instrument": "Guitar"
       },
       {
-        "name": "HANZ ZERMULLEN",
+        "name": "Hanz Zermullen",
         "instrument": "Keyboards"
       },
       {
-        "name": "KYLE HUGHES",
+        "name": "Kyle Hughes",
         "instrument": "Drums"
       },
       {
-        "name": "MARCO MENDOZA",
-        "instrument": "Bass, Vocals"
+        "name": "Marco Mendoza",
+        "instrument": "Bass"
+      },
+      {
+        "name": "Marco Mendoza",
+        "instrument": "Vocals"
       }
     ],
     "priceRange": "$40",
@@ -118,18 +67,17 @@
     "personnel": [
       {
         "name": "Ben Allison",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Steve Cardenas",
-        "instrument": "Guitar"
+        "instrument": "guitar"
       },
       {
         "name": "Ted Nash",
-        "instrument": "Saxophone"
+        "instrument": "saxophone"
       }
     ],
-    "priceRange": "$XX",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -187,23 +135,23 @@
     },
     "personnel": [
       {
-        "name": "DANNY CAREY",
+        "name": "Danny Carey",
         "instrument": "Drums"
       },
       {
-        "name": "DOUG WEBB",
+        "name": "Doug Webb",
         "instrument": "Saxophone"
       },
       {
-        "name": "JIMMY EARL",
+        "name": "Jimmy Earl",
         "instrument": "Bass"
       },
       {
-        "name": "MITCH FORMAN",
+        "name": "Mitch Forman",
         "instrument": "Keyboards"
       },
       {
-        "name": "JAMIE KIME",
+        "name": "Jamie Kime",
         "instrument": "Guitar"
       }
     ],
@@ -221,10 +169,9 @@
     "personnel": [
       {
         "name": "Devin Daniels",
-        "instrument": "Saxophone"
+        "instrument": "saxophone"
       }
     ],
-    "priceRange": "$XX",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -237,23 +184,23 @@
     },
     "personnel": [
       {
-        "name": "DANNY CAREY",
+        "name": "Danny Carey",
         "instrument": "Drums"
       },
       {
-        "name": "DOUG WEBB",
+        "name": "Doug Webb",
         "instrument": "Saxophone"
       },
       {
-        "name": "JIMMY EARL",
+        "name": "Jimmy Earl",
         "instrument": "Bass"
       },
       {
-        "name": "MITCH FORMAN",
+        "name": "Mitch Forman",
         "instrument": "Keyboards"
       },
       {
-        "name": "JAMIE KIME",
+        "name": "Jamie Kime",
         "instrument": "Guitar"
       }
     ],
@@ -263,7 +210,7 @@
   {
     "date": "2026-04-01",
     "time": "7:30 PM",
-    "artist": "College Night: USC Ensemble dir. Clarence Penn & UCLA Gluck Ensemble dir. Clayton Cameron",
+    "artist": "USC Ensemble dir. Clarence Penn & UCLA Gluck Ensemble dir. Clayton Cameron",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -271,14 +218,13 @@
     "personnel": [
       {
         "name": "Clarence Penn",
-        "instrument": "Drums"
+        "instrument": "drums"
       },
       {
         "name": "Clayton Cameron",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
-    "priceRange": "$XX",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -304,7 +250,11 @@
       },
       {
         "name": "Val McCallum",
-        "instrument": "Guitar, Vocals"
+        "instrument": "Guitar"
+      },
+      {
+        "name": "Val McCallum",
+        "instrument": "Vocals"
       }
     ],
     "priceRange": "$45",
@@ -313,7 +263,7 @@
   {
     "date": "2026-04-02",
     "time": "7:30 PM",
-    "artist": "Rachel Eckroth Trio feat Nicole McCabe",
+    "artist": "Rachel Eckroth Trio",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -321,22 +271,21 @@
     "personnel": [
       {
         "name": "Rachel Eckroth",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Emma Dayhuff",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Tina Raymond",
-        "instrument": "Drums"
+        "instrument": "drums"
       },
       {
         "name": "Nicole McCabe",
-        "instrument": "Saxophone"
+        "instrument": "saxophone"
       }
     ],
-    "priceRange": "$XX",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -349,31 +298,47 @@
     },
     "personnel": [
       {
-        "name": "SCHEILA GONZALES",
-        "instrument": "Saxophone, Keyboards, Vocals"
+        "name": "Scheila Gonzales",
+        "instrument": "Saxophone"
       },
       {
-        "name": "PETE GRIFFIN",
-        "instrument": "Bass"
+        "name": "Scheila Gonzales",
+        "instrument": "Keyboards"
       },
       {
-        "name": "BILLY HULTING",
-        "instrument": "Vibraphone, Percussion"
-      },
-      {
-        "name": "JAMIE KIME",
-        "instrument": "Guitar"
-      },
-      {
-        "name": "BEN THOMAS",
+        "name": "Scheila Gonzales",
         "instrument": "Vocals"
       },
       {
-        "name": "JOE TRAVERS",
-        "instrument": "Drums, Vocals"
+        "name": "Pete Griffin",
+        "instrument": "Bass"
       },
       {
-        "name": "MATT ROHDE",
+        "name": "Billy Hulting",
+        "instrument": "Vibraphone"
+      },
+      {
+        "name": "Billy Hulting",
+        "instrument": "Percussion"
+      },
+      {
+        "name": "Jamie Kime",
+        "instrument": "Guitar"
+      },
+      {
+        "name": "Ben Thomas",
+        "instrument": "Vocals"
+      },
+      {
+        "name": "Joe Travers",
+        "instrument": "Drums"
+      },
+      {
+        "name": "Joe Travers",
+        "instrument": "Vocals"
+      },
+      {
+        "name": "Matt Rohde",
         "instrument": "Keyboards"
       }
     ],
@@ -391,26 +356,25 @@
     "personnel": [
       {
         "name": "Jerry Bergonzi",
-        "instrument": "Tenor Saxophone"
+        "instrument": "saxophone"
       },
       {
         "name": "Brian Levy",
-        "instrument": "Saxophone"
+        "instrument": "saxophone"
       },
       {
         "name": "Mikan Zlatkovich",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Luca Alemanno",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Joe La Barbera",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
-    "priceRange": "$XX",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -423,31 +387,47 @@
     },
     "personnel": [
       {
-        "name": "SCHEILA GONZALES",
-        "instrument": "Saxophone, Keyboards, Vocals"
+        "name": "Scheila Gonzales",
+        "instrument": "Saxophone"
       },
       {
-        "name": "PETE GRIFFIN",
-        "instrument": "Bass"
+        "name": "Scheila Gonzales",
+        "instrument": "Keyboards"
       },
       {
-        "name": "BILLY HULTING",
-        "instrument": "Vibraphone, Percussion"
-      },
-      {
-        "name": "JAMIE KIME",
-        "instrument": "Guitar"
-      },
-      {
-        "name": "BEN THOMAS",
+        "name": "Scheila Gonzales",
         "instrument": "Vocals"
       },
       {
-        "name": "JOE TRAVERS",
-        "instrument": "Drums, Vocals"
+        "name": "Pete Griffin",
+        "instrument": "Bass"
       },
       {
-        "name": "MATT ROHDE",
+        "name": "Billy Hulting",
+        "instrument": "Vibraphone"
+      },
+      {
+        "name": "Billy Hulting",
+        "instrument": "Percussion"
+      },
+      {
+        "name": "Jamie Kime",
+        "instrument": "Guitar"
+      },
+      {
+        "name": "Ben Thomas",
+        "instrument": "Vocals"
+      },
+      {
+        "name": "Joe Travers",
+        "instrument": "Drums"
+      },
+      {
+        "name": "Joe Travers",
+        "instrument": "Vocals"
+      },
+      {
+        "name": "Matt Rohde",
         "instrument": "Keyboards"
       }
     ],
@@ -465,18 +445,17 @@
     "personnel": [
       {
         "name": "Adam Hersh",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Max Gerl",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Gary Novak",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
-    "priceRange": "$XX",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -490,15 +469,31 @@
     "personnel": [
       {
         "name": "Albert Lee",
-        "instrument": "Guitar, Keyboards, Vocals"
+        "instrument": "Guitar"
+      },
+      {
+        "name": "Albert Lee",
+        "instrument": "Keyboards"
+      },
+      {
+        "name": "Albert Lee",
+        "instrument": "Vocals"
       },
       {
         "name": "JT Thomas",
-        "instrument": "Keyboards, Vocals"
+        "instrument": "Keyboards"
+      },
+      {
+        "name": "JT Thomas",
+        "instrument": "Vocals"
       },
       {
         "name": "David Chamberlin",
-        "instrument": "Bass, Vocals"
+        "instrument": "Bass"
+      },
+      {
+        "name": "David Chamberlin",
+        "instrument": "Vocals"
       },
       {
         "name": "Charlie Faragher",
@@ -518,19 +513,19 @@
     },
     "personnel": [
       {
-        "name": "ADAM LEVY",
+        "name": "Adam Levy",
         "instrument": "Guitar"
       },
       {
-        "name": "JIM FOX",
+        "name": "Jim Fox",
         "instrument": "Guitar"
       },
       {
-        "name": "EDWIN LIVINGSTON",
+        "name": "Edwin Livingston",
         "instrument": "Upright Bass"
       },
       {
-        "name": "STEVE HASS",
+        "name": "Steve Hass",
         "instrument": "Drums"
       }
     ],
@@ -547,15 +542,15 @@
     },
     "personnel": [
       {
-        "name": "CLARENCE PENN",
+        "name": "Clarence Penn",
         "instrument": "Drums"
       },
       {
-        "name": "JANEK GWIZDALA",
+        "name": "Janek Gwizdala",
         "instrument": "Bass"
       },
       {
-        "name": "OZ NOY",
+        "name": "Oz Noy",
         "instrument": "Guitar"
       }
     ],
@@ -573,10 +568,9 @@
     "personnel": [
       {
         "name": "Gerald Clayton",
-        "instrument": "Piano"
+        "instrument": "piano"
       }
     ],
-    "priceRange": "$XX",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -627,18 +621,17 @@
     "personnel": [
       {
         "name": "Alexis Lombre",
-        "instrument": "Piano, Vocals"
+        "instrument": "piano"
       },
       {
         "name": "Ben Williams",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "John Davis",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
-    "priceRange": "$XX",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -651,20 +644,24 @@
     },
     "personnel": [
       {
-        "name": "DANNY CAREY",
+        "name": "Danny Carey",
         "instrument": "Drums"
       },
       {
-        "name": "ANDREW RENFROE",
+        "name": "Andrew Renfroe",
         "instrument": "Guitar"
       },
       {
-        "name": "FRANCISCO FATTORUSO",
+        "name": "Francisco Fattoruso",
         "instrument": "Bass"
       },
       {
-        "name": "SCOTT KINSEY",
-        "instrument": "Keyboards, Vocoder"
+        "name": "Scott Kinsey",
+        "instrument": "Keyboards"
+      },
+      {
+        "name": "Scott Kinsey",
+        "instrument": "Vocoder"
       }
     ],
     "priceRange": "$35",
@@ -681,24 +678,23 @@
     "personnel": [
       {
         "name": "Kazemde George",
-        "instrument": "Saxophone"
+        "instrument": "saxophone"
       },
       {
         "name": "Logan Kane",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Anthony Fung",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
-    "priceRange": "$XX",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
     "date": "2026-04-09",
     "time": "8:00 PM",
-    "artist": "DANNY JANKLOW",
+    "artist": "DANNY JANKLOW “Bird in Paradise”",
     "venue": {
       "name": "The Baked Potato",
       "address": "3787 Cahuenga Blvd, Studio City, CA 91604"
@@ -739,26 +735,25 @@
     "personnel": [
       {
         "name": "Aubrey Situmorang",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Tristan Cappel",
-        "instrument": "Drums"
+        "instrument": ""
       },
       {
         "name": "Keelan Walters",
-        "instrument": "Saxophone"
+        "instrument": ""
       },
       {
         "name": "Adam Hersh",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Jordan Proffer",
-        "instrument": "Guitar"
+        "instrument": ""
       }
     ],
-    "priceRange": "$XX",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -771,15 +766,15 @@
     },
     "personnel": [
       {
-        "name": "KEITH CARLOCK",
+        "name": "Keith Carlock",
         "instrument": "Drums"
       },
       {
-        "name": "TIM LEFEBVRE",
+        "name": "Tim Lefebvre",
         "instrument": "Bass"
       },
       {
-        "name": "MICHAEL LANDAU",
+        "name": "Michael Landau",
         "instrument": "Guitar"
       }
     ],
@@ -797,26 +792,25 @@
     "personnel": [
       {
         "name": "Aubrey Situmorang",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Tristan Cappel",
-        "instrument": "Drums"
+        "instrument": ""
       },
       {
         "name": "Keelan Walters",
-        "instrument": "Saxophone"
+        "instrument": ""
       },
       {
         "name": "Adam Hersh",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Jordan Proffer",
-        "instrument": "Guitar"
+        "instrument": ""
       }
     ],
-    "priceRange": "$XX",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -829,15 +823,15 @@
     },
     "personnel": [
       {
-        "name": "KEITH CARLOCK",
+        "name": "Keith Carlock",
         "instrument": "Drums"
       },
       {
-        "name": "TIM LEFEBVRE",
+        "name": "Tim Lefebvre",
         "instrument": "Bass"
       },
       {
-        "name": "MICHAEL LANDAU",
+        "name": "Michael Landau",
         "instrument": "Guitar"
       }
     ],
@@ -855,7 +849,11 @@
     "personnel": [
       {
         "name": "Karen Landau",
-        "instrument": "Vocals, Guitar"
+        "instrument": "Vocals"
+      },
+      {
+        "name": "Karen Landau",
+        "instrument": "Guitar"
       },
       {
         "name": "Michael Landau",
@@ -902,7 +900,16 @@
       "name": "The Baked Potato",
       "address": "3787 Cahuenga Blvd, Studio City, CA 91604"
     },
-    "personnel": [],
+    "personnel": [
+      {
+        "name": "Dustin Boyer",
+        "instrument": ""
+      },
+      {
+        "name": "Nothin’ Personal",
+        "instrument": ""
+      }
+    ],
     "priceRange": "$15",
     "ticketLink": "https://www.thebakedpotato.com/events-calendar/"
   },
@@ -915,7 +922,6 @@
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
     },
     "personnel": [],
-    "priceRange": "$XX",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -928,15 +934,15 @@
     },
     "personnel": [
       {
-        "name": "BOB REYNOLDS",
+        "name": "Bob Reynolds",
         "instrument": "Saxophone"
       },
       {
-        "name": "MIKE GURROLA",
+        "name": "Mike Gurrola",
         "instrument": "Upright Bass"
       },
       {
-        "name": "CHARLES RUGGIERO",
+        "name": "Charles Ruggiero",
         "instrument": "Drums"
       }
     ],
@@ -946,46 +952,66 @@
   {
     "date": "2026-04-16",
     "time": "8:00 PM",
-    "artist": "NUTTY",
+    "artist": "“NUTTY”",
     "venue": {
       "name": "The Baked Potato",
       "address": "3787 Cahuenga Blvd, Studio City, CA 91604"
     },
     "personnel": [
       {
-        "name": "SONNY MOON",
-        "instrument": "Vocals, Arrangements"
+        "name": "Sonny Moon",
+        "instrument": "Vocals"
       },
       {
-        "name": "GUY WONDER",
-        "instrument": "Bass, Arrangements"
+        "name": "Sonny Moon",
+        "instrument": "Arrangements"
       },
       {
-        "name": "DAN SPECTOR",
+        "name": "Guy Wonder",
+        "instrument": "Bass"
+      },
+      {
+        "name": "Guy Wonder",
+        "instrument": "Arrangements"
+      },
+      {
+        "name": "Dan Spector",
         "instrument": "Keyboards"
       },
       {
-        "name": "SEAN O’KELLEY",
-        "instrument": "Tenor Saxophone, Alto Saxophone, Flute"
+        "name": "Sean O’Kelley",
+        "instrument": "Tenor Saxophone"
       },
       {
-        "name": "JACOB SCESNEY",
-        "instrument": "Baritone Saxophone, Flute"
+        "name": "Sean O’Kelley",
+        "instrument": "Alto Saxophone"
       },
       {
-        "name": "CHAD WILLIS",
+        "name": "Sean O’Kelley",
+        "instrument": "Flute"
+      },
+      {
+        "name": "Jacob Scesney",
+        "instrument": "Baritone Saxophone"
+      },
+      {
+        "name": "Jacob Scesney",
+        "instrument": "Flute"
+      },
+      {
+        "name": "Chad Willis",
         "instrument": "Trumpet"
       },
       {
-        "name": "ABDULLAH EBRAHIM",
+        "name": "Abdullah Ebrahim",
         "instrument": "Trombone"
       },
       {
-        "name": "DAVE TULL",
+        "name": "Dave Tull",
         "instrument": "Drums"
       },
       {
-        "name": "SCOTT BREADMAN",
+        "name": "Scott Breadman",
         "instrument": "Percussion"
       }
     ],
@@ -1003,20 +1029,19 @@
     "personnel": [
       {
         "name": "Larry Koonse",
-        "instrument": "Guitar"
+        "instrument": "guitar"
       },
       {
         "name": "David Roitstein",
-        "instrument": "Piano"
+        "instrument": "piano"
       }
     ],
-    "priceRange": "$XX",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
     "date": "2026-04-17",
     "time": "8:00 PM",
-    "artist": "NIKI HARIS with the Mitch Forman Allstars",
+    "artist": "NIKI HARIS Blue Jeans. Baked Potato’s and Birthday Bash with the.. Mitch Forman Allstars",
     "venue": {
       "name": "The Baked Potato",
       "address": "3787 Cahuenga Blvd, Studio City, CA 91604"
@@ -1061,18 +1086,17 @@
     "personnel": [
       {
         "name": "Janek Gwizdala",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Peter Erskine",
-        "instrument": "Drums"
+        "instrument": "drums"
       },
       {
         "name": "Nir Felder",
-        "instrument": "Guitar"
+        "instrument": "guitar"
       }
     ],
-    "priceRange": "$XX",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -1085,23 +1109,31 @@
     },
     "personnel": [
       {
-        "name": "CARL VERHEYEN",
-        "instrument": "Guitar, Vocals"
+        "name": "Carl Verheyen",
+        "instrument": "Guitar"
       },
       {
-        "name": "JOHN MADER",
+        "name": "Carl Verheyen",
+        "instrument": "Vocals"
+      },
+      {
+        "name": "John Mader",
         "instrument": "Drums"
       },
       {
-        "name": "FEDERICO ORLANDINI",
+        "name": "Federico Orlandini",
         "instrument": "Bass"
       },
       {
-        "name": "TROY DEXTER",
-        "instrument": "Keyboards, Vocals"
+        "name": "Troy Dexter",
+        "instrument": "Keyboards"
       },
       {
-        "name": "HOLLYE DEXTER",
+        "name": "Troy Dexter",
+        "instrument": "Vocals"
+      },
+      {
+        "name": "Hollye Dexter",
         "instrument": "Vocals"
       }
     ],
@@ -1131,7 +1163,11 @@
       },
       {
         "name": "Jason Harnell",
-        "instrument": "Drums, Vocals"
+        "instrument": "Drums"
+      },
+      {
+        "name": "Jason Harnell",
+        "instrument": "Vocals"
       }
     ],
     "priceRange": "$20",
@@ -1181,18 +1217,17 @@
     "personnel": [
       {
         "name": "Gerald Clayton",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Joe Sanders",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Justin Brown",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
-    "priceRange": "$XX",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -1247,18 +1282,17 @@
     "personnel": [
       {
         "name": "Gerald Clayton",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Joe Sanders",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Justin Brown",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
-    "priceRange": "$XX",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -1275,8 +1309,24 @@
   },
   {
     "date": "2026-04-23",
+    "time": "7:00 PM",
+    "artist": "Luther S. Allison Trio",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Luther S. Allison",
+        "instrument": "piano"
+      }
+    ],
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-04-23",
     "time": "8:00 PM",
-    "artist": "HERMAN JACKSON GROUP",
+    "artist": "HERMAN JACKSON GROUP “Birthday Show”",
     "venue": {
       "name": "The Baked Potato",
       "address": "3787 Cahuenga Blvd, Studio City, CA 91604"
@@ -1295,27 +1345,31 @@
     },
     "personnel": [
       {
-        "name": "ELLIOTT YAMIN",
+        "name": "Elliott Yamin",
         "instrument": "Vocals"
       },
       {
-        "name": "ANTHONY CRAWFORD",
+        "name": "Anthony Crawford",
         "instrument": "Bass"
       },
       {
-        "name": "DANNY JANKLOW",
-        "instrument": "Saxophone, Flute"
+        "name": "Danny Janklow",
+        "instrument": "Saxophone"
       },
       {
-        "name": "TONY AUSTIN",
+        "name": "Danny Janklow",
+        "instrument": "Flute"
+      },
+      {
+        "name": "Tony Austin",
         "instrument": "Drums"
       },
       {
-        "name": "MUNYUNGO JACKSON",
+        "name": "Munyungo Jackson",
         "instrument": "Percussion"
       },
       {
-        "name": "LAO TIZER",
+        "name": "Lao Tizer",
         "instrument": "Keyboards"
       }
     ],
@@ -1374,7 +1428,11 @@
       },
       {
         "name": "Dennis Jones",
-        "instrument": "Guitar, Vocals"
+        "instrument": "Guitar"
+      },
+      {
+        "name": "Dennis Jones",
+        "instrument": "Vocals"
       }
     ],
     "priceRange": "$20",
@@ -1391,7 +1449,11 @@
     "personnel": [
       {
         "name": "Sean Holt",
-        "instrument": "Vocals, Saxophone"
+        "instrument": "Vocals"
+      },
+      {
+        "name": "Sean Holt",
+        "instrument": "Saxophone"
       },
       {
         "name": "Gia Ciambotti",
@@ -1475,15 +1537,15 @@
     },
     "personnel": [
       {
-        "name": "ALEX SKOLNICK",
+        "name": "Alex Skolnick",
         "instrument": "Guitar"
       },
       {
-        "name": "MATT ROHDE",
+        "name": "Matt Rohde",
         "instrument": "Keyboards"
       },
       {
-        "name": "JOEL TAYLOR",
+        "name": "Joel Taylor",
         "instrument": "Drums"
       }
     ],
@@ -1513,7 +1575,7 @@
       },
       {
         "name": "Kevin Flournoy",
-        "instrument": "Keyboards"
+        "instrument": "Keyboard"
       },
       {
         "name": "Scott Bell",
@@ -1598,7 +1660,7 @@
     },
     "personnel": [
       {
-        "name": "SCOTT KINSEY",
+        "name": "Scott Kinsey",
         "instrument": "Keyboards"
       }
     ],
@@ -1628,7 +1690,7 @@
     "personnel": [
       {
         "name": "Ronnie Foster",
-        "instrument": "Hammond B3 Organ"
+        "instrument": "Organ"
       },
       {
         "name": "Mike O’Neill",
@@ -1652,16 +1714,20 @@
     },
     "personnel": [
       {
-        "name": "BRYAN HEAD",
+        "name": "Bryan Head",
         "instrument": "Drums"
       },
       {
-        "name": "SAM BOLLE",
+        "name": "Sam Bolle",
         "instrument": "Bass"
       },
       {
-        "name": "PHILIP SAYCE",
-        "instrument": "Guitar, Vocals"
+        "name": "Philip Sayce",
+        "instrument": "Guitar"
+      },
+      {
+        "name": "Philip Sayce",
+        "instrument": "Vocals"
       }
     ],
     "priceRange": "$45",
@@ -1710,7 +1776,11 @@
       },
       {
         "name": "Josh Smith",
-        "instrument": "Guitar, Vocals"
+        "instrument": "Guitar"
+      },
+      {
+        "name": "Josh Smith",
+        "instrument": "Vocals"
       }
     ],
     "priceRange": "$30",
@@ -1726,15 +1796,15 @@
     },
     "personnel": [
       {
-        "name": "MATT ROHDE",
+        "name": "Matt Rohde",
         "instrument": "Keyboards"
       },
       {
-        "name": "JORGEN CARLSSON",
+        "name": "Jorgen Carlsson",
         "instrument": "Bass"
       },
       {
-        "name": "LYLE WORKMAN",
+        "name": "Lyle Workman",
         "instrument": "Guitar"
       }
     ],
@@ -1780,23 +1850,23 @@
     },
     "personnel": [
       {
-        "name": "GRANT GEISSMAN",
+        "name": "Grant Geissman",
         "instrument": "Guitar"
       },
       {
-        "name": "MITCH FORMAN",
+        "name": "Mitch Forman",
         "instrument": "Keyboards"
       },
       {
-        "name": "CHRIS COLANGELO",
+        "name": "Chris Colangelo",
         "instrument": "Bass"
       },
       {
-        "name": "GARY NOVAK",
+        "name": "Gary Novak",
         "instrument": "Drums"
       },
       {
-        "name": "TOM SCOTT",
+        "name": "Tom Scott",
         "instrument": "Saxophone"
       }
     ],
@@ -1813,23 +1883,23 @@
     },
     "personnel": [
       {
-        "name": "GRANT GEISSMAN",
+        "name": "Grant Geissman",
         "instrument": "Guitar"
       },
       {
-        "name": "MITCH FORMAN",
+        "name": "Mitch Forman",
         "instrument": "Keyboards"
       },
       {
-        "name": "CHRIS COLANGELO",
+        "name": "Chris Colangelo",
         "instrument": "Bass"
       },
       {
-        "name": "GARY NOVAK",
+        "name": "Gary Novak",
         "instrument": "Drums"
       },
       {
-        "name": "TOM SCOTT",
+        "name": "Tom Scott",
         "instrument": "Saxophone"
       }
     ],
@@ -1854,7 +1924,7 @@
         "instrument": "Keyboards"
       },
       {
-        "name": "H Chris Roy",
+        "name": "Chris Roy",
         "instrument": "Bass"
       },
       {
@@ -1879,6 +1949,30 @@
     },
     "personnel": [],
     "priceRange": "$25",
+    "ticketLink": "https://www.thebakedpotato.com/events-calendar/"
+  },
+  {
+    "date": "2026-05-19",
+    "time": "8:00 PM",
+    "artist": "TBA",
+    "venue": {
+      "name": "The Baked Potato",
+      "address": "3787 Cahuenga Blvd, Studio City, CA 91604"
+    },
+    "personnel": [],
+    "priceRange": "$25",
+    "ticketLink": "https://www.thebakedpotato.com/events-calendar/"
+  },
+  {
+    "date": "2026-05-20",
+    "time": "8:00 PM",
+    "artist": "TBA",
+    "venue": {
+      "name": "The Baked Potato",
+      "address": "3787 Cahuenga Blvd, Studio City, CA 91604"
+    },
+    "personnel": [],
+    "priceRange": "$20",
     "ticketLink": "https://www.thebakedpotato.com/events-calendar/"
   }
 ]
