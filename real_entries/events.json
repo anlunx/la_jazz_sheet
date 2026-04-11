@@ -1,1 +1,2422 @@
-[]
+[
+  {
+    "date": "2026-04-11",
+    "time": "08:00 PM",
+    "artist": "MICHAEL LANDAU",
+    "venue": {
+      "name": "The Baked Potato",
+      "address": "3787 Cahuenga Blvd, Studio City, CA 91604"
+    },
+    "personnel": [
+      {
+        "name": "Keith Carlock",
+        "instrument": "Drums"
+      },
+      {
+        "name": "Tim Lefebvre",
+        "instrument": "Bass"
+      },
+      {
+        "name": "Michael Landau",
+        "instrument": "Guitar"
+      }
+    ],
+    "priceRange": "$45",
+    "ticketLink": "https://www.thebakedpotato.com/events-calendar/"
+  },
+  {
+    "date": "2026-04-11",
+    "time": "7:30 PM",
+    "artist": "Aubrey Situmorang",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Aubrey Situmorang",
+        "instrument": "Bass"
+      },
+      {
+        "name": "Tristan Cappel",
+        "instrument": "unknown"
+      },
+      {
+        "name": "Keelan Walters",
+        "instrument": "unknown"
+      },
+      {
+        "name": "Adam Hersh",
+        "instrument": "unknown"
+      },
+      {
+        "name": "Jordan Proffer",
+        "instrument": "unknown"
+      }
+    ],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-04-11",
+    "time": "9:30 PM",
+    "artist": "Aubrey Situmorang",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Aubrey Situmorang",
+        "instrument": "Bass"
+      },
+      {
+        "name": "Tristan Cappel",
+        "instrument": "unknown"
+      },
+      {
+        "name": "Keelan Walters",
+        "instrument": "unknown"
+      },
+      {
+        "name": "Adam Hersh",
+        "instrument": "unknown"
+      },
+      {
+        "name": "Jordan Proffer",
+        "instrument": "unknown"
+      }
+    ],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-04-12",
+    "time": "08:00 PM",
+    "artist": "Hazy Jane",
+    "venue": {
+      "name": "The Baked Potato",
+      "address": "3787 Cahuenga Blvd, Studio City, CA 91604"
+    },
+    "personnel": [
+      {
+        "name": "Karen Landau",
+        "instrument": "Vocals/Guitar"
+      },
+      {
+        "name": "Michael Landau",
+        "instrument": "Guitar"
+      }
+    ],
+    "priceRange": "$25",
+    "ticketLink": "https://www.thebakedpotato.com/events-calendar/"
+  },
+  {
+    "date": "2026-04-13",
+    "time": "08:00 PM",
+    "artist": "SWINGIN’ at the SPUD",
+    "venue": {
+      "name": "The Baked Potato",
+      "address": "3787 Cahuenga Blvd, Studio City, CA 91604"
+    },
+    "personnel": [
+      {
+        "name": "Graham Dechter",
+        "instrument": "Guitar"
+      },
+      {
+        "name": "Alex Frank",
+        "instrument": "Upright Bass"
+      },
+      {
+        "name": "Tamir Hendelman",
+        "instrument": "Fender Rhoads"
+      },
+      {
+        "name": "Ryan Shaw",
+        "instrument": "Drums"
+      },
+      {
+        "name": "Veronica Swift",
+        "instrument": "Vocals"
+      }
+    ],
+    "priceRange": "$25",
+    "ticketLink": "https://www.thebakedpotato.com/events-calendar/"
+  },
+  {
+    "date": "2026-04-14",
+    "time": "06:30 PM",
+    "artist": "SHOWCASE",
+    "venue": {
+      "name": "The Baked Potato",
+      "address": "3787 Cahuenga Blvd, Studio City, CA 91604"
+    },
+    "personnel": [
+      {
+        "name": "Jack Vislay",
+        "instrument": "Drums"
+      },
+      {
+        "name": "Josh Ponce De Leon",
+        "instrument": "Lead Guitar"
+      },
+      {
+        "name": "Christian Clemente",
+        "instrument": "Rhythm Guitar"
+      },
+      {
+        "name": "Lucian Sorian",
+        "instrument": "Bass Guitar"
+      },
+      {
+        "name": "Dustin Boyer",
+        "instrument": "Guitar"
+      },
+      {
+        "name": "Michael Landau",
+        "instrument": "Guitar"
+      },
+      {
+        "name": "Justin Randi",
+        "instrument": "Guitar/Vocals"
+      },
+      {
+        "name": "Don Randi",
+        "instrument": "Keys"
+      },
+      {
+        "name": "Rico Belled",
+        "instrument": "Bass"
+      },
+      {
+        "name": "Miles Robinson",
+        "instrument": "Drums"
+      },
+      {
+        "name": "Yoyoka",
+        "instrument": "Drums"
+      },
+      {
+        "name": "Ben Torres",
+        "instrument": "Saxophone"
+      },
+      {
+        "name": "Hristo Vitchev",
+        "instrument": "Guitar"
+      },
+      {
+        "name": "Murray Low",
+        "instrument": "Keys"
+      },
+      {
+        "name": "Shido Soma",
+        "instrument": "Guitar"
+      }
+    ],
+    "priceRange": "$15",
+    "ticketLink": "https://www.thebakedpotato.com/events-calendar/"
+  },
+  {
+    "date": "2026-04-14",
+    "time": "7:30 PM",
+    "artist": "The Herbie Hancock Institute of Jazz Performance Ensemble",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-04-14",
+    "time": "9:30 PM",
+    "artist": "Jam Session hosted by The Herbie Hancock Institute of Jazz Performance Ensemble",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-04-15",
+    "time": "08:00 PM",
+    "artist": "CHARLES RUGGIERO plays MONK",
+    "venue": {
+      "name": "The Baked Potato",
+      "address": "3787 Cahuenga Blvd, Studio City, CA 91604"
+    },
+    "personnel": [
+      {
+        "name": "Bob Reynolds",
+        "instrument": "Saxophone"
+      },
+      {
+        "name": "Mike Gurrola",
+        "instrument": "Upright Bass"
+      },
+      {
+        "name": "Charles Ruggiero",
+        "instrument": "Drums"
+      }
+    ],
+    "priceRange": "$20",
+    "ticketLink": "https://www.thebakedpotato.com/events-calendar/"
+  },
+  {
+    "date": "2026-04-15",
+    "time": "7:30 PM",
+    "artist": "Sam Hirsh Quartet",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Sam Hirsh",
+        "instrument": "Piano"
+      },
+      {
+        "name": "Nicole McCabe",
+        "instrument": "Saxophone"
+      },
+      {
+        "name": "Luca Alemanno",
+        "instrument": "Bass"
+      },
+      {
+        "name": "John Davis",
+        "instrument": "Drums"
+      }
+    ],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-04-15",
+    "time": "9:30 PM",
+    "artist": "Sam Hirsh Quartet",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Sam Hirsh",
+        "instrument": "Piano"
+      },
+      {
+        "name": "Nicole McCabe",
+        "instrument": "Saxophone"
+      },
+      {
+        "name": "Luca Alemanno",
+        "instrument": "Bass"
+      },
+      {
+        "name": "John Davis",
+        "instrument": "Drums"
+      }
+    ],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-04-16",
+    "time": "08:00 PM",
+    "artist": "NUTTY",
+    "venue": {
+      "name": "The Baked Potato",
+      "address": "3787 Cahuenga Blvd, Studio City, CA 91604"
+    },
+    "personnel": [
+      {
+        "name": "Sonny Moon",
+        "instrument": "Voice/Arrangements"
+      },
+      {
+        "name": "Guy Wonder",
+        "instrument": "Bass/Arrangements"
+      },
+      {
+        "name": "Dan Spector",
+        "instrument": "Keyboards"
+      },
+      {
+        "name": "Sean O'Kelley",
+        "instrument": "Tenor/Alto Saxes, Flute"
+      },
+      {
+        "name": "Jacob Scesney",
+        "instrument": "Baritone Sax, Flute"
+      },
+      {
+        "name": "Chad Willis",
+        "instrument": "Trumpet"
+      },
+      {
+        "name": "Abdullah Ebrahim",
+        "instrument": "Trombone"
+      },
+      {
+        "name": "Dave Tull",
+        "instrument": "Drums"
+      },
+      {
+        "name": "Scott Breadman",
+        "instrument": "Percussion"
+      }
+    ],
+    "priceRange": "$35",
+    "ticketLink": "https://www.thebakedpotato.com/events-calendar/"
+  },
+  {
+    "date": "2026-04-16",
+    "time": "7:30 PM",
+    "artist": "Aaron Shaw/Devin Daniels Quintet",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Aaron Shaw",
+        "instrument": "Saxophone"
+      },
+      {
+        "name": "Devin Daniels",
+        "instrument": "Saxophone"
+      }
+    ],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-04-16",
+    "time": "9:30 PM",
+    "artist": "Aaron Shaw/Devin Daniels Quintet",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Aaron Shaw",
+        "instrument": "Saxophone"
+      },
+      {
+        "name": "Devin Daniels",
+        "instrument": "Saxophone"
+      }
+    ],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-04-17",
+    "time": "08:00 PM",
+    "artist": "NIKI HARIS Blue Jeans. Baked Potato’s and Birthday Bash with the Mitch Forman Allstars",
+    "venue": {
+      "name": "The Baked Potato",
+      "address": "3787 Cahuenga Blvd, Studio City, CA 91604"
+    },
+    "personnel": [
+      {
+        "name": "Niki Haris",
+        "instrument": "Vocals"
+      },
+      {
+        "name": "Chad Wackerman",
+        "instrument": "Drums"
+      },
+      {
+        "name": "Jimmy Earl",
+        "instrument": "Bass"
+      },
+      {
+        "name": "Andrew Synowiec",
+        "instrument": "Guitar"
+      },
+      {
+        "name": "Lenny Castro",
+        "instrument": "Percussion"
+      },
+      {
+        "name": "Brandon Fields",
+        "instrument": "Saxophone"
+      },
+      {
+        "name": "Mitch Forman",
+        "instrument": "Keys"
+      }
+    ],
+    "priceRange": "$55",
+    "ticketLink": "https://www.thebakedpotato.com/events-calendar/"
+  },
+  {
+    "date": "2026-04-17",
+    "time": "7:30 PM",
+    "artist": "Larry Koonse and David Roitstein",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Larry Koonse",
+        "instrument": "Guitar"
+      },
+      {
+        "name": "David Roitstein",
+        "instrument": "Piano"
+      }
+    ],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-04-17",
+    "time": "9:30 PM",
+    "artist": "Larry Koonse and David Roitstein",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Larry Koonse",
+        "instrument": "Guitar"
+      },
+      {
+        "name": "David Roitstein",
+        "instrument": "Piano"
+      }
+    ],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-04-18",
+    "time": "08:00 PM",
+    "artist": "CARL VERHEYEN BAND",
+    "venue": {
+      "name": "The Baked Potato",
+      "address": "3787 Cahuenga Blvd, Studio City, CA 91604"
+    },
+    "personnel": [
+      {
+        "name": "Carl Verheyen",
+        "instrument": "Guitar/Vocals"
+      },
+      {
+        "name": "John Mader",
+        "instrument": "Drums"
+      },
+      {
+        "name": "Federico Orlandini",
+        "instrument": "Bass"
+      },
+      {
+        "name": "Troy Dexter",
+        "instrument": "Keys/Vocals"
+      },
+      {
+        "name": "Hollye Dexter",
+        "instrument": "Vocals"
+      }
+    ],
+    "priceRange": "$35",
+    "ticketLink": "https://www.thebakedpotato.com/events-calendar/"
+  },
+  {
+    "date": "2026-04-18",
+    "time": "7:30 PM",
+    "artist": "Janek Gwizdala Trio",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Janek Gwizdala",
+        "instrument": "Bass"
+      },
+      {
+        "name": "Peter Erskine",
+        "instrument": "Drums"
+      },
+      {
+        "name": "Nir Felder",
+        "instrument": "Guitar"
+      }
+    ],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-04-18",
+    "time": "9:30 PM",
+    "artist": "Janek Gwizdala Trio",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Janek Gwizdala",
+        "instrument": "Bass"
+      },
+      {
+        "name": "Peter Erskine",
+        "instrument": "Drums"
+      },
+      {
+        "name": "Nir Felder",
+        "instrument": "Guitar"
+      }
+    ],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-04-19",
+    "time": "08:00 PM",
+    "artist": "JASON HARNELL QUARTET",
+    "venue": {
+      "name": "The Baked Potato",
+      "address": "3787 Cahuenga Blvd, Studio City, CA 91604"
+    },
+    "personnel": [
+      {
+        "name": "Matt Otto",
+        "instrument": "Saxophone"
+      },
+      {
+        "name": "Larry Koonse",
+        "instrument": "Guitar"
+      },
+      {
+        "name": "Chris Colangelo",
+        "instrument": "Acoustic Bass"
+      },
+      {
+        "name": "Jason Harnell",
+        "instrument": "Drums/Vocals"
+      }
+    ],
+    "priceRange": "$20",
+    "ticketLink": "https://www.thebakedpotato.com/events-calendar/"
+  },
+  {
+    "date": "2026-04-20",
+    "time": "08:00 PM",
+    "artist": "ANDY PRADO and the SQUAD",
+    "venue": {
+      "name": "The Baked Potato",
+      "address": "3787 Cahuenga Blvd, Studio City, CA 91604"
+    },
+    "personnel": [
+      {
+        "name": "Anthony Crawford",
+        "instrument": "Bass"
+      },
+      {
+        "name": "Max Haymer",
+        "instrument": "Keys"
+      },
+      {
+        "name": "Ollie Lopez",
+        "instrument": "Percussion"
+      },
+      {
+        "name": "Alonzo Demetrius",
+        "instrument": "Trumpet"
+      },
+      {
+        "name": "Jacob Scesney",
+        "instrument": "Saxophone"
+      }
+    ],
+    "priceRange": "$20",
+    "ticketLink": "https://www.thebakedpotato.com/events-calendar/"
+  },
+  {
+    "date": "2026-04-21",
+    "time": "08:00 PM",
+    "artist": "EMIR ISILAY & Friends",
+    "venue": {
+      "name": "The Baked Potato",
+      "address": "3787 Cahuenga Blvd, Studio City, CA 91604"
+    },
+    "personnel": [
+      {
+        "name": "Emir Isilay",
+        "instrument": "Keys"
+      },
+      {
+        "name": "Katja Koren",
+        "instrument": "Vocals"
+      },
+      {
+        "name": "Carrah Lydia Stamatakis",
+        "instrument": "Vocals"
+      },
+      {
+        "name": "Brandon Fields",
+        "instrument": "Sax"
+      },
+      {
+        "name": "Alex Sill",
+        "instrument": "Guitar"
+      },
+      {
+        "name": "Sezin Ahmet Turkmenoglu",
+        "instrument": "Bass"
+      },
+      {
+        "name": "Joel Taylor",
+        "instrument": "Drums"
+      }
+    ],
+    "priceRange": "$25",
+    "ticketLink": "https://www.thebakedpotato.com/events-calendar/"
+  },
+  {
+    "date": "2026-04-21",
+    "time": "7:30 PM",
+    "artist": "Gerald Clayton Trio",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Gerald Clayton",
+        "instrument": "Piano"
+      },
+      {
+        "name": "Joe Sanders",
+        "instrument": "Bass"
+      },
+      {
+        "name": "Justin Brown",
+        "instrument": "Drums"
+      }
+    ],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-04-21",
+    "time": "9:30 PM",
+    "artist": "Gerald Clayton Trio",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Gerald Clayton",
+        "instrument": "Piano"
+      },
+      {
+        "name": "Joe Sanders",
+        "instrument": "Bass"
+      },
+      {
+        "name": "Justin Brown",
+        "instrument": "Drums"
+      }
+    ],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-04-22",
+    "time": "08:00 PM",
+    "artist": "The ELECTRIC JAZZ QUARTET",
+    "venue": {
+      "name": "The Baked Potato",
+      "address": "3787 Cahuenga Blvd, Studio City, CA 91604"
+    },
+    "personnel": [
+      {
+        "name": "Richard Smith",
+        "instrument": "Guitar"
+      },
+      {
+        "name": "Nick Milo",
+        "instrument": "Keys"
+      },
+      {
+        "name": "Justin Apergis",
+        "instrument": "Bass"
+      },
+      {
+        "name": "Gary Greenberg",
+        "instrument": "Drums"
+      },
+      {
+        "name": "Dan Gilbert",
+        "instrument": "Guitar"
+      }
+    ],
+    "priceRange": "$25",
+    "ticketLink": "https://www.thebakedpotato.com/events-calendar/"
+  },
+  {
+    "date": "2026-04-22",
+    "time": "7:30 PM",
+    "artist": "Gerald Clayton Trio",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Gerald Clayton",
+        "instrument": "Piano"
+      },
+      {
+        "name": "Joe Sanders",
+        "instrument": "Bass"
+      },
+      {
+        "name": "Justin Brown",
+        "instrument": "Drums"
+      }
+    ],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-04-22",
+    "time": "9:30 PM",
+    "artist": "Gerald Clayton Trio",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Gerald Clayton",
+        "instrument": "Piano"
+      },
+      {
+        "name": "Joe Sanders",
+        "instrument": "Bass"
+      },
+      {
+        "name": "Justin Brown",
+        "instrument": "Drums"
+      }
+    ],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-04-23",
+    "time": "08:00 PM",
+    "artist": "HERMAN JACKSON GROUP",
+    "venue": {
+      "name": "The Baked Potato",
+      "address": "3787 Cahuenga Blvd, Studio City, CA 91604"
+    },
+    "personnel": [],
+    "priceRange": "$30",
+    "ticketLink": "https://www.thebakedpotato.com/events-calendar/"
+  },
+  {
+    "date": "2026-04-23",
+    "time": "7:00 PM",
+    "artist": "Luther S. Allison Trio",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Luther S. Allison",
+        "instrument": "Piano"
+      },
+      {
+        "name": "Emiliano Lasansky",
+        "instrument": "Bass"
+      },
+      {
+        "name": "Myles Martin",
+        "instrument": "Drums"
+      }
+    ],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-04-23",
+    "time": "9:00 PM",
+    "artist": "Luther S. Allison Trio",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Luther S. Allison",
+        "instrument": "Piano"
+      },
+      {
+        "name": "Emiliano Lasansky",
+        "instrument": "Bass"
+      },
+      {
+        "name": "Myles Martin",
+        "instrument": "Drums"
+      }
+    ],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-04-24",
+    "time": "08:00 PM",
+    "artist": "The LAO TIZER Band",
+    "venue": {
+      "name": "The Baked Potato",
+      "address": "3787 Cahuenga Blvd, Studio City, CA 91604"
+    },
+    "personnel": [
+      {
+        "name": "Elliott Yamin",
+        "instrument": "Vocals"
+      },
+      {
+        "name": "Anthony Crawford",
+        "instrument": "Bass"
+      },
+      {
+        "name": "Danny Janklow",
+        "instrument": "Sax/Flute"
+      },
+      {
+        "name": "Tony Austin",
+        "instrument": "Drums"
+      },
+      {
+        "name": "Munyungo Jackson",
+        "instrument": "Percussion"
+      },
+      {
+        "name": "Lao Tizer",
+        "instrument": "Keys"
+      }
+    ],
+    "priceRange": "$40",
+    "ticketLink": "https://www.thebakedpotato.com/events-calendar/"
+  },
+  {
+    "date": "2026-04-24",
+    "time": "7:30 PM",
+    "artist": "Becca Stevens Trio",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Becca Stevens",
+        "instrument": "Vocals, Guitar"
+      },
+      {
+        "name": "Chris Tordini",
+        "instrument": "Bass"
+      },
+      {
+        "name": "Jordan Perlson",
+        "instrument": "Drums"
+      }
+    ],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-04-24",
+    "time": "9:30 PM",
+    "artist": "Becca Stevens Trio",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Becca Stevens",
+        "instrument": "Vocals, Guitar"
+      },
+      {
+        "name": "Chris Tordini",
+        "instrument": "Bass"
+      },
+      {
+        "name": "Jordan Perlson",
+        "instrument": "Drums"
+      }
+    ],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-04-25",
+    "time": "08:00 PM",
+    "artist": "Don Randi & Quest",
+    "venue": {
+      "name": "The Baked Potato",
+      "address": "3787 Cahuenga Blvd, Studio City, CA 91604"
+    },
+    "personnel": [
+      {
+        "name": "Don Randi",
+        "instrument": "Keyboards"
+      },
+      {
+        "name": "Jonathan Dresel",
+        "instrument": "Drums"
+      },
+      {
+        "name": "Jerry Watts Jr.",
+        "instrument": "Bass"
+      },
+      {
+        "name": "Jon De Patie",
+        "instrument": "Guitar"
+      },
+      {
+        "name": "Peter Korpela",
+        "instrument": "Percussion"
+      }
+    ],
+    "priceRange": "$35",
+    "ticketLink": "https://www.thebakedpotato.com/events-calendar/"
+  },
+  {
+    "date": "2026-04-25",
+    "time": "7:30 PM",
+    "artist": "Becca Stevens Trio",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Becca Stevens",
+        "instrument": "Vocals, Guitar"
+      },
+      {
+        "name": "Chris Tordini",
+        "instrument": "Bass"
+      },
+      {
+        "name": "Jordan Perlson",
+        "instrument": "Drums"
+      }
+    ],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-04-25",
+    "time": "9:30 PM",
+    "artist": "Becca Stevens Trio",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Becca Stevens",
+        "instrument": "Vocals, Guitar"
+      },
+      {
+        "name": "Chris Tordini",
+        "instrument": "Bass"
+      },
+      {
+        "name": "Jordan Perlson",
+        "instrument": "Drums"
+      }
+    ],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-04-26",
+    "time": "08:00 PM",
+    "artist": "DENNIS JONES",
+    "venue": {
+      "name": "The Baked Potato",
+      "address": "3787 Cahuenga Blvd, Studio City, CA 91604"
+    },
+    "personnel": [
+      {
+        "name": "Raymond Johnson",
+        "instrument": "Drums"
+      },
+      {
+        "name": "Rob McDonald",
+        "instrument": "Bass Guitar"
+      },
+      {
+        "name": "Dennis Jones",
+        "instrument": "Guitar/Vocals"
+      }
+    ],
+    "priceRange": "$20",
+    "ticketLink": "https://www.thebakedpotato.com/events-calendar/"
+  },
+  {
+    "date": "2026-04-27",
+    "time": "08:00 PM",
+    "artist": "PHAT BACK, EARL & ME!",
+    "venue": {
+      "name": "The Baked Potato",
+      "address": "3787 Cahuenga Blvd, Studio City, CA 91604"
+    },
+    "personnel": [
+      {
+        "name": "Sean Holt",
+        "instrument": "Vocals/Sax"
+      },
+      {
+        "name": "Gia Ciambotti",
+        "instrument": "Vocals"
+      },
+      {
+        "name": "Doug Petty",
+        "instrument": "Keys"
+      },
+      {
+        "name": "Jervonny Collier",
+        "instrument": "Bass"
+      },
+      {
+        "name": "John Schroeder",
+        "instrument": "Guitar"
+      },
+      {
+        "name": "Bill Churchville",
+        "instrument": "Trumpet"
+      },
+      {
+        "name": "Ed Wynne",
+        "instrument": "Sax"
+      },
+      {
+        "name": "Justin Kirk",
+        "instrument": "Trombone"
+      },
+      {
+        "name": "Herman Matthews",
+        "instrument": "Drums"
+      }
+    ],
+    "priceRange": "$25",
+    "ticketLink": "https://www.thebakedpotato.com/events-calendar/"
+  },
+  {
+    "date": "2026-04-28",
+    "time": "08:00 PM",
+    "artist": "The WEBB ALLSTARS",
+    "venue": {
+      "name": "The Baked Potato",
+      "address": "3787 Cahuenga Blvd, Studio City, CA 91604"
+    },
+    "personnel": [
+      {
+        "name": "Danny Carey",
+        "instrument": "Drums"
+      },
+      {
+        "name": "Doug Webb",
+        "instrument": "Sax"
+      },
+      {
+        "name": "Jimmy Earl",
+        "instrument": "Bass"
+      },
+      {
+        "name": "Mitch Forman",
+        "instrument": "Keys"
+      },
+      {
+        "name": "Jamie Kime",
+        "instrument": "Guitar"
+      }
+    ],
+    "priceRange": "$45",
+    "ticketLink": "https://www.thebakedpotato.com/events-calendar/"
+  },
+  {
+    "date": "2026-04-28",
+    "time": "7:30 PM",
+    "artist": "Devin Daniels",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Devin Daniels",
+        "instrument": "Saxophone"
+      }
+    ],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-04-28",
+    "time": "9:30 PM",
+    "artist": "Jam Session hosted by Devin Daniels",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-04-29",
+    "time": "08:00 PM",
+    "artist": "The WEBB ALLSTARS",
+    "venue": {
+      "name": "The Baked Potato",
+      "address": "3787 Cahuenga Blvd, Studio City, CA 91604"
+    },
+    "personnel": [
+      {
+        "name": "Danny Carey",
+        "instrument": "Drums"
+      },
+      {
+        "name": "Doug Webb",
+        "instrument": "Sax"
+      },
+      {
+        "name": "Jimmy Earl",
+        "instrument": "Bass"
+      },
+      {
+        "name": "Mitch Forman",
+        "instrument": "Keys"
+      },
+      {
+        "name": "Jamie Kime",
+        "instrument": "Guitar"
+      }
+    ],
+    "priceRange": "$45",
+    "ticketLink": "https://www.thebakedpotato.com/events-calendar/"
+  },
+  {
+    "date": "2026-04-29",
+    "time": "7:30 PM",
+    "artist": "College Night at Sam First: CalArts dir. Anthony Wilson & USC Thornton Honors Combo dir. Jon Hatamiya",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-04-29",
+    "time": "9:30 PM",
+    "artist": "College Night at Sam First: CalArts dir. Anthony Wilson & USC Thornton Honors Combo dir. Jon Hatamiya",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-04-30",
+    "time": "08:00 PM",
+    "artist": "ANDREW SYNOWIEC GROUP",
+    "venue": {
+      "name": "The Baked Potato",
+      "address": "3787 Cahuenga Blvd, Studio City, CA 91604"
+    },
+    "personnel": [],
+    "priceRange": "$30",
+    "ticketLink": "https://www.thebakedpotato.com/events-calendar/"
+  },
+  {
+    "date": "2026-04-30",
+    "time": "7:30 PM",
+    "artist": "Dafnis Prieto Sí o Sí Quartet",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Dafnis Prieto",
+        "instrument": "Drums"
+      },
+      {
+        "name": "Peter Apfelbaum",
+        "instrument": "Saxophone"
+      },
+      {
+        "name": "Martin Bejerano",
+        "instrument": "Piano"
+      },
+      {
+        "name": "Raúl Reyes",
+        "instrument": "Bass"
+      }
+    ],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-04-30",
+    "time": "9:30 PM",
+    "artist": "Dafnis Prieto Sí o Sí Quartet",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Dafnis Prieto",
+        "instrument": "Drums"
+      },
+      {
+        "name": "Peter Apfelbaum",
+        "instrument": "Saxophone"
+      },
+      {
+        "name": "Martin Bejerano",
+        "instrument": "Piano"
+      },
+      {
+        "name": "Raúl Reyes",
+        "instrument": "Bass"
+      }
+    ],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-05-01",
+    "time": "08:00 PM",
+    "artist": "STU HAMM BAND",
+    "venue": {
+      "name": "The Baked Potato",
+      "address": "3787 Cahuenga Blvd, Studio City, CA 91604"
+    },
+    "personnel": [
+      {
+        "name": "Stu Hamm",
+        "instrument": "Bass"
+      },
+      {
+        "name": "Alex Skolnick",
+        "instrument": "Guitar"
+      },
+      {
+        "name": "Matt Rohde",
+        "instrument": "Keys"
+      },
+      {
+        "name": "Joel Taylor",
+        "instrument": "Drums"
+      }
+    ],
+    "priceRange": "$35",
+    "ticketLink": "https://www.thebakedpotato.com/events-calendar/"
+  },
+  {
+    "date": "2026-05-01",
+    "time": "7:30 PM",
+    "artist": "Melissa Morgan Quartet",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Melissa Morgan",
+        "instrument": "Vocals"
+      },
+      {
+        "name": "Sam Hirsh",
+        "instrument": "Piano"
+      },
+      {
+        "name": "Dan Chmielinski",
+        "instrument": "Bass"
+      },
+      {
+        "name": "Mark Ferber",
+        "instrument": "Drums"
+      }
+    ],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-05-01",
+    "time": "9:30 PM",
+    "artist": "Melissa Morgan Quartet",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Melissa Morgan",
+        "instrument": "Vocals"
+      },
+      {
+        "name": "Sam Hirsh",
+        "instrument": "Piano"
+      },
+      {
+        "name": "Dan Chmielinski",
+        "instrument": "Bass"
+      },
+      {
+        "name": "Mark Ferber",
+        "instrument": "Drums"
+      }
+    ],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-05-02",
+    "time": "08:00 PM",
+    "artist": "THOM ROTELLA and the SAY HEY HORNS",
+    "venue": {
+      "name": "The Baked Potato",
+      "address": "3787 Cahuenga Blvd, Studio City, CA 91604"
+    },
+    "personnel": [
+      {
+        "name": "Lenny Castro",
+        "instrument": "Percussion"
+      },
+      {
+        "name": "Ernest Tibbs",
+        "instrument": "Bass"
+      },
+      {
+        "name": "Chad Wright",
+        "instrument": "Drums"
+      },
+      {
+        "name": "Kevin Flournoy",
+        "instrument": "Keyboard"
+      },
+      {
+        "name": "Scott Bell",
+        "instrument": "Trumpet"
+      },
+      {
+        "name": "Tom Leur",
+        "instrument": "Saxophone"
+      },
+      {
+        "name": "Ido Meshulam",
+        "instrument": "Trombone"
+      },
+      {
+        "name": "Thom Rotella",
+        "instrument": "Guitar"
+      }
+    ],
+    "priceRange": "$35",
+    "ticketLink": "https://www.thebakedpotato.com/events-calendar/"
+  },
+  {
+    "date": "2026-05-03",
+    "time": "08:00 PM",
+    "artist": "PAUL PERESS PROJECT",
+    "venue": {
+      "name": "The Baked Potato",
+      "address": "3787 Cahuenga Blvd, Studio City, CA 91604"
+    },
+    "personnel": [],
+    "priceRange": "$25",
+    "ticketLink": "https://www.thebakedpotato.com/events-calendar/"
+  },
+  {
+    "date": "2026-05-04",
+    "time": "08:00 PM",
+    "artist": "DECHTER / FRANK / SEGIEL / SHAW QUARTET",
+    "venue": {
+      "name": "The Baked Potato",
+      "address": "3787 Cahuenga Blvd, Studio City, CA 91604"
+    },
+    "personnel": [
+      {
+        "name": "Graham Dechter",
+        "instrument": "Guitar"
+      },
+      {
+        "name": "Alex Frank",
+        "instrument": "Upright Bass"
+      },
+      {
+        "name": "Jordon Segiel",
+        "instrument": "Fender Rhoads"
+      },
+      {
+        "name": "Ryan Shaw",
+        "instrument": "Drums"
+      }
+    ],
+    "priceRange": "$25",
+    "ticketLink": "https://www.thebakedpotato.com/events-calendar/"
+  },
+  {
+    "date": "2026-05-05",
+    "time": "08:00 PM",
+    "artist": "JANIS MANN JAZZ",
+    "venue": {
+      "name": "The Baked Potato",
+      "address": "3787 Cahuenga Blvd, Studio City, CA 91604"
+    },
+    "personnel": [],
+    "priceRange": "$25",
+    "ticketLink": "https://www.thebakedpotato.com/events-calendar/"
+  },
+  {
+    "date": "2026-05-05",
+    "time": "7:30 PM",
+    "artist": "Revis Presents Mingus",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Eric Revis",
+        "instrument": "Bass"
+      },
+      {
+        "name": "Teodross Avery",
+        "instrument": "Saxophone"
+      },
+      {
+        "name": "Dan Rosenboom",
+        "instrument": "Trumpet"
+      },
+      {
+        "name": "Joshua White",
+        "instrument": "Piano"
+      },
+      {
+        "name": "Clarence Penn",
+        "instrument": "Drums"
+      }
+    ],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-05-05",
+    "time": "9:30 PM",
+    "artist": "Revis Presents Mingus",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Eric Revis",
+        "instrument": "Bass"
+      },
+      {
+        "name": "Teodross Avery",
+        "instrument": "Saxophone"
+      },
+      {
+        "name": "Dan Rosenboom",
+        "instrument": "Trumpet"
+      },
+      {
+        "name": "Joshua White",
+        "instrument": "Piano"
+      },
+      {
+        "name": "Clarence Penn",
+        "instrument": "Drums"
+      }
+    ],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-05-06",
+    "time": "08:00 PM",
+    "artist": "The KINSEY Sessions",
+    "venue": {
+      "name": "The Baked Potato",
+      "address": "3787 Cahuenga Blvd, Studio City, CA 91604"
+    },
+    "personnel": [
+      {
+        "name": "Scott Kinsey",
+        "instrument": "Keys"
+      }
+    ],
+    "priceRange": "$25",
+    "ticketLink": "https://www.thebakedpotato.com/events-calendar/"
+  },
+  {
+    "date": "2026-05-06",
+    "time": "7:30 PM",
+    "artist": "Michael Orenstein Quartet",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Michael Orenstein",
+        "instrument": "Piano"
+      }
+    ],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-05-06",
+    "time": "9:30 PM",
+    "artist": "Michael Orenstein Quartet",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Michael Orenstein",
+        "instrument": "Piano"
+      }
+    ],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-05-07",
+    "time": "08:00 PM",
+    "artist": "Danny Janklow",
+    "venue": {
+      "name": "The Baked Potato",
+      "address": "3787 Cahuenga Blvd, Studio City, CA 91604"
+    },
+    "personnel": [],
+    "priceRange": "$25",
+    "ticketLink": "https://www.thebakedpotato.com/events-calendar/"
+  },
+  {
+    "date": "2026-05-07",
+    "time": "7:30 PM",
+    "artist": "Alan Ferber Nonet",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Alan Ferber",
+        "instrument": "Trombone"
+      },
+      {
+        "name": "Daniel Rotem",
+        "instrument": "Saxophone"
+      },
+      {
+        "name": "Anthony Wilson",
+        "instrument": "Guitar"
+      },
+      {
+        "name": "Bill Cunliffe",
+        "instrument": "Piano"
+      },
+      {
+        "name": "Mark Ferber",
+        "instrument": "Drums"
+      }
+    ],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-05-07",
+    "time": "9:30 PM",
+    "artist": "Alan Ferber Nonet",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Alan Ferber",
+        "instrument": "Trombone"
+      },
+      {
+        "name": "Daniel Rotem",
+        "instrument": "Saxophone"
+      },
+      {
+        "name": "Anthony Wilson",
+        "instrument": "Guitar"
+      },
+      {
+        "name": "Bill Cunliffe",
+        "instrument": "Piano"
+      },
+      {
+        "name": "Mark Ferber",
+        "instrument": "Drums"
+      }
+    ],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-05-08",
+    "time": "08:00 PM",
+    "artist": "RONNIE FOSTER TRIO",
+    "venue": {
+      "name": "The Baked Potato",
+      "address": "3787 Cahuenga Blvd, Studio City, CA 91604"
+    },
+    "personnel": [
+      {
+        "name": "Ronnie Foster",
+        "instrument": "Hammond B3"
+      },
+      {
+        "name": "Mike O'Neill",
+        "instrument": "Guitar"
+      },
+      {
+        "name": "Chris Foster",
+        "instrument": "Drums"
+      }
+    ],
+    "priceRange": "$35",
+    "ticketLink": "https://www.thebakedpotato.com/events-calendar/"
+  },
+  {
+    "date": "2026-05-09",
+    "time": "08:00 PM",
+    "artist": "PHILIP SAYCE",
+    "venue": {
+      "name": "The Baked Potato",
+      "address": "3787 Cahuenga Blvd, Studio City, CA 91604"
+    },
+    "personnel": [
+      {
+        "name": "Bryan Head",
+        "instrument": "Drums"
+      },
+      {
+        "name": "Sam Bolle",
+        "instrument": "Bass"
+      },
+      {
+        "name": "Philip Sayce",
+        "instrument": "Guitar/Vocals"
+      }
+    ],
+    "priceRange": "$45",
+    "ticketLink": "https://www.thebakedpotato.com/events-calendar/"
+  },
+  {
+    "date": "2026-05-10",
+    "time": "08:00 PM",
+    "artist": "JASON HARNELL QUARTET",
+    "venue": {
+      "name": "The Baked Potato",
+      "address": "3787 Cahuenga Blvd, Studio City, CA 91604"
+    },
+    "personnel": [],
+    "priceRange": "$20",
+    "ticketLink": "https://www.thebakedpotato.com/events-calendar/"
+  },
+  {
+    "date": "2026-05-11",
+    "time": "08:00 PM",
+    "artist": "ADAM HERSH GROUP",
+    "venue": {
+      "name": "The Baked Potato",
+      "address": "3787 Cahuenga Blvd, Studio City, CA 91604"
+    },
+    "personnel": [],
+    "priceRange": "$25",
+    "ticketLink": "https://www.thebakedpotato.com/events-calendar/"
+  },
+  {
+    "date": "2026-05-12",
+    "time": "08:00 PM",
+    "artist": "JOSH SMITH BURNIN’ BLUES",
+    "venue": {
+      "name": "The Baked Potato",
+      "address": "3787 Cahuenga Blvd, Studio City, CA 91604"
+    },
+    "personnel": [
+      {
+        "name": "Travis Carlton",
+        "instrument": "Bass"
+      },
+      {
+        "name": "Lemar Carter",
+        "instrument": "Drums"
+      },
+      {
+        "name": "Josh Smith",
+        "instrument": "Guitar / Vocals"
+      }
+    ],
+    "priceRange": "$30",
+    "ticketLink": "https://www.thebakedpotato.com/events-calendar/"
+  },
+  {
+    "date": "2026-05-13",
+    "time": "08:00 PM",
+    "artist": "LYLE WORKMAN",
+    "venue": {
+      "name": "The Baked Potato",
+      "address": "3787 Cahuenga Blvd, Studio City, CA 91604"
+    },
+    "personnel": [
+      {
+        "name": "Matt Rohde",
+        "instrument": "Keys"
+      },
+      {
+        "name": "Jorgen Carlsson",
+        "instrument": "Bass"
+      },
+      {
+        "name": "Lyle Workman",
+        "instrument": "Guitar"
+      }
+    ],
+    "priceRange": "$25",
+    "ticketLink": "https://www.thebakedpotato.com/events-calendar/"
+  },
+  {
+    "date": "2026-05-14",
+    "time": "08:00 PM",
+    "artist": "BOB REYNOLDS GROUP",
+    "venue": {
+      "name": "The Baked Potato",
+      "address": "3787 Cahuenga Blvd, Studio City, CA 91604"
+    },
+    "personnel": [
+      {
+        "name": "Bob Reynolds",
+        "instrument": "Saxophone"
+      },
+      {
+        "name": "Ruslan Sirota",
+        "instrument": "Keys"
+      },
+      {
+        "name": "Janek Gwizdala",
+        "instrument": "Bass"
+      },
+      {
+        "name": "Gene Coye",
+        "instrument": "Drums"
+      }
+    ],
+    "priceRange": "$25",
+    "ticketLink": "https://www.thebakedpotato.com/events-calendar/"
+  },
+  {
+    "date": "2026-05-15",
+    "time": "08:00 PM",
+    "artist": "TOM SCOTT and the LA EXPRESS",
+    "venue": {
+      "name": "The Baked Potato",
+      "address": "3787 Cahuenga Blvd, Studio City, CA 91604"
+    },
+    "personnel": [
+      {
+        "name": "Grant Geissman",
+        "instrument": "Guitar"
+      },
+      {
+        "name": "Mitch Forman",
+        "instrument": "Keys"
+      },
+      {
+        "name": "Chris Colangelo",
+        "instrument": "Bass"
+      },
+      {
+        "name": "Gary Novak",
+        "instrument": "Drums"
+      },
+      {
+        "name": "Tom Scott",
+        "instrument": "Saxophone"
+      }
+    ],
+    "priceRange": "$40",
+    "ticketLink": "https://www.thebakedpotato.com/events-calendar/"
+  },
+  {
+    "date": "2026-05-16",
+    "time": "08:00 PM",
+    "artist": "TOM SCOTT and the LA EXPRESS",
+    "venue": {
+      "name": "The Baked Potato",
+      "address": "3787 Cahuenga Blvd, Studio City, CA 91604"
+    },
+    "personnel": [
+      {
+        "name": "Grant Geissman",
+        "instrument": "Guitar"
+      },
+      {
+        "name": "Mitch Forman",
+        "instrument": "Keys"
+      },
+      {
+        "name": "Chris Colangelo",
+        "instrument": "Bass"
+      },
+      {
+        "name": "Gary Novak",
+        "instrument": "Drums"
+      },
+      {
+        "name": "Tom Scott",
+        "instrument": "Saxophone"
+      }
+    ],
+    "priceRange": "$40",
+    "ticketLink": "https://www.thebakedpotato.com/events-calendar/"
+  },
+  {
+    "date": "2026-05-17",
+    "time": "08:00 PM",
+    "artist": "JAMIE KIME GROUP",
+    "venue": {
+      "name": "The Baked Potato",
+      "address": "3787 Cahuenga Blvd, Studio City, CA 91604"
+    },
+    "personnel": [
+      {
+        "name": "Danny Carey",
+        "instrument": "Drums"
+      },
+      {
+        "name": "Matt Rohde",
+        "instrument": "Keys"
+      },
+      {
+        "name": "Chris Roy",
+        "instrument": "Bass"
+      },
+      {
+        "name": "Andy Sanesi",
+        "instrument": "Percussion"
+      },
+      {
+        "name": "Jamie Kime",
+        "instrument": "Guitar"
+      }
+    ],
+    "priceRange": "$40",
+    "ticketLink": "https://www.thebakedpotato.com/events-calendar/"
+  },
+  {
+    "date": "2026-05-18",
+    "time": "08:00 PM",
+    "artist": "TBA",
+    "venue": {
+      "name": "The Baked Potato",
+      "address": "3787 Cahuenga Blvd, Studio City, CA 91604"
+    },
+    "personnel": [],
+    "priceRange": "$25",
+    "ticketLink": "https://www.thebakedpotato.com/events-calendar/"
+  },
+  {
+    "date": "2026-05-19",
+    "time": "08:00 PM",
+    "artist": "TBA",
+    "venue": {
+      "name": "The Baked Potato",
+      "address": "3787 Cahuenga Blvd, Studio City, CA 91604"
+    },
+    "personnel": [],
+    "priceRange": "$25",
+    "ticketLink": "https://www.thebakedpotato.com/events-calendar/"
+  },
+  {
+    "date": "2026-05-20",
+    "time": "08:00 PM",
+    "artist": "RUGGIERO QUARTET",
+    "venue": {
+      "name": "The Baked Potato",
+      "address": "3787 Cahuenga Blvd, Studio City, CA 91604"
+    },
+    "personnel": [],
+    "priceRange": "$20",
+    "ticketLink": "https://www.thebakedpotato.com/events-calendar/"
+  },
+  {
+    "date": "2026-05-21",
+    "time": "08:00 PM",
+    "artist": "DEREK FRANK GROUP",
+    "venue": {
+      "name": "The Baked Potato",
+      "address": "3787 Cahuenga Blvd, Studio City, CA 91604"
+    },
+    "personnel": [],
+    "priceRange": "$25",
+    "ticketLink": "https://www.thebakedpotato.com/events-calendar/"
+  },
+  {
+    "date": "2026-05-22",
+    "time": "08:00 PM",
+    "artist": "THE SUPER RETURN OF JOHN DAVERSA BIG BAND",
+    "venue": {
+      "name": "The Baked Potato",
+      "address": "3787 Cahuenga Blvd, Studio City, CA 91604"
+    },
+    "personnel": [
+      {
+        "name": "John Daversa",
+        "instrument": "Conductor, Trumpet, EVI"
+      },
+      {
+        "name": "Jeff Driskill",
+        "instrument": "Saxophone"
+      },
+      {
+        "name": "Phil O’Connor",
+        "instrument": "Saxophone"
+      },
+      {
+        "name": "Sal Lozano",
+        "instrument": "Saxophone"
+      },
+      {
+        "name": "Kristen Edkins",
+        "instrument": "Saxophone"
+      },
+      {
+        "name": "Hitomi Oba",
+        "instrument": "Saxophone"
+      },
+      {
+        "name": "Phil Feather",
+        "instrument": "Saxophone"
+      },
+      {
+        "name": "Chad Willis",
+        "instrument": "Trumpet"
+      },
+      {
+        "name": "Barbara Laronga",
+        "instrument": "Trumpet"
+      },
+      {
+        "name": "Anne King",
+        "instrument": "Trumpet"
+      },
+      {
+        "name": "Tatiana Tate",
+        "instrument": "Trumpet"
+      },
+      {
+        "name": "Charlie Morillas",
+        "instrument": "Trombone"
+      },
+      {
+        "name": "Paul Young",
+        "instrument": "Trombone"
+      },
+      {
+        "name": "Derek Pyle",
+        "instrument": "Trombone"
+      },
+      {
+        "name": "George Thatcher",
+        "instrument": "Trombone"
+      },
+      {
+        "name": "Zane Carney",
+        "instrument": "Guitar"
+      },
+      {
+        "name": "Jerry Watts",
+        "instrument": "Bass"
+      },
+      {
+        "name": "Gene Coye",
+        "instrument": "Drums"
+      }
+    ],
+    "priceRange": "$45",
+    "ticketLink": "https://www.thebakedpotato.com/events-calendar/"
+  },
+  {
+    "date": "2026-05-23",
+    "time": "08:00 PM",
+    "artist": "THE SUPER RETURN OF JOHN DAVERSA BIG BAND",
+    "venue": {
+      "name": "The Baked Potato",
+      "address": "3787 Cahuenga Blvd, Studio City, CA 91604"
+    },
+    "personnel": [
+      {
+        "name": "John Daversa",
+        "instrument": "Conductor, Trumpet, EVI"
+      },
+      {
+        "name": "Jeff Driskill",
+        "instrument": "Saxophone"
+      },
+      {
+        "name": "Phil O’Connor",
+        "instrument": "Saxophone"
+      },
+      {
+        "name": "Sal Lozano",
+        "instrument": "Saxophone"
+      },
+      {
+        "name": "Kristen Edkins",
+        "instrument": "Saxophone"
+      },
+      {
+        "name": "Hitomi Oba",
+        "instrument": "Saxophone"
+      },
+      {
+        "name": "Phil Feather",
+        "instrument": "Saxophone"
+      },
+      {
+        "name": "Chad Willis",
+        "instrument": "Trumpet"
+      },
+      {
+        "name": "Barbara Laronga",
+        "instrument": "Trumpet"
+      },
+      {
+        "name": "Anne King",
+        "instrument": "Trumpet"
+      },
+      {
+        "name": "Tatiana Tate",
+        "instrument": "Trumpet"
+      },
+      {
+        "name": "Charlie Morillas",
+        "instrument": "Trombone"
+      },
+      {
+        "name": "Paul Young",
+        "instrument": "Trombone"
+      },
+      {
+        "name": "Derek Pyle",
+        "instrument": "Trombone"
+      },
+      {
+        "name": "George Thatcher",
+        "instrument": "Trombone"
+      },
+      {
+        "name": "Zane Carney",
+        "instrument": "Guitar"
+      },
+      {
+        "name": "Jerry Watts",
+        "instrument": "Bass"
+      },
+      {
+        "name": "Gene Coye",
+        "instrument": "Drums"
+      }
+    ],
+    "priceRange": "$45",
+    "ticketLink": "https://www.thebakedpotato.com/events-calendar/"
+  },
+  {
+    "date": "2026-05-24",
+    "time": "08:00 PM",
+    "artist": "THE SUPER RETURN OF JOHN DAVERSA BIG BAND",
+    "venue": {
+      "name": "The Baked Potato",
+      "address": "3787 Cahuenga Blvd, Studio City, CA 91604"
+    },
+    "personnel": [
+      {
+        "name": "John Daversa",
+        "instrument": "Conductor, Trumpet, EVI"
+      },
+      {
+        "name": "Jeff Driskill",
+        "instrument": "Saxophone"
+      },
+      {
+        "name": "Phil O’Connor",
+        "instrument": "Saxophone"
+      },
+      {
+        "name": "Sal Lozano",
+        "instrument": "Saxophone"
+      },
+      {
+        "name": "Kristen Edkins",
+        "instrument": "Saxophone"
+      },
+      {
+        "name": "Hitomi Oba",
+        "instrument": "Saxophone"
+      },
+      {
+        "name": "Phil Feather",
+        "instrument": "Saxophone"
+      },
+      {
+        "name": "Chad Willis",
+        "instrument": "Trumpet"
+      },
+      {
+        "name": "Barbara Laronga",
+        "instrument": "Trumpet"
+      },
+      {
+        "name": "Anne King",
+        "instrument": "Trumpet"
+      },
+      {
+        "name": "Tatiana Tate",
+        "instrument": "Trumpet"
+      },
+      {
+        "name": "Charlie Morillas",
+        "instrument": "Trombone"
+      },
+      {
+        "name": "Paul Young",
+        "instrument": "Trombone"
+      },
+      {
+        "name": "Derek Pyle",
+        "instrument": "Trombone"
+      },
+      {
+        "name": "George Thatcher",
+        "instrument": "Trombone"
+      },
+      {
+        "name": "Zane Carney",
+        "instrument": "Guitar"
+      },
+      {
+        "name": "Jerry Watts",
+        "instrument": "Bass"
+      },
+      {
+        "name": "Gene Coye",
+        "instrument": "Drums"
+      }
+    ],
+    "priceRange": "$45",
+    "ticketLink": "https://www.thebakedpotato.com/events-calendar/"
+  },
+  {
+    "date": "2026-05-25",
+    "time": "08:00 PM",
+    "artist": "TBA",
+    "venue": {
+      "name": "The Baked Potato",
+      "address": "3787 Cahuenga Blvd, Studio City, CA 91604"
+    },
+    "personnel": [],
+    "priceRange": "$25",
+    "ticketLink": "https://www.thebakedpotato.com/events-calendar/"
+  },
+  {
+    "date": "2026-05-26",
+    "time": "08:00 PM",
+    "artist": "TBA",
+    "venue": {
+      "name": "The Baked Potato",
+      "address": "3787 Cahuenga Blvd, Studio City, CA 91604"
+    },
+    "personnel": [],
+    "priceRange": "$25",
+    "ticketLink": "https://www.thebakedpotato.com/events-calendar/"
+  },
+  {
+    "date": "2026-05-27",
+    "time": "08:00 PM",
+    "artist": "ANDREW SYNOWIEC GROUP",
+    "venue": {
+      "name": "The Baked Potato",
+      "address": "3787 Cahuenga Blvd, Studio City, CA 91604"
+    },
+    "personnel": [],
+    "priceRange": "$30",
+    "ticketLink": "https://www.thebakedpotato.com/events-calendar/"
+  },
+  {
+    "date": "2026-05-28",
+    "time": "08:00 PM",
+    "artist": "BERNIE DRESEL and the BBB Big Band",
+    "venue": {
+      "name": "The Baked Potato",
+      "address": "3787 Cahuenga Blvd, Studio City, CA 91604"
+    },
+    "personnel": [],
+    "priceRange": "$30",
+    "ticketLink": "https://www.thebakedpotato.com/events-calendar/"
+  },
+  {
+    "date": "2026-05-29",
+    "time": "08:00 PM",
+    "artist": "LUIS CONTE BAND",
+    "venue": {
+      "name": "The Baked Potato",
+      "address": "3787 Cahuenga Blvd, Studio City, CA 91604"
+    },
+    "personnel": [
+      {
+        "name": "Alberto Salas",
+        "instrument": "Keys"
+      },
+      {
+        "name": "Nando Perez",
+        "instrument": "Vocals"
+      },
+      {
+        "name": "David Urquidi",
+        "instrument": "Saxophone"
+      },
+      {
+        "name": "Leider Chapotin",
+        "instrument": "Trumpet"
+      },
+      {
+        "name": "Eddioe Resto",
+        "instrument": "Bass"
+      },
+      {
+        "name": "Kevin Ricard",
+        "instrument": "Percussion"
+      },
+      {
+        "name": "Luis Conte",
+        "instrument": "Percussion & Leader"
+      }
+    ],
+    "priceRange": "$45",
+    "ticketLink": "https://www.thebakedpotato.com/events-calendar/"
+  },
+  {
+    "date": "2026-05-30",
+    "time": "08:00 PM",
+    "artist": "Don Randi & Quest",
+    "venue": {
+      "name": "The Baked Potato",
+      "address": "3787 Cahuenga Blvd, Studio City, CA 91604"
+    },
+    "personnel": [
+      {
+        "name": "Don Randi",
+        "instrument": "Keyboards"
+      },
+      {
+        "name": "Jonathan Dresel",
+        "instrument": "Drums"
+      },
+      {
+        "name": "Jerry Watts Jr.",
+        "instrument": "Bass"
+      },
+      {
+        "name": "Jon De Patie",
+        "instrument": "Guitar"
+      },
+      {
+        "name": "Peter Korpela",
+        "instrument": "Percussion"
+      }
+    ],
+    "priceRange": "$35",
+    "ticketLink": "https://www.thebakedpotato.com/events-calendar/"
+  },
+  {
+    "date": "2026-05-31",
+    "time": "08:00 PM",
+    "artist": "BASIC CABLE",
+    "venue": {
+      "name": "The Baked Potato",
+      "address": "3787 Cahuenga Blvd, Studio City, CA 91604"
+    },
+    "personnel": [
+      {
+        "name": "Jeff Babko",
+        "instrument": "Keys"
+      },
+      {
+        "name": "Zach Danziger",
+        "instrument": "Drums"
+      }
+    ],
+    "priceRange": "$25",
+    "ticketLink": "https://www.thebakedpotato.com/events-calendar/"
+  },
+  {
+    "date": "2026-06-01",
+    "time": "08:00 PM",
+    "artist": "DECHTER / FRANK / SEGIEL / SHAW QUARTET",
+    "venue": {
+      "name": "The Baked Potato",
+      "address": "3787 Cahuenga Blvd, Studio City, CA 91604"
+    },
+    "personnel": [
+      {
+        "name": "Graham Dechter",
+        "instrument": "Guitar"
+      },
+      {
+        "name": "Alex Frank",
+        "instrument": "Upright Bass"
+      },
+      {
+        "name": "Jordon Segiel",
+        "instrument": "Fender Rhoads"
+      },
+      {
+        "name": "Ryan Shaw",
+        "instrument": "Drums"
+      }
+    ],
+    "priceRange": "$25",
+    "ticketLink": "https://www.thebakedpotato.com/events-calendar/"
+  }
+]
