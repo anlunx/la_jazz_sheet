@@ -1,1 +1,464 @@
-[]
+[
+  {
+    "date": "2026-04-25",
+    "time": "7:30 PM",
+    "artist": "Becca Stevens Trio",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Becca Stevens",
+        "instrument": "vocals/multi-instrumentalist"
+      },
+      {
+        "name": "Chris Tordini",
+        "instrument": "bass"
+      },
+      {
+        "name": "Jordan Perlson",
+        "instrument": "drums"
+      }
+    ],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-04-28",
+    "time": "7:30 PM",
+    "artist": "Tuesday Happenings: Hosted by Devin Daniels",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Devin Daniels",
+        "instrument": "saxophone"
+      }
+    ],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-04-29",
+    "time": "7:30 PM",
+    "artist": "College Night: CalArts dir. Anthony Wilson & USC Thornton Honors Combo dir. Jon Hatamiya",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Anthony Wilson",
+        "instrument": "director/guitar"
+      },
+      {
+        "name": "Jon Hatamiya",
+        "instrument": "director/trombone"
+      }
+    ],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-04-30",
+    "time": "7:30 PM",
+    "artist": "Dafnis Prieto Sí o Sí Quartet",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Dafnis Prieto",
+        "instrument": "drums"
+      },
+      {
+        "name": "Peter Apfelbaum",
+        "instrument": "saxophone"
+      },
+      {
+        "name": "Martin Bejerano",
+        "instrument": "piano"
+      },
+      {
+        "name": "Raúl Reyes",
+        "instrument": "bass"
+      }
+    ],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-05-01",
+    "time": "7:30 PM",
+    "artist": "Melissa Morgan Quartet",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Melissa Morgan",
+        "instrument": "vocals"
+      },
+      {
+        "name": "Sam Hirsh",
+        "instrument": "piano"
+      },
+      {
+        "name": "Dan Chmielinski",
+        "instrument": "bass"
+      },
+      {
+        "name": "Christian Euman",
+        "instrument": "drums"
+      }
+    ],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-05-02",
+    "time": "7:30 PM",
+    "artist": "Ralph Moore Quartet",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Ralph Moore",
+        "instrument": "saxophone"
+      }
+    ],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-05-05",
+    "time": "7:30 PM",
+    "artist": "Eric Revis Presents Mingus",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Eric Revis",
+        "instrument": "bass"
+      },
+      {
+        "name": "Teodross Avery",
+        "instrument": "saxophone"
+      },
+      {
+        "name": "Dan Rosenboom",
+        "instrument": "trumpet"
+      },
+      {
+        "name": "Joshua White",
+        "instrument": "piano"
+      },
+      {
+        "name": "Clarence Penn",
+        "instrument": "drums"
+      }
+    ],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-05-06",
+    "time": "7:30 PM",
+    "artist": "Michael Orenstein Quartet",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Michael Orenstein",
+        "instrument": "piano"
+      },
+      {
+        "name": "Barclay Moffitt",
+        "instrument": "saxophone"
+      },
+      {
+        "name": "Jonathan Richards",
+        "instrument": "bass"
+      },
+      {
+        "name": "Dan Schnelle",
+        "instrument": "drums"
+      }
+    ],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-05-07",
+    "time": "7:30 PM",
+    "artist": "Alan Ferber Nonet",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Alan Ferber",
+        "instrument": "trombone"
+      },
+      {
+        "name": "Daniel Rotem",
+        "instrument": "saxophone"
+      },
+      {
+        "name": "Anthony Wilson",
+        "instrument": "guitar"
+      },
+      {
+        "name": "Bill Cunliffe",
+        "instrument": "piano"
+      },
+      {
+        "name": "Mark Ferber",
+        "instrument": "drums"
+      }
+    ],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-05-08",
+    "time": "7:30 PM",
+    "artist": "Josh Nelson and Friends Present: Dave Brubeck’s “Time Out”",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Josh Nelson",
+        "instrument": "piano"
+      }
+    ],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-05-09",
+    "time": "7:30 PM",
+    "artist": "Josh Nelson and Friends Present: Dave Brubeck’s “Time Out”",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Josh Nelson",
+        "instrument": "piano"
+      }
+    ],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-05-12",
+    "time": "7:30 PM",
+    "artist": "Caroline Davis: \"Portals\"",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Caroline Davis",
+        "instrument": "saxophone"
+      },
+      {
+        "name": "Julian Shore",
+        "instrument": "piano"
+      },
+      {
+        "name": "Chris Tordini",
+        "instrument": "bass"
+      },
+      {
+        "name": "Tim Angulo",
+        "instrument": "drums"
+      }
+    ],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-05-14",
+    "time": "7:30 PM",
+    "artist": "Lori Bell Trio",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Lori Bell",
+        "instrument": "flute"
+      },
+      {
+        "name": "Josh Nelson",
+        "instrument": "piano"
+      },
+      {
+        "name": "Luca Alemanno",
+        "instrument": "bass"
+      }
+    ],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-05-15",
+    "time": "7:30 PM",
+    "artist": "Marcello Carelli’s \"Effervescence\"",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Marcello Carelli",
+        "instrument": "drums"
+      },
+      {
+        "name": "John Beasley",
+        "instrument": "piano"
+      },
+      {
+        "name": "Mike Gurrola",
+        "instrument": "bass"
+      }
+    ],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-05-16",
+    "time": "7:30 PM",
+    "artist": "David Weiss Sextet",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "David Weiss",
+        "instrument": "trumpet"
+      },
+      {
+        "name": "Myron Walden",
+        "instrument": "saxophone"
+      },
+      {
+        "name": "Ben Solomon",
+        "instrument": "saxophone"
+      },
+      {
+        "name": "David Bryant",
+        "instrument": "piano"
+      },
+      {
+        "name": "Eric Wheeler",
+        "instrument": "bass"
+      },
+      {
+        "name": "E.J. Strickland",
+        "instrument": "drums"
+      }
+    ],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-05-19",
+    "time": "7:30 PM",
+    "artist": "Tuesday Happenings: Hosted by Gerald Clayton",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Gerald Clayton",
+        "instrument": "piano"
+      }
+    ],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-05-20",
+    "time": "7:30 PM",
+    "artist": "Isaiah Harwood and the Treekeeper",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Isaiah Harwood",
+        "instrument": "piano"
+      },
+      {
+        "name": "Nicole McCabe",
+        "instrument": "saxophone"
+      },
+      {
+        "name": "Julien Knowles",
+        "instrument": "guitar"
+      },
+      {
+        "name": "Logan Kane",
+        "instrument": "bass"
+      },
+      {
+        "name": "Christian Euman",
+        "instrument": "drums"
+      }
+    ],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-05-21",
+    "time": "7:30 PM",
+    "artist": "Karl McComas-Reichl Quartet",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Karl McComas-Reichl",
+        "instrument": "bass"
+      },
+      {
+        "name": "Larry Goldings",
+        "instrument": "piano"
+      },
+      {
+        "name": "Peter Schlamb",
+        "instrument": "vibraphone"
+      },
+      {
+        "name": "Christian Euman",
+        "instrument": "drums"
+      }
+    ],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  }
+]
