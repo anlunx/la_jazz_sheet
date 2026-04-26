@@ -1,33 +1,8 @@
 [
   {
-    "date": "2026-04-25",
-    "time": "7:30 PM",
-    "artist": "Becca Stevens Trio",
-    "venue": {
-      "name": "Sam First",
-      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
-    },
-    "personnel": [
-      {
-        "name": "Becca Stevens",
-        "instrument": "vocals/multi-instrumentalist"
-      },
-      {
-        "name": "Chris Tordini",
-        "instrument": "bass"
-      },
-      {
-        "name": "Jordan Perlson",
-        "instrument": "drums"
-      }
-    ],
-    "priceRange": "$XX",
-    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
-  },
-  {
     "date": "2026-04-28",
     "time": "7:30 PM",
-    "artist": "Tuesday Happenings: Hosted by Devin Daniels",
+    "artist": "Devin Daniels",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -35,7 +10,7 @@
     "personnel": [
       {
         "name": "Devin Daniels",
-        "instrument": "saxophone"
+        "instrument": ""
       }
     ],
     "priceRange": "$XX",
@@ -44,7 +19,7 @@
   {
     "date": "2026-04-29",
     "time": "7:30 PM",
-    "artist": "College Night: CalArts dir. Anthony Wilson & USC Thornton Honors Combo dir. Jon Hatamiya",
+    "artist": "CalArts dir. Anthony Wilson & USC Thornton Honors Combo dir. Jon Hatamiya",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -52,11 +27,11 @@
     "personnel": [
       {
         "name": "Anthony Wilson",
-        "instrument": "director/guitar"
+        "instrument": ""
       },
       {
         "name": "Jon Hatamiya",
-        "instrument": "director/trombone"
+        "instrument": ""
       }
     ],
     "priceRange": "$XX",
@@ -73,19 +48,19 @@
     "personnel": [
       {
         "name": "Dafnis Prieto",
-        "instrument": "drums"
+        "instrument": "Drums"
       },
       {
         "name": "Peter Apfelbaum",
-        "instrument": "saxophone"
+        "instrument": "Saxophone"
       },
       {
         "name": "Martin Bejerano",
-        "instrument": "piano"
+        "instrument": "Piano"
       },
       {
         "name": "Raúl Reyes",
-        "instrument": "bass"
+        "instrument": "Bass"
       }
     ],
     "priceRange": "$XX",
@@ -102,19 +77,19 @@
     "personnel": [
       {
         "name": "Melissa Morgan",
-        "instrument": "vocals"
+        "instrument": "Vocals"
       },
       {
         "name": "Sam Hirsh",
-        "instrument": "piano"
+        "instrument": "Piano"
       },
       {
         "name": "Dan Chmielinski",
-        "instrument": "bass"
+        "instrument": "Bass"
       },
       {
         "name": "Christian Euman",
-        "instrument": "drums"
+        "instrument": "Drums"
       }
     ],
     "priceRange": "$XX",
@@ -131,7 +106,15 @@
     "personnel": [
       {
         "name": "Ralph Moore",
-        "instrument": "saxophone"
+        "instrument": "Saxophone"
+      },
+      {
+        "name": "Eric Scott Reed",
+        "instrument": "Piano"
+      },
+      {
+        "name": "Luca Alemanno",
+        "instrument": "Bass"
       }
     ],
     "priceRange": "$XX",
@@ -140,7 +123,7 @@
   {
     "date": "2026-05-05",
     "time": "7:30 PM",
-    "artist": "Eric Revis Presents Mingus",
+    "artist": "Revis Presents Mingus",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -148,23 +131,23 @@
     "personnel": [
       {
         "name": "Eric Revis",
-        "instrument": "bass"
+        "instrument": "Bass"
       },
       {
         "name": "Teodross Avery",
-        "instrument": "saxophone"
+        "instrument": "Saxophone"
       },
       {
         "name": "Dan Rosenboom",
-        "instrument": "trumpet"
+        "instrument": "Trumpet"
       },
       {
         "name": "Joshua White",
-        "instrument": "piano"
+        "instrument": "Piano"
       },
       {
         "name": "Clarence Penn",
-        "instrument": "drums"
+        "instrument": "Drums"
       }
     ],
     "priceRange": "$XX",
@@ -181,19 +164,19 @@
     "personnel": [
       {
         "name": "Michael Orenstein",
-        "instrument": "piano"
+        "instrument": "Piano"
       },
       {
         "name": "Barclay Moffitt",
-        "instrument": "saxophone"
+        "instrument": "Saxophone"
       },
       {
         "name": "Jonathan Richards",
-        "instrument": "bass"
+        "instrument": "Bass"
       },
       {
         "name": "Dan Schnelle",
-        "instrument": "drums"
+        "instrument": "Drums"
       }
     ],
     "priceRange": "$XX",
@@ -210,23 +193,23 @@
     "personnel": [
       {
         "name": "Alan Ferber",
-        "instrument": "trombone"
+        "instrument": "Trombone"
       },
       {
         "name": "Daniel Rotem",
-        "instrument": "saxophone"
+        "instrument": "Saxophone"
       },
       {
         "name": "Anthony Wilson",
-        "instrument": "guitar"
+        "instrument": "Guitar"
       },
       {
         "name": "Bill Cunliffe",
-        "instrument": "piano"
+        "instrument": "Piano"
       },
       {
         "name": "Mark Ferber",
-        "instrument": "drums"
+        "instrument": "Drums"
       }
     ],
     "priceRange": "$XX",
@@ -243,7 +226,7 @@
     "personnel": [
       {
         "name": "Josh Nelson",
-        "instrument": "piano"
+        "instrument": "Piano"
       }
     ],
     "priceRange": "$XX",
@@ -260,7 +243,7 @@
     "personnel": [
       {
         "name": "Josh Nelson",
-        "instrument": "piano"
+        "instrument": "Piano"
       }
     ],
     "priceRange": "$XX",
@@ -277,19 +260,19 @@
     "personnel": [
       {
         "name": "Caroline Davis",
-        "instrument": "saxophone"
+        "instrument": "Saxophone"
       },
       {
         "name": "Julian Shore",
-        "instrument": "piano"
+        "instrument": "Piano"
       },
       {
         "name": "Chris Tordini",
-        "instrument": "bass"
+        "instrument": "Bass"
       },
       {
         "name": "Tim Angulo",
-        "instrument": "drums"
+        "instrument": "Drums"
       }
     ],
     "priceRange": "$XX",
@@ -306,15 +289,15 @@
     "personnel": [
       {
         "name": "Lori Bell",
-        "instrument": "flute"
+        "instrument": "Flute"
       },
       {
         "name": "Josh Nelson",
-        "instrument": "piano"
+        "instrument": "Piano"
       },
       {
         "name": "Luca Alemanno",
-        "instrument": "bass"
+        "instrument": "Bass"
       }
     ],
     "priceRange": "$XX",
@@ -331,15 +314,15 @@
     "personnel": [
       {
         "name": "Marcello Carelli",
-        "instrument": "drums"
+        "instrument": "Drums"
       },
       {
         "name": "John Beasley",
-        "instrument": "piano"
+        "instrument": "Piano"
       },
       {
         "name": "Mike Gurrola",
-        "instrument": "bass"
+        "instrument": "Bass"
       }
     ],
     "priceRange": "$XX",
@@ -356,27 +339,27 @@
     "personnel": [
       {
         "name": "David Weiss",
-        "instrument": "trumpet"
+        "instrument": "Trumpet"
       },
       {
         "name": "Myron Walden",
-        "instrument": "saxophone"
+        "instrument": "Saxophone"
       },
       {
         "name": "Ben Solomon",
-        "instrument": "saxophone"
+        "instrument": "Saxophone"
       },
       {
         "name": "David Bryant",
-        "instrument": "piano"
+        "instrument": "Piano"
       },
       {
         "name": "Eric Wheeler",
-        "instrument": "bass"
+        "instrument": "Bass"
       },
       {
         "name": "E.J. Strickland",
-        "instrument": "drums"
+        "instrument": "Drums"
       }
     ],
     "priceRange": "$XX",
@@ -385,7 +368,7 @@
   {
     "date": "2026-05-19",
     "time": "7:30 PM",
-    "artist": "Tuesday Happenings: Hosted by Gerald Clayton",
+    "artist": "Gerald Clayton",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -393,7 +376,7 @@
     "personnel": [
       {
         "name": "Gerald Clayton",
-        "instrument": "piano"
+        "instrument": "Piano"
       }
     ],
     "priceRange": "$XX",
@@ -410,23 +393,23 @@
     "personnel": [
       {
         "name": "Isaiah Harwood",
-        "instrument": "piano"
+        "instrument": "Piano"
       },
       {
         "name": "Nicole McCabe",
-        "instrument": "saxophone"
+        "instrument": "Saxophone"
       },
       {
         "name": "Julien Knowles",
-        "instrument": "guitar"
+        "instrument": "Trumpet"
       },
       {
         "name": "Logan Kane",
-        "instrument": "bass"
+        "instrument": "Bass"
       },
       {
         "name": "Christian Euman",
-        "instrument": "drums"
+        "instrument": "Drums"
       }
     ],
     "priceRange": "$XX",
@@ -443,19 +426,52 @@
     "personnel": [
       {
         "name": "Karl McComas-Reichl",
-        "instrument": "bass"
+        "instrument": "Bass"
       },
       {
         "name": "Larry Goldings",
-        "instrument": "piano"
+        "instrument": "Piano"
       },
       {
         "name": "Peter Schlamb",
-        "instrument": "vibraphone"
+        "instrument": "Vibraphone"
       },
       {
         "name": "Christian Euman",
-        "instrument": "drums"
+        "instrument": "Drums"
+      }
+    ],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-05-22",
+    "time": "7:30 PM",
+    "artist": "Joe La Barbera Quintet",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Joe La Barbera",
+        "instrument": "Drums"
+      },
+      {
+        "name": "Bob Sheppard",
+        "instrument": "Saxophone"
+      },
+      {
+        "name": "Clay Jenkins",
+        "instrument": "Trumpet"
+      },
+      {
+        "name": "Bill Cunliffe",
+        "instrument": "Piano"
+      },
+      {
+        "name": "Jonathan Richards",
+        "instrument": "Bass"
       }
     ],
     "priceRange": "$XX",
