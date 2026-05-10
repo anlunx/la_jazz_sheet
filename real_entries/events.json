@@ -1,39 +1,5 @@
 [
   {
-    "date": "2026-05-09",
-    "time": "07:30 PM",
-    "artist": "Josh Nelson and Friends Present: Dave Brubeck’s “Time Out”",
-    "venue": {
-      "name": "Sam First",
-      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
-    },
-    "personnel": [
-      {
-        "name": "Josh Nelson",
-        "instrument": "Piano"
-      }
-    ],
-    "priceRange": "$XX",
-    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
-  },
-  {
-    "date": "2026-05-09",
-    "time": "09:30 PM",
-    "artist": "Josh Nelson and Friends Present: Dave Brubeck’s “Time Out”",
-    "venue": {
-      "name": "Sam First",
-      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
-    },
-    "personnel": [
-      {
-        "name": "Josh Nelson",
-        "instrument": "Piano"
-      }
-    ],
-    "priceRange": "$XX",
-    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
-  },
-  {
     "date": "2026-05-12",
     "time": "07:30 PM",
     "artist": "Caroline Davis: \"Portals\"",
@@ -44,19 +10,19 @@
     "personnel": [
       {
         "name": "Caroline Davis",
-        "instrument": "Saxophone"
+        "instrument": "saxophone"
       },
       {
         "name": "Julian Shore",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Chris Tordini",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Tim Angulo",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -73,19 +39,19 @@
     "personnel": [
       {
         "name": "Caroline Davis",
-        "instrument": "Saxophone"
+        "instrument": "saxophone"
       },
       {
         "name": "Julian Shore",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Chris Tordini",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Tim Angulo",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -102,15 +68,15 @@
     "personnel": [
       {
         "name": "Max Gerl",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Ruslan Sirota",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Kevin Kanner",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -127,15 +93,15 @@
     "personnel": [
       {
         "name": "Max Gerl",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Ruslan Sirota",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Kevin Kanner",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -152,15 +118,15 @@
     "personnel": [
       {
         "name": "Lori Bell",
-        "instrument": "Flute"
+        "instrument": "flute"
       },
       {
         "name": "Josh Nelson",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Luca Alemanno",
-        "instrument": "Bass"
+        "instrument": "bass"
       }
     ],
     "priceRange": "$XX",
@@ -177,15 +143,15 @@
     "personnel": [
       {
         "name": "Lori Bell",
-        "instrument": "Flute"
+        "instrument": "flute"
       },
       {
         "name": "Josh Nelson",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Luca Alemanno",
-        "instrument": "Bass"
+        "instrument": "bass"
       }
     ],
     "priceRange": "$XX",
@@ -202,15 +168,19 @@
     "personnel": [
       {
         "name": "Marcello Carelli",
-        "instrument": "Drums"
+        "instrument": "drums"
+      },
+      {
+        "name": "Ralph Moore",
+        "instrument": "saxophone"
       },
       {
         "name": "John Beasley",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Mike Gurrola",
-        "instrument": "Bass"
+        "instrument": "bass"
       }
     ],
     "priceRange": "$XX",
@@ -227,15 +197,19 @@
     "personnel": [
       {
         "name": "Marcello Carelli",
-        "instrument": "Drums"
+        "instrument": "drums"
+      },
+      {
+        "name": "Ralph Moore",
+        "instrument": "saxophone"
       },
       {
         "name": "John Beasley",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Mike Gurrola",
-        "instrument": "Bass"
+        "instrument": "bass"
       }
     ],
     "priceRange": "$XX",
@@ -252,27 +226,27 @@
     "personnel": [
       {
         "name": "David Weiss",
-        "instrument": "Trumpet"
+        "instrument": "trumpet"
       },
       {
         "name": "Myron Walden",
-        "instrument": "Saxophone"
+        "instrument": "saxophone"
       },
       {
         "name": "Ben Solomon",
-        "instrument": "Saxophone"
+        "instrument": "saxophone"
       },
       {
         "name": "David Bryant",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Eric Wheeler",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "E.J. Strickland",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -289,27 +263,27 @@
     "personnel": [
       {
         "name": "David Weiss",
-        "instrument": "Trumpet"
+        "instrument": "trumpet"
       },
       {
         "name": "Myron Walden",
-        "instrument": "Saxophone"
+        "instrument": "saxophone"
       },
       {
         "name": "Ben Solomon",
-        "instrument": "Saxophone"
+        "instrument": "saxophone"
       },
       {
         "name": "David Bryant",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Eric Wheeler",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "E.J. Strickland",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -318,7 +292,7 @@
   {
     "date": "2026-05-19",
     "time": "07:30 PM",
-    "artist": "“Tuesday Happenings”: Hosted by Gerald Clayton",
+    "artist": "Gerald Clayton & House Band",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -326,7 +300,7 @@
     "personnel": [
       {
         "name": "Gerald Clayton",
-        "instrument": "Piano"
+        "instrument": "piano"
       }
     ],
     "priceRange": "$XX",
@@ -335,7 +309,7 @@
   {
     "date": "2026-05-19",
     "time": "09:30 PM",
-    "artist": "“Tuesday Happenings”: Hosted by Gerald Clayton",
+    "artist": "Gerald Clayton's Jam Session",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -343,7 +317,7 @@
     "personnel": [
       {
         "name": "Gerald Clayton",
-        "instrument": "Piano"
+        "instrument": "piano"
       }
     ],
     "priceRange": "$XX",
@@ -360,23 +334,23 @@
     "personnel": [
       {
         "name": "Isaiah Harwood",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Nicole McCabe",
-        "instrument": "Saxophone"
+        "instrument": "saxophone"
       },
       {
         "name": "Julien Knowles",
-        "instrument": "Guitar"
+        "instrument": "guitar"
       },
       {
         "name": "Logan Kane",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Christian Euman",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -393,23 +367,23 @@
     "personnel": [
       {
         "name": "Isaiah Harwood",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Nicole McCabe",
-        "instrument": "Saxophone"
+        "instrument": "saxophone"
       },
       {
         "name": "Julien Knowles",
-        "instrument": "Guitar"
+        "instrument": "guitar"
       },
       {
         "name": "Logan Kane",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Christian Euman",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -426,19 +400,19 @@
     "personnel": [
       {
         "name": "Karl McComas-Reichl",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Larry Goldings",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Peter Schlamb",
-        "instrument": "Vibraphone"
+        "instrument": "vibraphone"
       },
       {
         "name": "Christian Euman",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -455,19 +429,19 @@
     "personnel": [
       {
         "name": "Karl McComas-Reichl",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Larry Goldings",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Peter Schlamb",
-        "instrument": "Vibraphone"
+        "instrument": "vibraphone"
       },
       {
         "name": "Christian Euman",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -484,23 +458,23 @@
     "personnel": [
       {
         "name": "Joe La Barbera",
-        "instrument": "Drums"
+        "instrument": "drums"
       },
       {
         "name": "Bob Sheppard",
-        "instrument": "Saxophone"
+        "instrument": "saxophone"
       },
       {
         "name": "Clay Jenkins",
-        "instrument": "Trumpet"
+        "instrument": "trumpet"
       },
       {
         "name": "Bill Cunliffe",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Jonathan Richards",
-        "instrument": "Bass"
+        "instrument": "bass"
       }
     ],
     "priceRange": "$XX",
@@ -517,23 +491,23 @@
     "personnel": [
       {
         "name": "Joe La Barbera",
-        "instrument": "Drums"
+        "instrument": "drums"
       },
       {
         "name": "Bob Sheppard",
-        "instrument": "Saxophone"
+        "instrument": "saxophone"
       },
       {
         "name": "Clay Jenkins",
-        "instrument": "Trumpet"
+        "instrument": "trumpet"
       },
       {
         "name": "Bill Cunliffe",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Jonathan Richards",
-        "instrument": "Bass"
+        "instrument": "bass"
       }
     ],
     "priceRange": "$XX",
@@ -550,23 +524,23 @@
     "personnel": [
       {
         "name": "Joe La Barbera",
-        "instrument": "Drums"
+        "instrument": "drums"
       },
       {
         "name": "Bob Sheppard",
-        "instrument": "Saxophone"
+        "instrument": "saxophone"
       },
       {
         "name": "Clay Jenkins",
-        "instrument": "Trumpet"
+        "instrument": "trumpet"
       },
       {
         "name": "Bill Cunliffe",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Jonathan Richards",
-        "instrument": "Bass"
+        "instrument": "bass"
       }
     ],
     "priceRange": "$XX",
@@ -583,23 +557,23 @@
     "personnel": [
       {
         "name": "Joe La Barbera",
-        "instrument": "Drums"
+        "instrument": "drums"
       },
       {
         "name": "Bob Sheppard",
-        "instrument": "Saxophone"
+        "instrument": "saxophone"
       },
       {
         "name": "Clay Jenkins",
-        "instrument": "Trumpet"
+        "instrument": "trumpet"
       },
       {
         "name": "Bill Cunliffe",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Jonathan Richards",
-        "instrument": "Bass"
+        "instrument": "bass"
       }
     ],
     "priceRange": "$XX",
@@ -608,7 +582,7 @@
   {
     "date": "2026-05-26",
     "time": "07:30 PM",
-    "artist": "“Tuesday Happenings”: Hosted by Gerald Clayton",
+    "artist": "Gerald Clayton & House Band",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -616,7 +590,7 @@
     "personnel": [
       {
         "name": "Gerald Clayton",
-        "instrument": "Piano"
+        "instrument": "piano"
       }
     ],
     "priceRange": "$XX",
@@ -625,7 +599,7 @@
   {
     "date": "2026-05-26",
     "time": "09:30 PM",
-    "artist": "“Tuesday Happenings”: Hosted by Gerald Clayton",
+    "artist": "Gerald Clayton's Jam Session",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -633,7 +607,7 @@
     "personnel": [
       {
         "name": "Gerald Clayton",
-        "instrument": "Piano"
+        "instrument": "piano"
       }
     ],
     "priceRange": "$XX",
@@ -650,19 +624,19 @@
     "personnel": [
       {
         "name": "Pia Salvia",
-        "instrument": "Harp, Vocals"
+        "instrument": "harp, vocals"
       },
       {
         "name": "Dusty Brough",
-        "instrument": "Guitar"
+        "instrument": "guitar"
       },
       {
         "name": "Miles Jay",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Noam Israeli",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -679,19 +653,19 @@
     "personnel": [
       {
         "name": "Pia Salvia",
-        "instrument": "Harp, Vocals"
+        "instrument": "harp, vocals"
       },
       {
         "name": "Dusty Brough",
-        "instrument": "Guitar"
+        "instrument": "guitar"
       },
       {
         "name": "Miles Jay",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Noam Israeli",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -708,23 +682,23 @@
     "personnel": [
       {
         "name": "Stratøs",
-        "instrument": "EWI 4000s, Saxophone"
+        "instrument": "EWI 4000s/saxophone"
       },
       {
         "name": "Yakiv Tsvietinskyi",
-        "instrument": "Trumpet"
+        "instrument": "trumpet"
       },
       {
         "name": "Adam Hersh",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Daniel Durst",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Efajemue Etoroma Jr.",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -741,23 +715,23 @@
     "personnel": [
       {
         "name": "Stratøs",
-        "instrument": "EWI 4000s, Saxophone"
+        "instrument": "EWI 4000s/saxophone"
       },
       {
         "name": "Yakiv Tsvietinskyi",
-        "instrument": "Trumpet"
+        "instrument": "trumpet"
       },
       {
         "name": "Adam Hersh",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Daniel Durst",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Efajemue Etoroma Jr.",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -774,19 +748,19 @@
     "personnel": [
       {
         "name": "Miguel Zenón",
-        "instrument": "Saxophone"
+        "instrument": "saxophone"
       },
       {
         "name": "Luis Perdomo",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Luca Alemanno",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Henry Cole",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -803,19 +777,19 @@
     "personnel": [
       {
         "name": "Miguel Zenón",
-        "instrument": "Saxophone"
+        "instrument": "saxophone"
       },
       {
         "name": "Luis Perdomo",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Luca Alemanno",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Henry Cole",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -832,19 +806,19 @@
     "personnel": [
       {
         "name": "Miguel Zenón",
-        "instrument": "Saxophone"
+        "instrument": "saxophone"
       },
       {
         "name": "Luis Perdomo",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Luca Alemanno",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Henry Cole",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -861,19 +835,19 @@
     "personnel": [
       {
         "name": "Miguel Zenón",
-        "instrument": "Saxophone"
+        "instrument": "saxophone"
       },
       {
         "name": "Luis Perdomo",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Luca Alemanno",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Henry Cole",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -914,23 +888,23 @@
     "personnel": [
       {
         "name": "Remy Le Boeuf",
-        "instrument": "Saxophone"
+        "instrument": "saxophone"
       },
       {
         "name": "Pascal Le Boeuf",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Ben Flocks",
-        "instrument": "Saxophone"
+        "instrument": "saxophone"
       },
       {
         "name": "Martin Nevin",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Christian Euman",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -947,23 +921,97 @@
     "personnel": [
       {
         "name": "Remy Le Boeuf",
-        "instrument": "Saxophone"
+        "instrument": "saxophone"
       },
       {
         "name": "Pascal Le Boeuf",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Ben Flocks",
-        "instrument": "Saxophone"
+        "instrument": "saxophone"
       },
       {
         "name": "Martin Nevin",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Christian Euman",
-        "instrument": "Drums"
+        "instrument": "drums"
+      }
+    ],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-06-06",
+    "time": "07:30 PM",
+    "artist": "Lado B Brazilian Project",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Catina DeLuna",
+        "instrument": "vocals"
+      },
+      {
+        "name": "Otmaro Ruiz",
+        "instrument": "piano"
+      },
+      {
+        "name": "Bob Sheppard",
+        "instrument": "saxophone"
+      },
+      {
+        "name": "Larry Koonse",
+        "instrument": "guitar"
+      },
+      {
+        "name": "Edwin Livingston",
+        "instrument": "bass"
+      },
+      {
+        "name": "Marcelo Bucater",
+        "instrument": "drums"
+      }
+    ],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-06-06",
+    "time": "09:30 PM",
+    "artist": "Lado B Brazilian Project",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Catina DeLuna",
+        "instrument": "vocals"
+      },
+      {
+        "name": "Otmaro Ruiz",
+        "instrument": "piano"
+      },
+      {
+        "name": "Bob Sheppard",
+        "instrument": "saxophone"
+      },
+      {
+        "name": "Larry Koonse",
+        "instrument": "guitar"
+      },
+      {
+        "name": "Edwin Livingston",
+        "instrument": "bass"
+      },
+      {
+        "name": "Marcelo Bucater",
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
