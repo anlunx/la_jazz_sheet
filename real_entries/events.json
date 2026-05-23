@@ -1,38 +1,5 @@
 [
   {
-    "date": "2026-05-22",
-    "time": "7:30 PM & 9:30 PM",
-    "artist": "Joe La Barbera Quintet",
-    "venue": {
-      "name": "Sam First",
-      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
-    },
-    "personnel": [
-      {
-        "name": "Joe La Barbera",
-        "instrument": "drums"
-      },
-      {
-        "name": "Bob Sheppard",
-        "instrument": "saxophone"
-      },
-      {
-        "name": "Clay Jenkins",
-        "instrument": "trumpet"
-      },
-      {
-        "name": "Bill Cunliffe",
-        "instrument": "piano"
-      },
-      {
-        "name": "Jonathan Richards",
-        "instrument": "bass"
-      }
-    ],
-    "priceRange": "$XX",
-    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
-  },
-  {
     "date": "2026-05-23",
     "time": "7:30 PM & 9:30 PM",
     "artist": "Joe La Barbera Quintet",
@@ -67,8 +34,8 @@
   },
   {
     "date": "2026-05-26",
-    "time": "7:30 PM",
-    "artist": "Tuesday Happenings: Hosted by Gerald Clayton",
+    "time": "7:30 PM & 9:30 PM",
+    "artist": "Tuesday Happenings",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -93,11 +60,7 @@
     "personnel": [
       {
         "name": "Pia Salvia",
-        "instrument": "harp"
-      },
-      {
-        "name": "Pia Salvia",
-        "instrument": "vocals"
+        "instrument": "harp, vocals"
       },
       {
         "name": "Dusty Brough",
@@ -126,11 +89,7 @@
     "personnel": [
       {
         "name": "Stratøs",
-        "instrument": "EWI"
-      },
-      {
-        "name": "Stratøs",
-        "instrument": "saxophone"
+        "instrument": "EWI, saxophone"
       },
       {
         "name": "Yakiv Tsvietinskyi",
@@ -138,7 +97,7 @@
       },
       {
         "name": "Adam Hersh",
-        "instrument": "keyboards"
+        "instrument": "piano"
       },
       {
         "name": "Daniel Durst",
@@ -212,8 +171,8 @@
   },
   {
     "date": "2026-06-02",
-    "time": "7:30 PM",
-    "artist": "Tuesday Happenings: Hosted by Gerald Clayton",
+    "time": "7:30 PM & 9:30 PM",
+    "artist": "Tuesday Happenings",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -228,9 +187,38 @@
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
+    "date": "2026-06-03",
+    "time": "7:30 PM & 9:30 PM",
+    "artist": "Moraga South American Jazz",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Christian Moraga",
+        "instrument": "percussion"
+      },
+      {
+        "name": "Katisse Buckingham",
+        "instrument": "saxophone, flute"
+      },
+      {
+        "name": "Josh Childs",
+        "instrument": "bass"
+      },
+      {
+        "name": "Sezin Ahmet",
+        "instrument": "piano"
+      }
+    ],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
     "date": "2026-06-04",
     "time": "7:30 PM & 9:30 PM",
-    "artist": "VDE Jazz Orchestra: Tribute to Thad Jones and Mel Lewis",
+    "artist": "VDE Jazz Orchestra",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -242,7 +230,7 @@
   {
     "date": "2026-06-05",
     "time": "7:30 PM & 9:30 PM",
-    "artist": "Le Boeuf Brothers: \"Off Center\" Album Release",
+    "artist": "Le Boeuf Brothers",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -251,10 +239,6 @@
       {
         "name": "Pascal Le Boeuf",
         "instrument": "piano"
-      },
-      {
-        "name": "Remy Le Boeuf",
-        "instrument": "saxophone"
       },
       {
         "name": "Ben Flocks",
@@ -267,6 +251,10 @@
       {
         "name": "Christian Euman",
         "instrument": "drums"
+      },
+      {
+        "name": "Remy Le Boeuf",
+        "instrument": "saxophone"
       }
     ],
     "priceRange": "$XX",
@@ -311,8 +299,8 @@
   },
   {
     "date": "2026-06-09",
-    "time": "7:30 PM",
-    "artist": "Tuesday Happenings: Hosted by Gerald Clayton",
+    "time": "7:30 PM & 9:30 PM",
+    "artist": "Tuesday Happenings",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -358,7 +346,7 @@
   {
     "date": "2026-06-11",
     "time": "7:30 PM & 9:30 PM",
-    "artist": "Jeremy Siskind Record Release: Seeking Balance",
+    "artist": "Jeremy Siskind",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -436,8 +424,8 @@
   },
   {
     "date": "2026-06-16",
-    "time": "7:30 PM",
-    "artist": "Tuesday Happenings: Hosted by Sasha Berliner",
+    "time": "7:30 PM & 9:30 PM",
+    "artist": "Tuesday Happenings",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -454,7 +442,7 @@
   {
     "date": "2026-06-18",
     "time": "7:30 PM & 9:30 PM",
-    "artist": "KCRW Presents: \"Third Thursdays\" with Emiliano Lasansky Quintet",
+    "artist": "Emiliano Lasansky Quintet",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
