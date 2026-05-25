@@ -1,8 +1,8 @@
 [
   {
     "date": "2026-05-26",
-    "time": "7:30 PM",
-    "artist": "\"Tuesday Happenings\": Hosted by Gerald Clayton",
+    "time": "7:30 PM & 9:30 PM",
+    "artist": "Tuesday Happenings: Hosted by Gerald Clayton",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -10,7 +10,7 @@
     "personnel": [
       {
         "name": "Gerald Clayton",
-        "instrument": "Piano"
+        "instrument": "piano"
       }
     ],
     "priceRange": "$XX",
@@ -27,19 +27,23 @@
     "personnel": [
       {
         "name": "Pia Salvia",
-        "instrument": "Harp, Vocals"
+        "instrument": "harp"
+      },
+      {
+        "name": "Pia Salvia",
+        "instrument": "vocals"
       },
       {
         "name": "Dusty Brough",
-        "instrument": "Guitar"
+        "instrument": "guitar"
       },
       {
         "name": "Miles Jay",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Noam Israeli",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -56,23 +60,27 @@
     "personnel": [
       {
         "name": "Stratøs",
-        "instrument": "EWI, Saxophone"
+        "instrument": "EWI"
+      },
+      {
+        "name": "Stratøs",
+        "instrument": "saxophone"
       },
       {
         "name": "Yakiv Tsvietinskyi",
-        "instrument": "Trumpet"
+        "instrument": "trumpet"
       },
       {
         "name": "Adam Hersh",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Daniel Durst",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Efajemue Etoroma Jr.",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -89,19 +97,19 @@
     "personnel": [
       {
         "name": "Miguel Zenón",
-        "instrument": "Saxophone"
+        "instrument": "saxophone"
       },
       {
         "name": "Luis Perdomo",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Luca Alemanno",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Henry Cole",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -118,19 +126,19 @@
     "personnel": [
       {
         "name": "Miguel Zenón",
-        "instrument": "Saxophone"
+        "instrument": "saxophone"
       },
       {
         "name": "Luis Perdomo",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Luca Alemanno",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Henry Cole",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -147,11 +155,11 @@
     "personnel": [
       {
         "name": "John Clayton",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Gerald Clayton",
-        "instrument": "Piano"
+        "instrument": "piano"
       }
     ],
     "priceRange": "$XX",
@@ -159,8 +167,8 @@
   },
   {
     "date": "2026-06-02",
-    "time": "7:30 PM",
-    "artist": "\"Tuesday Happenings\": Hosted by Gerald Clayton",
+    "time": "7:30 PM & 9:30 PM",
+    "artist": "Tuesday Happenings: Hosted by Gerald Clayton",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -168,7 +176,7 @@
     "personnel": [
       {
         "name": "Gerald Clayton",
-        "instrument": "Piano"
+        "instrument": "piano"
       }
     ],
     "priceRange": "$XX",
@@ -185,19 +193,19 @@
     "personnel": [
       {
         "name": "Christian Moraga",
-        "instrument": "Percussion"
+        "instrument": "percussion"
       },
       {
         "name": "Katisse Buckingham",
-        "instrument": "Flute, Saxophone"
+        "instrument": "saxophone"
       },
       {
         "name": "Josh Childs",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Sezin Ahmet",
-        "instrument": "Piano"
+        "instrument": "piano"
       }
     ],
     "priceRange": "$XX",
@@ -211,12 +219,7 @@
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
     },
-    "personnel": [
-      {
-        "name": "VDE Jazz Orchestra",
-        "instrument": "Ensemble"
-      }
-    ],
+    "personnel": [],
     "priceRange": "$XX",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
@@ -230,24 +233,24 @@
     },
     "personnel": [
       {
-        "name": "Pascal Le Boeuf",
-        "instrument": "Piano"
+        "name": "Remy Le Boeuf",
+        "instrument": "saxophone"
       },
       {
-        "name": "Remy Le Boeuf",
-        "instrument": "Saxophone"
+        "name": "Pascal Le Boeuf",
+        "instrument": "piano"
       },
       {
         "name": "Ben Flocks",
-        "instrument": "Saxophone"
+        "instrument": "saxophone"
       },
       {
         "name": "Martin Nevin",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Christian Euman",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -264,27 +267,27 @@
     "personnel": [
       {
         "name": "Catina DeLuna",
-        "instrument": "Vocals"
+        "instrument": "vocals"
       },
       {
         "name": "Otmaro Ruiz",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Bob Sheppard",
-        "instrument": "Saxophone"
+        "instrument": "saxophone"
       },
       {
         "name": "Larry Koonse",
-        "instrument": "Guitar"
+        "instrument": "guitar"
       },
       {
         "name": "Edwin Livingston",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Marcelo Bucater",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -292,8 +295,8 @@
   },
   {
     "date": "2026-06-09",
-    "time": "7:30 PM",
-    "artist": "\"Tuesday Happenings\": Hosted by Gerald Clayton",
+    "time": "7:30 PM & 9:30 PM",
+    "artist": "Tuesday Happenings: Hosted by Gerald Clayton",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -301,7 +304,7 @@
     "personnel": [
       {
         "name": "Gerald Clayton",
-        "instrument": "Piano"
+        "instrument": "piano"
       }
     ],
     "priceRange": "$XX",
@@ -318,19 +321,19 @@
     "personnel": [
       {
         "name": "Alex Hitchcock",
-        "instrument": "Saxophone"
+        "instrument": "saxophone"
       },
       {
         "name": "Lex Korten",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Logan Kane",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Miguel Russell",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -347,19 +350,19 @@
     "personnel": [
       {
         "name": "Jeremy Siskind",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Janis Mann",
-        "instrument": "Vocals"
+        "instrument": "vocals"
       },
       {
         "name": "Jonathan Richards",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Joe LaBarbera",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -376,15 +379,15 @@
     "personnel": [
       {
         "name": "Eric Scott Reed",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Mike Gurrola",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Marcello Carelli",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -401,15 +404,15 @@
     "personnel": [
       {
         "name": "Eric Scott Reed",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Mike Gurrola",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Marcello Carelli",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -417,8 +420,8 @@
   },
   {
     "date": "2026-06-16",
-    "time": "7:30 PM",
-    "artist": "\"Tuesday Happenings\": Hosted by Sasha Berliner",
+    "time": "7:30 PM & 9:30 PM",
+    "artist": "Tuesday Happenings: Hosted by Sasha Berliner",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -426,7 +429,7 @@
     "personnel": [
       {
         "name": "Sasha Berliner",
-        "instrument": "Vibraphone"
+        "instrument": "vibraphone"
       }
     ],
     "priceRange": "$XX",
@@ -435,7 +438,7 @@
   {
     "date": "2026-06-18",
     "time": "7:30 PM",
-    "artist": "KCRW Presents: \"Third Thursdays\" with Emiliano Lasansky Quintet",
+    "artist": "Emiliano Lasansky Quintet",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -443,7 +446,7 @@
     "personnel": [
       {
         "name": "Emiliano Lasansky",
-        "instrument": "Bass"
+        "instrument": "bass"
       }
     ],
     "priceRange": "$XX",
