@@ -1,22 +1,5 @@
 [
   {
-    "date": "2026-05-26",
-    "time": "7:30 PM & 9:30 PM",
-    "artist": "Tuesday Happenings: Hosted by Gerald Clayton",
-    "venue": {
-      "name": "Sam First",
-      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
-    },
-    "personnel": [
-      {
-        "name": "Gerald Clayton",
-        "instrument": "piano"
-      }
-    ],
-    "priceRange": "$XX",
-    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
-  },
-  {
     "date": "2026-05-27",
     "time": "7:30 PM",
     "artist": "Pia Salvia Quartet",
@@ -27,11 +10,7 @@
     "personnel": [
       {
         "name": "Pia Salvia",
-        "instrument": "harp"
-      },
-      {
-        "name": "Pia Salvia",
-        "instrument": "vocals"
+        "instrument": "harp, vocals, composer"
       },
       {
         "name": "Dusty Brough",
@@ -60,11 +39,7 @@
     "personnel": [
       {
         "name": "Stratøs",
-        "instrument": "EWI"
-      },
-      {
-        "name": "Stratøs",
-        "instrument": "saxophone"
+        "instrument": "EWI 4000s, saxophone, composer"
       },
       {
         "name": "Yakiv Tsvietinskyi",
@@ -167,7 +142,7 @@
   },
   {
     "date": "2026-06-02",
-    "time": "7:30 PM & 9:30 PM",
+    "time": "7:30 PM",
     "artist": "Tuesday Happenings: Hosted by Gerald Clayton",
     "venue": {
       "name": "Sam First",
@@ -176,7 +151,15 @@
     "personnel": [
       {
         "name": "Gerald Clayton",
-        "instrument": "piano"
+        "instrument": "piano, composer"
+      },
+      {
+        "name": "Devin Daniels",
+        "instrument": "saxophone"
+      },
+      {
+        "name": "Luca Alemanno",
+        "instrument": "bass"
       }
     ],
     "priceRange": "$XX",
@@ -193,11 +176,11 @@
     "personnel": [
       {
         "name": "Christian Moraga",
-        "instrument": "percussion"
+        "instrument": "multi-percussion"
       },
       {
         "name": "Katisse Buckingham",
-        "instrument": "saxophone"
+        "instrument": "flute, saxophone"
       },
       {
         "name": "Josh Childs",
@@ -219,7 +202,12 @@
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
     },
-    "personnel": [],
+    "personnel": [
+      {
+        "name": "VDE Jazz Orchestra",
+        "instrument": "orchestra"
+      }
+    ],
     "priceRange": "$XX",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
@@ -233,12 +221,12 @@
     },
     "personnel": [
       {
-        "name": "Remy Le Boeuf",
-        "instrument": "saxophone"
-      },
-      {
         "name": "Pascal Le Boeuf",
         "instrument": "piano"
+      },
+      {
+        "name": "Remy Le Boeuf",
+        "instrument": "saxophone"
       },
       {
         "name": "Ben Flocks",
@@ -295,7 +283,7 @@
   },
   {
     "date": "2026-06-09",
-    "time": "7:30 PM & 9:30 PM",
+    "time": "7:30 PM",
     "artist": "Tuesday Happenings: Hosted by Gerald Clayton",
     "venue": {
       "name": "Sam First",
@@ -304,7 +292,19 @@
     "personnel": [
       {
         "name": "Gerald Clayton",
-        "instrument": "piano"
+        "instrument": "piano, composer"
+      },
+      {
+        "name": "Lorin Benedict",
+        "instrument": "vocals"
+      },
+      {
+        "name": "Luca Alemanno",
+        "instrument": "bass"
+      },
+      {
+        "name": "Justin Brown",
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -420,7 +420,7 @@
   },
   {
     "date": "2026-06-16",
-    "time": "7:30 PM & 9:30 PM",
+    "time": "7:30 PM",
     "artist": "Tuesday Happenings: Hosted by Sasha Berliner",
     "venue": {
       "name": "Sam First",
@@ -446,7 +446,36 @@
     "personnel": [
       {
         "name": "Emiliano Lasansky",
+        "instrument": "bass, composer, bandleader"
+      }
+    ],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-06-19",
+    "time": "7:30 PM",
+    "artist": "KCRW Presents: \"Juneteenth & Jazz\" with Gengis Don",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Gengis Don",
+        "instrument": "leader, vocals"
+      },
+      {
+        "name": "DeVaughn Durham",
+        "instrument": "drums"
+      },
+      {
+        "name": "Joshua Bryant",
         "instrument": "bass"
+      },
+      {
+        "name": "David McKinzie",
+        "instrument": "keys"
       }
     ],
     "priceRange": "$XX",
