@@ -1,34 +1,5 @@
 [
   {
-    "date": "2026-05-30",
-    "time": "7:30 PM",
-    "artist": "Miguel Zenón Quartet",
-    "venue": {
-      "name": "Sam First",
-      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
-    },
-    "personnel": [
-      {
-        "name": "Miguel Zenón",
-        "instrument": "Saxophone"
-      },
-      {
-        "name": "Luis Perdomo",
-        "instrument": "Piano"
-      },
-      {
-        "name": "Luca Alemanno",
-        "instrument": "Bass"
-      },
-      {
-        "name": "Henry Cole",
-        "instrument": "Drums"
-      }
-    ],
-    "priceRange": "$XX",
-    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
-  },
-  {
     "date": "2026-05-31",
     "time": "7:30 PM",
     "artist": "John Clayton & Gerald Clayton",
@@ -39,11 +10,11 @@
     "personnel": [
       {
         "name": "John Clayton",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Gerald Clayton",
-        "instrument": "Piano"
+        "instrument": "piano"
       }
     ],
     "priceRange": "$XX",
@@ -60,15 +31,15 @@
     "personnel": [
       {
         "name": "Gerald Clayton",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Devin Daniels",
-        "instrument": "Saxophone"
+        "instrument": "saxophone"
       },
       {
         "name": "Luca Alemanno",
-        "instrument": "Bass"
+        "instrument": "bass"
       }
     ],
     "priceRange": "$XX",
@@ -85,19 +56,19 @@
     "personnel": [
       {
         "name": "Christian Moraga",
-        "instrument": "Multi-percussionist"
+        "instrument": "multi-percussion"
       },
       {
         "name": "Katisse Buckingham",
-        "instrument": "Saxophone"
+        "instrument": "saxophone, flute, vocals"
       },
       {
         "name": "Josh Childs",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Sezin Ahmet",
-        "instrument": "Piano"
+        "instrument": "piano"
       }
     ],
     "priceRange": "$XX",
@@ -126,19 +97,23 @@
     "personnel": [
       {
         "name": "Pascal Le Boeuf",
-        "instrument": "Piano"
+        "instrument": "piano"
+      },
+      {
+        "name": "Remy Le Boeuf",
+        "instrument": "saxophone"
       },
       {
         "name": "Ben Flocks",
-        "instrument": "Saxophone"
+        "instrument": "saxophone"
       },
       {
         "name": "Martin Nevin",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Christian Euman",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -155,27 +130,27 @@
     "personnel": [
       {
         "name": "Catina DeLuna",
-        "instrument": "Vocals"
+        "instrument": "vocals"
       },
       {
         "name": "Otmaro Ruiz",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Bob Sheppard",
-        "instrument": "Saxophone"
+        "instrument": "saxophone"
       },
       {
         "name": "Larry Koonse",
-        "instrument": "Guitar"
+        "instrument": "guitar"
       },
       {
         "name": "Edwin Livingston",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Marcelo Bucater",
-        "instrument": "Drums"
+        "instrument": "drums, percussion"
       }
     ],
     "priceRange": "$XX",
@@ -192,19 +167,19 @@
     "personnel": [
       {
         "name": "Gerald Clayton",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Lorin Benedict",
-        "instrument": "Vocals"
+        "instrument": "vocals"
       },
       {
         "name": "Luca Alemanno",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Justin Brown",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -221,19 +196,19 @@
     "personnel": [
       {
         "name": "Alex Hitchcock",
-        "instrument": "Saxophone"
+        "instrument": "saxophone"
       },
       {
         "name": "Lex Korten",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Logan Kane",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Miguel Russell",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -250,19 +225,19 @@
     "personnel": [
       {
         "name": "Jeremy Siskind",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Janis Mann",
-        "instrument": "Vocals"
+        "instrument": "vocals"
       },
       {
         "name": "Jonathan Richards",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Joe LaBarbera",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -279,15 +254,15 @@
     "personnel": [
       {
         "name": "Eric Scott Reed",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Mike Gurrola",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Marcello Carelli",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -304,15 +279,15 @@
     "personnel": [
       {
         "name": "Eric Scott Reed",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Mike Gurrola",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Marcello Carelli",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -329,19 +304,19 @@
     "personnel": [
       {
         "name": "Sasha Berliner",
-        "instrument": "Vibraphone"
+        "instrument": "vibraphone"
       },
       {
         "name": "Liya Grigoryan",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Max Gerl",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Anthony Fung",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -358,7 +333,7 @@
     "personnel": [
       {
         "name": "Emiliano Lasansky",
-        "instrument": "Bass"
+        "instrument": "bass"
       }
     ],
     "priceRange": "$XX",
@@ -375,19 +350,19 @@
     "personnel": [
       {
         "name": "Gengis Don",
-        "instrument": "Vocals"
+        "instrument": "vocals, rap"
       },
       {
         "name": "DeVaughn Durham",
-        "instrument": "Drums"
+        "instrument": "drums"
       },
       {
         "name": "Joshua Bryant",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "David McKinzie",
-        "instrument": "Piano"
+        "instrument": "piano, keys"
       }
     ],
     "priceRange": "$XX",
@@ -404,11 +379,11 @@
     "personnel": [
       {
         "name": "Emilio Solla",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Antonio Lizana",
-        "instrument": "Saxophone"
+        "instrument": "saxophone, vocals"
       }
     ],
     "priceRange": "$XX",
@@ -425,7 +400,7 @@
     "personnel": [
       {
         "name": "Taylor Eigsti",
-        "instrument": "Piano"
+        "instrument": "piano"
       }
     ],
     "priceRange": "$XX",
@@ -442,7 +417,36 @@
     "personnel": [
       {
         "name": "Devin Daniels",
-        "instrument": "Saxophone"
+        "instrument": "saxophone"
+      }
+    ],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-06-24",
+    "time": "7:30 PM",
+    "artist": "Mauricio Morales Quartet",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Mauricio Morales",
+        "instrument": "bass"
+      },
+      {
+        "name": "Devin Daniels",
+        "instrument": "saxophone"
+      },
+      {
+        "name": "Adam Hersh",
+        "instrument": "piano"
+      },
+      {
+        "name": "Myles Martin",
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
