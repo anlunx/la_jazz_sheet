@@ -1,36 +1,7 @@
 [
   {
-    "date": "2026-06-02",
-    "time": "07:30 PM",
-    "artist": "“Tuesday Happenings”: Hosted by Gerald Clayton",
-    "venue": {
-      "name": "Sam First",
-      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
-    },
-    "personnel": [
-      {
-        "name": "Gerald Clayton",
-        "instrument": "piano"
-      },
-      {
-        "name": "Devin Daniels",
-        "instrument": "saxophone"
-      },
-      {
-        "name": "Luca Alemanno",
-        "instrument": "bass"
-      },
-      {
-        "name": "Christian Euman",
-        "instrument": "drums"
-      }
-    ],
-    "priceRange": "$XX",
-    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
-  },
-  {
     "date": "2026-06-03",
-    "time": "07:30 PM",
+    "time": "7:30 PM",
     "artist": "Moraga South American Jazz",
     "venue": {
       "name": "Sam First",
@@ -39,19 +10,19 @@
     "personnel": [
       {
         "name": "Christian Moraga",
-        "instrument": "percussion"
+        "instrument": "multi-percussionist"
       },
       {
         "name": "Katisse Buckingham",
-        "instrument": "saxophone"
+        "instrument": "saxophone/flute"
       },
       {
         "name": "Josh Childs",
-        "instrument": "bass"
+        "instrument": "piano"
       },
       {
         "name": "Sezin Ahmet",
-        "instrument": "piano"
+        "instrument": "guitar"
       }
     ],
     "priceRange": "$XX",
@@ -59,7 +30,7 @@
   },
   {
     "date": "2026-06-04",
-    "time": "07:30 PM",
+    "time": "7:30 PM",
     "artist": "VDE Jazz Orchestra: Tribute to Thad Jones and Mel Lewis",
     "venue": {
       "name": "Sam First",
@@ -71,7 +42,7 @@
   },
   {
     "date": "2026-06-05",
-    "time": "07:30 PM",
+    "time": "7:30 PM",
     "artist": "Le Boeuf Brothers: \"Off Center\" Album Release",
     "venue": {
       "name": "Sam First",
@@ -104,7 +75,7 @@
   },
   {
     "date": "2026-06-06",
-    "time": "07:30 PM",
+    "time": "7:30 PM",
     "artist": "Lado B Brazilian Project",
     "venue": {
       "name": "Sam First",
@@ -141,7 +112,7 @@
   },
   {
     "date": "2026-06-09",
-    "time": "07:30 PM",
+    "time": "7:30 PM",
     "artist": "“Tuesday Happenings”: Hosted by Gerald Clayton",
     "venue": {
       "name": "Sam First",
@@ -170,7 +141,7 @@
   },
   {
     "date": "2026-06-10",
-    "time": "07:30 PM",
+    "time": "7:30 PM",
     "artist": "Alex Hitchcock Quartet",
     "venue": {
       "name": "Sam First",
@@ -199,7 +170,7 @@
   },
   {
     "date": "2026-06-11",
-    "time": "07:30 PM",
+    "time": "7:30 PM",
     "artist": "Jeremy Siskind Record Release: Seeking Balance",
     "venue": {
       "name": "Sam First",
@@ -228,7 +199,7 @@
   },
   {
     "date": "2026-06-12",
-    "time": "07:30 PM",
+    "time": "7:30 PM",
     "artist": "Eric Scott Reed Trio",
     "venue": {
       "name": "Sam First",
@@ -253,7 +224,7 @@
   },
   {
     "date": "2026-06-13",
-    "time": "07:30 PM",
+    "time": "7:30 PM",
     "artist": "Eric Scott Reed Trio",
     "venue": {
       "name": "Sam First",
@@ -278,7 +249,7 @@
   },
   {
     "date": "2026-06-16",
-    "time": "07:30 PM",
+    "time": "7:30 PM",
     "artist": "“Tuesday Happenings”: Hosted by Sasha Berliner",
     "venue": {
       "name": "Sam First",
@@ -307,7 +278,7 @@
   },
   {
     "date": "2026-06-17",
-    "time": "07:30 PM",
+    "time": "7:30 PM",
     "artist": "Michael Ragonese Trio",
     "venue": {
       "name": "Sam First",
@@ -332,8 +303,8 @@
   },
   {
     "date": "2026-06-18",
-    "time": "07:30 PM",
-    "artist": "KCRW Presents: \"Third Thursdays\" with Emiliano Lasansky Quintet",
+    "time": "7:30 PM",
+    "artist": "Emiliano Lasansky Quintet",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -349,7 +320,7 @@
   },
   {
     "date": "2026-06-19",
-    "time": "07:30 PM",
+    "time": "7:30 PM",
     "artist": "KCRW Presents: \"Juneteenth & Jazz\" with Gengis Don",
     "venue": {
       "name": "Sam First",
@@ -358,11 +329,11 @@
     "personnel": [
       {
         "name": "Gengis Don",
-        "instrument": "vocals"
+        "instrument": "vocals/MC"
       },
       {
         "name": "DeVaughn Durham",
-        "instrument": "drums"
+        "instrument": "piano"
       },
       {
         "name": "Joshua Bryant",
@@ -370,7 +341,7 @@
       },
       {
         "name": "David McKinzie",
-        "instrument": "piano"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -378,7 +349,7 @@
   },
   {
     "date": "2026-06-20",
-    "time": "07:30 PM",
+    "time": "7:30 PM",
     "artist": "Emilio Solla & Antonio Lizana Duo",
     "venue": {
       "name": "Sam First",
@@ -391,7 +362,7 @@
       },
       {
         "name": "Antonio Lizana",
-        "instrument": "saxophone"
+        "instrument": "saxophone/vocals"
       }
     ],
     "priceRange": "$XX",
@@ -399,8 +370,8 @@
   },
   {
     "date": "2026-06-21",
-    "time": "07:30 PM",
-    "artist": "Taylor Eigsti (Solo Piano Concert)",
+    "time": "7:30 PM",
+    "artist": "Taylor Eigsti",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -416,7 +387,7 @@
   },
   {
     "date": "2026-06-23",
-    "time": "07:30 PM",
+    "time": "7:30 PM",
     "artist": "“Tuesday Happenings”: Hosted by Devin Daniels",
     "venue": {
       "name": "Sam First",
@@ -433,7 +404,7 @@
   },
   {
     "date": "2026-06-24",
-    "time": "07:30 PM",
+    "time": "7:30 PM",
     "artist": "Mauricio Morales Quartet",
     "venue": {
       "name": "Sam First",
@@ -454,6 +425,31 @@
       },
       {
         "name": "Myles Martin",
+        "instrument": "drums"
+      }
+    ],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-06-25",
+    "time": "7:30 PM",
+    "artist": "Grant Levin Trio",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Grant Levin",
+        "instrument": "piano"
+      },
+      {
+        "name": "Luca Alemanno",
+        "instrument": "bass"
+      },
+      {
+        "name": "Jaz Sawyer",
         "instrument": "drums"
       }
     ],
