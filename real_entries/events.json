@@ -1,34 +1,5 @@
 [
   {
-    "date": "2026-06-03",
-    "time": "7:30 PM",
-    "artist": "Moraga South American Jazz",
-    "venue": {
-      "name": "Sam First",
-      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
-    },
-    "personnel": [
-      {
-        "name": "Christian Moraga",
-        "instrument": "multi-percussionist"
-      },
-      {
-        "name": "Katisse Buckingham",
-        "instrument": "saxophone/flute"
-      },
-      {
-        "name": "Josh Childs",
-        "instrument": "piano"
-      },
-      {
-        "name": "Sezin Ahmet",
-        "instrument": "guitar"
-      }
-    ],
-    "priceRange": "$XX",
-    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
-  },
-  {
     "date": "2026-06-04",
     "time": "7:30 PM",
     "artist": "VDE Jazz Orchestra: Tribute to Thad Jones and Mel Lewis",
@@ -50,24 +21,24 @@
     },
     "personnel": [
       {
-        "name": "Pascal Le Boeuf",
-        "instrument": "piano"
-      },
-      {
         "name": "Remy Le Boeuf",
         "instrument": "saxophone"
       },
       {
+        "name": "Pascal Le Boeuf",
+        "instrument": "piano"
+      },
+      {
         "name": "Ben Flocks",
-        "instrument": "saxophone"
+        "instrument": ""
       },
       {
         "name": "Martin Nevin",
-        "instrument": "bass"
+        "instrument": ""
       },
       {
         "name": "Christian Euman",
-        "instrument": "drums"
+        "instrument": ""
       }
     ],
     "priceRange": "$XX",
@@ -84,7 +55,7 @@
     "personnel": [
       {
         "name": "Catina DeLuna",
-        "instrument": "vocals"
+        "instrument": ""
       },
       {
         "name": "Otmaro Ruiz",
@@ -92,19 +63,19 @@
       },
       {
         "name": "Bob Sheppard",
-        "instrument": "saxophone"
+        "instrument": ""
       },
       {
         "name": "Larry Koonse",
-        "instrument": "guitar"
+        "instrument": ""
       },
       {
         "name": "Edwin Livingston",
-        "instrument": "bass"
+        "instrument": ""
       },
       {
         "name": "Marcelo Bucater",
-        "instrument": "drums"
+        "instrument": ""
       }
     ],
     "priceRange": "$XX",
@@ -125,15 +96,15 @@
       },
       {
         "name": "Lorin Benedict",
-        "instrument": "vocals"
+        "instrument": ""
       },
       {
         "name": "Luca Alemanno",
-        "instrument": "bass"
+        "instrument": ""
       },
       {
         "name": "Justin Brown",
-        "instrument": "drums"
+        "instrument": ""
       }
     ],
     "priceRange": "$XX",
@@ -154,15 +125,15 @@
       },
       {
         "name": "Lex Korten",
-        "instrument": "piano"
+        "instrument": ""
       },
       {
         "name": "Logan Kane",
-        "instrument": "bass"
+        "instrument": ""
       },
       {
         "name": "Miguel Russell",
-        "instrument": "drums"
+        "instrument": ""
       }
     ],
     "priceRange": "$XX",
@@ -183,15 +154,15 @@
       },
       {
         "name": "Janis Mann",
-        "instrument": "vocals"
+        "instrument": ""
       },
       {
         "name": "Jonathan Richards",
-        "instrument": "bass"
+        "instrument": ""
       },
       {
         "name": "Joe LaBarbera",
-        "instrument": "drums"
+        "instrument": ""
       }
     ],
     "priceRange": "$XX",
@@ -212,11 +183,11 @@
       },
       {
         "name": "Mike Gurrola",
-        "instrument": "bass"
+        "instrument": ""
       },
       {
         "name": "Marcello Carelli",
-        "instrument": "drums"
+        "instrument": ""
       }
     ],
     "priceRange": "$XX",
@@ -237,11 +208,11 @@
       },
       {
         "name": "Mike Gurrola",
-        "instrument": "bass"
+        "instrument": ""
       },
       {
         "name": "Marcello Carelli",
-        "instrument": "drums"
+        "instrument": ""
       }
     ],
     "priceRange": "$XX",
@@ -262,15 +233,15 @@
       },
       {
         "name": "Liya Grigoryan",
-        "instrument": "piano"
+        "instrument": ""
       },
       {
         "name": "Max Gerl",
-        "instrument": "bass"
+        "instrument": ""
       },
       {
         "name": "Anthony Fung",
-        "instrument": "drums"
+        "instrument": ""
       }
     ],
     "priceRange": "$XX",
@@ -291,11 +262,11 @@
       },
       {
         "name": "Luca Alemanno",
-        "instrument": "bass"
+        "instrument": ""
       },
       {
         "name": "Anthony Fung",
-        "instrument": "drums"
+        "instrument": ""
       }
     ],
     "priceRange": "$XX",
@@ -304,7 +275,7 @@
   {
     "date": "2026-06-18",
     "time": "7:30 PM",
-    "artist": "Emiliano Lasansky Quintet",
+    "artist": "KCRW Presents: \"Third Thursdays\" with Emiliano Lasansky Quintet",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -329,19 +300,19 @@
     "personnel": [
       {
         "name": "Gengis Don",
-        "instrument": "vocals/MC"
+        "instrument": "vocals/rapper"
       },
       {
         "name": "DeVaughn Durham",
-        "instrument": "piano"
+        "instrument": ""
       },
       {
         "name": "Joshua Bryant",
-        "instrument": "bass"
+        "instrument": ""
       },
       {
         "name": "David McKinzie",
-        "instrument": "drums"
+        "instrument": ""
       }
     ],
     "priceRange": "$XX",
@@ -417,15 +388,15 @@
       },
       {
         "name": "Devin Daniels",
-        "instrument": "saxophone"
+        "instrument": ""
       },
       {
         "name": "Adam Hersh",
-        "instrument": "piano"
+        "instrument": ""
       },
       {
         "name": "Myles Martin",
-        "instrument": "drums"
+        "instrument": ""
       }
     ],
     "priceRange": "$XX",
@@ -446,10 +417,35 @@
       },
       {
         "name": "Luca Alemanno",
-        "instrument": "bass"
+        "instrument": ""
       },
       {
         "name": "Jaz Sawyer",
+        "instrument": ""
+      }
+    ],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-06-26",
+    "time": "7:30 PM",
+    "artist": "Yotam Silberstein Trio",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Yotam Silberstein",
+        "instrument": "guitar"
+      },
+      {
+        "name": "John Clayton",
+        "instrument": "bass"
+      },
+      {
+        "name": "Roy McCurdy",
         "instrument": "drums"
       }
     ],
