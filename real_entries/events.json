@@ -1,74 +1,8 @@
 [
   {
-    "date": "2026-06-06",
-    "time": "7:30 PM",
-    "artist": "Lado B Brazilian Project",
-    "venue": {
-      "name": "Sam First",
-      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
-    },
-    "personnel": [
-      {
-        "name": "Catina DeLuna",
-        "instrument": "vocals"
-      },
-      {
-        "name": "Otmaro Ruiz",
-        "instrument": "piano"
-      },
-      {
-        "name": "Bob Sheppard",
-        "instrument": "saxophone"
-      },
-      {
-        "name": "Larry Koonse",
-        "instrument": "guitar"
-      },
-      {
-        "name": "Edwin Livingston",
-        "instrument": "bass"
-      },
-      {
-        "name": "Marcelo Bucater",
-        "instrument": "drums"
-      }
-    ],
-    "priceRange": "$XX",
-    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
-  },
-  {
     "date": "2026-06-09",
     "time": "7:30 PM",
     "artist": "Tuesday Happenings: Hosted by Gerald Clayton",
-    "venue": {
-      "name": "Sam First",
-      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
-    },
-    "personnel": [
-      {
-        "name": "Gerald Clayton",
-        "instrument": "piano"
-      },
-      {
-        "name": "Lorin Benedict",
-        "instrument": "vocals"
-      },
-      {
-        "name": "Luca Alemanno",
-        "instrument": "bass"
-      },
-      {
-        "name": "Justin Brown",
-        "instrument": "drums"
-      }
-    ],
-    "priceRange": "$XX",
-    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
-  },
-  {
-    "date": "2026-06-09",
-    "time": "9:30 PM",
-    "artist": "Tuesday Happenings Jam Session",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -232,35 +166,6 @@
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
-    "date": "2026-06-16",
-    "time": "9:30 PM",
-    "artist": "Tuesday Happenings Jam Session",
-    "venue": {
-      "name": "Sam First",
-      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
-    },
-    "personnel": [
-      {
-        "name": "Sasha Berliner",
-        "instrument": "vibraphone"
-      },
-      {
-        "name": "Liya Grigoryan",
-        "instrument": "piano"
-      },
-      {
-        "name": "Max Gerl",
-        "instrument": "bass"
-      },
-      {
-        "name": "Anthony Fung",
-        "instrument": "drums"
-      }
-    ],
-    "priceRange": "$XX",
-    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
-  },
-  {
     "date": "2026-06-17",
     "time": "7:30 PM",
     "artist": "Michael Ragonese Trio",
@@ -288,7 +193,7 @@
   {
     "date": "2026-06-18",
     "time": "7:30 PM",
-    "artist": "KCRW Presents: Third Thursdays with Emiliano Lasansky Quintet",
+    "artist": "Emiliano Lasansky Quintet",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -305,7 +210,7 @@
   {
     "date": "2026-06-19",
     "time": "7:30 PM",
-    "artist": "KCRW Presents: Juneteenth & Jazz with Gengis Don",
+    "artist": "Gengis Don",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -313,19 +218,19 @@
     "personnel": [
       {
         "name": "Gengis Don",
-        "instrument": "leader/vocals"
+        "instrument": "MC/vocals"
       },
       {
         "name": "DeVaughn Durham",
-        "instrument": "drums"
+        "instrument": "unspecified"
       },
       {
         "name": "Joshua Bryant",
-        "instrument": "bass"
+        "instrument": "unspecified"
       },
       {
         "name": "David McKinzie",
-        "instrument": "piano"
+        "instrument": "unspecified"
       }
     ],
     "priceRange": "$XX",
@@ -346,7 +251,7 @@
       },
       {
         "name": "Antonio Lizana",
-        "instrument": "saxophone, vocals"
+        "instrument": "saxophone/vocals"
       }
     ],
     "priceRange": "$XX",
@@ -373,23 +278,6 @@
     "date": "2026-06-23",
     "time": "7:30 PM",
     "artist": "Tuesday Happenings: Hosted by Devin Daniels",
-    "venue": {
-      "name": "Sam First",
-      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
-    },
-    "personnel": [
-      {
-        "name": "Devin Daniels",
-        "instrument": "saxophone"
-      }
-    ],
-    "priceRange": "$XX",
-    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
-  },
-  {
-    "date": "2026-06-23",
-    "time": "9:30 PM",
-    "artist": "Tuesday Happenings Jam Session",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -520,14 +408,35 @@
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
-    "date": "2026-06-30",
-    "time": "9:30 PM",
-    "artist": "Tuesday Happenings Jam Session",
+    "date": "2026-07-01",
+    "time": "7:30 PM",
+    "artist": "Mark Valdes and Joey Curreri's Tabula Rasa",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
     },
-    "personnel": [],
+    "personnel": [
+      {
+        "name": "Mark Valdes",
+        "instrument": "unspecified"
+      },
+      {
+        "name": "Joey Curreri",
+        "instrument": "unspecified"
+      },
+      {
+        "name": "Devin Daniels",
+        "instrument": "saxophone"
+      },
+      {
+        "name": "Jonathan Paik",
+        "instrument": "piano"
+      },
+      {
+        "name": "Dario Bizio",
+        "instrument": "bass"
+      }
+    ],
     "priceRange": "$XX",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   }
