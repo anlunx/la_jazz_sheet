@@ -1,37 +1,8 @@
 [
   {
-    "date": "2026-07-02",
-    "time": "7:30 PM",
-    "artist": "Logan Kane Kickflip Quartet",
-    "venue": {
-      "name": "Sam First",
-      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
-    },
-    "personnel": [
-      {
-        "name": "Logan Kane",
-        "instrument": "Bass"
-      },
-      {
-        "name": "Roni Kaspi",
-        "instrument": "Drums"
-      },
-      {
-        "name": "Jon Hatamiya",
-        "instrument": "Trombone"
-      },
-      {
-        "name": "Luca Mendoza",
-        "instrument": "Piano"
-      }
-    ],
-    "priceRange": "$XX",
-    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
-  },
-  {
     "date": "2026-07-03",
     "time": "7:30 PM",
-    "artist": "Kathleen Grace & Larry Koonse “The Art of the Duo”",
+    "artist": "Kathleen Grace & Larry Koonse",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -39,11 +10,11 @@
     "personnel": [
       {
         "name": "Kathleen Grace",
-        "instrument": "Vocals"
+        "instrument": "vocalist"
       },
       {
         "name": "Larry Koonse",
-        "instrument": "Guitar"
+        "instrument": "guitarist"
       }
     ],
     "priceRange": "$XX",
@@ -60,23 +31,23 @@
     "personnel": [
       {
         "name": "Daniel Rotem",
-        "instrument": "Saxophone"
+        "instrument": "saxophonist"
       },
       {
         "name": "Jeff Parker",
-        "instrument": "Guitar"
+        "instrument": "guitar"
       },
       {
         "name": "Joshua White",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Darek Oles",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Mark Ferber",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -85,7 +56,7 @@
   {
     "date": "2026-07-07",
     "time": "7:30 PM",
-    "artist": "“Tuesday Happenings”: Hosted by Ben Williams",
+    "artist": "Ben Williams (Host)",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -93,7 +64,7 @@
     "personnel": [
       {
         "name": "Ben Williams",
-        "instrument": "Bass"
+        "instrument": "bassist"
       }
     ],
     "priceRange": "$XX",
@@ -110,19 +81,19 @@
     "personnel": [
       {
         "name": "Ethan Chilton",
-        "instrument": "Trumpet"
+        "instrument": "trumpeter"
       },
       {
         "name": "Isaiah Harwood",
-        "instrument": "Drums"
+        "instrument": "drums"
       },
       {
         "name": "Dario Bizio",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Gavin Harris",
-        "instrument": "Piano"
+        "instrument": "piano"
       }
     ],
     "priceRange": "$XX",
@@ -139,27 +110,27 @@
     "personnel": [
       {
         "name": "Emma Dayhuff",
-        "instrument": "Bass"
+        "instrument": "bassist"
       },
       {
         "name": "LoloKamill",
-        "instrument": "Trumpet"
+        "instrument": "musician"
       },
       {
         "name": "Devin Daniels",
-        "instrument": "Alto Saxophone"
+        "instrument": "saxophone"
       },
       {
         "name": "Andrew Renfroe",
-        "instrument": "Guitar"
+        "instrument": "guitar"
       },
       {
         "name": "Luca Mendoza",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Jonathan Pinson",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -176,23 +147,23 @@
     "personnel": [
       {
         "name": "Oscar Hernández",
-        "instrument": "Piano"
+        "instrument": "pianist"
       },
       {
         "name": "Katisse Buckingham",
-        "instrument": "Flute/Saxophone"
+        "instrument": "saxophone/flute"
       },
       {
         "name": "Andy Senesi",
-        "instrument": "Drums"
+        "instrument": "drums"
       },
       {
         "name": "Christian Moraga",
-        "instrument": "Percussion"
+        "instrument": "percussion"
       },
       {
         "name": "Rene Camacho",
-        "instrument": "Bass"
+        "instrument": "bass"
       }
     ],
     "priceRange": "$XX",
@@ -209,19 +180,19 @@
     "personnel": [
       {
         "name": "Christian Euman",
-        "instrument": "Drums"
+        "instrument": "drums"
       },
       {
         "name": "Andrew Renfroe",
-        "instrument": "Guitar"
+        "instrument": "guitar"
       },
       {
         "name": "Aidan Carroll",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Devin Daniels",
-        "instrument": "Alto Saxophone"
+        "instrument": "alto saxophone"
       }
     ],
     "priceRange": "$XX",
@@ -230,7 +201,7 @@
   {
     "date": "2026-07-14",
     "time": "7:30 PM",
-    "artist": "“Tuesday Happenings”: Hosted by Devin Daniels",
+    "artist": "Devin Daniels (Host)",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -238,7 +209,7 @@
     "personnel": [
       {
         "name": "Devin Daniels",
-        "instrument": "Alto Saxophone"
+        "instrument": "saxophone"
       }
     ],
     "priceRange": "$XX",
@@ -255,19 +226,19 @@
     "personnel": [
       {
         "name": "Miles Lennox",
-        "instrument": "Piano"
+        "instrument": "pianist"
       },
       {
         "name": "Nic Gelin",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Nolan Nwachukwu",
-        "instrument": "Drums"
+        "instrument": "drums"
       },
       {
         "name": "Josh Green",
-        "instrument": "Guitar"
+        "instrument": "saxophone"
       }
     ],
     "priceRange": "$XX",
@@ -276,7 +247,7 @@
   {
     "date": "2026-07-22",
     "time": "7:30 PM",
-    "artist": "Martin Nevin with Anthony Wilson & Christian Euman",
+    "artist": "Martin Nevin",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -284,15 +255,15 @@
     "personnel": [
       {
         "name": "Martin Nevin",
-        "instrument": "Bass"
+        "instrument": "bassist"
       },
       {
         "name": "Anthony Wilson",
-        "instrument": "Guitar"
+        "instrument": "guitarist"
       },
       {
         "name": "Christian Euman",
-        "instrument": "Drums"
+        "instrument": "drummer"
       }
     ],
     "priceRange": "$XX",
@@ -309,23 +280,23 @@
     "personnel": [
       {
         "name": "Tim Rachbach",
-        "instrument": "Guitar"
+        "instrument": "guitarist"
       },
       {
         "name": "Mark Turner",
-        "instrument": "Saxophone"
+        "instrument": "saxophonist"
       },
       {
         "name": "Adam Ratner",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Adam Hersh",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Graeham Guerin",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -334,7 +305,7 @@
   {
     "date": "2026-07-28",
     "time": "7:30 PM",
-    "artist": "“Tuesday Happenings”: Hosted by Devin Daniels",
+    "artist": "Devin Daniels (Host)",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -342,7 +313,7 @@
     "personnel": [
       {
         "name": "Devin Daniels",
-        "instrument": "Alto Saxophone"
+        "instrument": "saxophone"
       }
     ],
     "priceRange": "$XX",
@@ -359,19 +330,19 @@
     "personnel": [
       {
         "name": "Adi Meyerson",
-        "instrument": "Bass"
+        "instrument": "bassist"
       },
       {
         "name": "Nicole McCabe",
-        "instrument": "Saxophone"
+        "instrument": "saxophonist"
       },
       {
         "name": "Julien Knowles",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Anthony Fung",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -388,19 +359,19 @@
     "personnel": [
       {
         "name": "Reggie Quinerly",
-        "instrument": "Drums"
+        "instrument": "drummer"
       },
       {
         "name": "Ashley Chanel",
-        "instrument": "Vocals"
+        "instrument": "vocalist"
       },
       {
         "name": "Reuben Allen",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Johnathan Richards",
-        "instrument": "Bass"
+        "instrument": "bass"
       }
     ],
     "priceRange": "$XX",
@@ -417,19 +388,19 @@
     "personnel": [
       {
         "name": "Peter Erskine",
-        "instrument": "Drums"
+        "instrument": "drums"
       },
       {
         "name": "John Beasley",
-        "instrument": "Piano/Keyboards"
+        "instrument": "piano/keyboards"
       },
       {
         "name": "Bob Sheppard",
-        "instrument": "Saxophone"
+        "instrument": "saxophone"
       },
       {
         "name": "Janek Gwizdala",
-        "instrument": "Bass"
+        "instrument": "bass"
       }
     ],
     "priceRange": "$XX",
@@ -446,19 +417,19 @@
     "personnel": [
       {
         "name": "Peter Erskine",
-        "instrument": "Drums"
+        "instrument": "drums"
       },
       {
         "name": "John Beasley",
-        "instrument": "Piano/Keyboards"
+        "instrument": "piano/keyboards"
       },
       {
         "name": "Bob Sheppard",
-        "instrument": "Saxophone"
+        "instrument": "saxophone"
       },
       {
         "name": "Janek Gwizdala",
-        "instrument": "Bass"
+        "instrument": "bass"
       }
     ],
     "priceRange": "$XX",
@@ -467,7 +438,7 @@
   {
     "date": "2026-08-07",
     "time": "7:30 PM",
-    "artist": "Nicole McCabe Quartet Live Album Recording",
+    "artist": "Nicole McCabe Quartet",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -475,19 +446,48 @@
     "personnel": [
       {
         "name": "Nicole McCabe",
-        "instrument": "Saxophone"
+        "instrument": "saxophonist"
       },
       {
         "name": "Gerald Clayton",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Justin Brown",
-        "instrument": "Drums"
+        "instrument": "drums"
       },
       {
         "name": "Logan Kane",
-        "instrument": "Bass"
+        "instrument": "bass"
+      }
+    ],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-08-08",
+    "time": "7:30 PM",
+    "artist": "Nicole McCabe Quartet",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Nicole McCabe",
+        "instrument": "saxophonist"
+      },
+      {
+        "name": "Gerald Clayton",
+        "instrument": "piano"
+      },
+      {
+        "name": "Justin Brown",
+        "instrument": "drums"
+      },
+      {
+        "name": "Logan Kane",
+        "instrument": "bass"
       }
     ],
     "priceRange": "$XX",
