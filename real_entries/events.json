@@ -1,45 +1,8 @@
 [
   {
-    "date": "2026-07-09",
-    "time": "7:30 PM",
-    "artist": "Emma Dayhuff Sextet",
-    "venue": {
-      "name": "Sam First",
-      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
-    },
-    "personnel": [
-      {
-        "name": "Emma Dayhuff",
-        "instrument": "Bass"
-      },
-      {
-        "name": "LoloKamill",
-        "instrument": ""
-      },
-      {
-        "name": "Devin Daniels",
-        "instrument": "Saxophone"
-      },
-      {
-        "name": "Andrew Renfroe",
-        "instrument": "Guitar"
-      },
-      {
-        "name": "Luca Mendoza",
-        "instrument": "Piano"
-      },
-      {
-        "name": "Jonathan Pinson",
-        "instrument": "Drums"
-      }
-    ],
-    "priceRange": "$TBD",
-    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
-  },
-  {
     "date": "2026-07-10",
-    "time": "7:30 PM",
-    "artist": "Oscar Hernández & Alma Libre",
+    "time": "07:30 PM",
+    "artist": "Oscar Hernández & Alma Libre with Katisse Buckingham, Andy Senesi, Christian Moraga & Rene Camacho",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -47,31 +10,80 @@
     "personnel": [
       {
         "name": "Oscar Hernández",
-        "instrument": "Piano"
+        "instrument": "piano"
+      },
+      {
+        "name": "Oscar Hernández",
+        "instrument": "arrangements"
       },
       {
         "name": "Katisse Buckingham",
-        "instrument": "Saxophone"
+        "instrument": "saxophone"
+      },
+      {
+        "name": "Katisse Buckingham",
+        "instrument": "flute"
       },
       {
         "name": "Andy Senesi",
-        "instrument": "Drums"
+        "instrument": "drums"
       },
       {
         "name": "Christian Moraga",
-        "instrument": "Percussion"
+        "instrument": "percussion"
       },
       {
         "name": "Rene Camacho",
-        "instrument": "Bass"
+        "instrument": "bass"
       }
     ],
-    "priceRange": "$TBD",
+    "priceRange": "$30",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-07-10",
+    "time": "09:30 PM",
+    "artist": "Oscar Hernández & Alma Libre with Katisse Buckingham, Andy Senesi, Christian Moraga & Rene Camacho",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Oscar Hernández",
+        "instrument": "piano"
+      },
+      {
+        "name": "Oscar Hernández",
+        "instrument": "arrangements"
+      },
+      {
+        "name": "Katisse Buckingham",
+        "instrument": "saxophone"
+      },
+      {
+        "name": "Katisse Buckingham",
+        "instrument": "flute"
+      },
+      {
+        "name": "Andy Senesi",
+        "instrument": "drums"
+      },
+      {
+        "name": "Christian Moraga",
+        "instrument": "percussion"
+      },
+      {
+        "name": "Rene Camacho",
+        "instrument": "bass"
+      }
+    ],
+    "priceRange": "$30",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
     "date": "2026-07-11",
-    "time": "7:30 PM",
+    "time": "07:30 PM",
     "artist": "Euman/Renfroe/Carroll Trio Feat. Erin Bentlage",
     "venue": {
       "name": "Sam First",
@@ -80,28 +92,57 @@
     "personnel": [
       {
         "name": "Christian Euman",
-        "instrument": "Drums"
+        "instrument": "drums"
       },
       {
         "name": "Andrew Renfroe",
-        "instrument": "Guitar"
+        "instrument": "guitar"
       },
       {
         "name": "Aidan Carroll",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Erin Bentlage",
-        "instrument": "Vocals"
+        "instrument": "vocals"
       }
     ],
-    "priceRange": "$TBD",
+    "priceRange": "$30",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-07-11",
+    "time": "09:30 PM",
+    "artist": "Euman/Renfroe/Carroll Trio Feat. Erin Bentlage",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Christian Euman",
+        "instrument": "drums"
+      },
+      {
+        "name": "Andrew Renfroe",
+        "instrument": "guitar"
+      },
+      {
+        "name": "Aidan Carroll",
+        "instrument": "bass"
+      },
+      {
+        "name": "Erin Bentlage",
+        "instrument": "vocals"
+      }
+    ],
+    "priceRange": "$30",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
     "date": "2026-07-14",
-    "time": "7:30 PM",
-    "artist": "“Tuesday Happenings”: Hosted by Devin Daniels",
+    "time": "07:30 PM",
+    "artist": "Devin Daniels House Band",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -109,32 +150,65 @@
     "personnel": [
       {
         "name": "Devin Daniels",
-        "instrument": "Saxophone"
+        "instrument": "saxophone"
       },
       {
         "name": "Julien Knowles",
-        "instrument": "Trumpet"
+        "instrument": "piano"
       },
       {
         "name": "Paul Cornish",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Logan Kane",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Jonathan Pinson",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
-    "priceRange": "$TBD",
+    "priceRange": "$30",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-07-14",
+    "time": "09:30 PM",
+    "artist": "Devin Daniels Hosted Jam Session",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Devin Daniels",
+        "instrument": "saxophone"
+      },
+      {
+        "name": "Julien Knowles",
+        "instrument": "piano"
+      },
+      {
+        "name": "Paul Cornish",
+        "instrument": "piano"
+      },
+      {
+        "name": "Logan Kane",
+        "instrument": "bass"
+      },
+      {
+        "name": "Jonathan Pinson",
+        "instrument": "drums"
+      }
+    ],
+    "priceRange": "$30",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
     "date": "2026-07-15",
-    "time": "7:30 PM",
-    "artist": "Jason Hayashi Group",
+    "time": "07:30 PM",
+    "artist": "Jason Hayashi Group with Steve Lehman, Luca Mendoza, Ryan Embola & Jonathan Pinson",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -142,32 +216,73 @@
     "personnel": [
       {
         "name": "Jason Hayashi",
-        "instrument": "Saxophone"
+        "instrument": "saxophone"
+      },
+      {
+        "name": "Jason Hayashi",
+        "instrument": "composition"
       },
       {
         "name": "Steve Lehman",
-        "instrument": "Saxophone"
+        "instrument": "saxophone"
       },
       {
         "name": "Luca Mendoza",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Ryan Embola",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Jonathan Pinson",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
-    "priceRange": "$TBD",
+    "priceRange": "$30",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-07-15",
+    "time": "09:30 PM",
+    "artist": "Jason Hayashi Group with Steve Lehman, Luca Mendoza, Ryan Embola & Jonathan Pinson",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Jason Hayashi",
+        "instrument": "saxophone"
+      },
+      {
+        "name": "Jason Hayashi",
+        "instrument": "composition"
+      },
+      {
+        "name": "Steve Lehman",
+        "instrument": "saxophone"
+      },
+      {
+        "name": "Luca Mendoza",
+        "instrument": "piano"
+      },
+      {
+        "name": "Ryan Embola",
+        "instrument": "bass"
+      },
+      {
+        "name": "Jonathan Pinson",
+        "instrument": "drums"
+      }
+    ],
+    "priceRange": "$30",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
     "date": "2026-07-16",
-    "time": "7:30 PM",
-    "artist": "Miles Lennox Quartet",
+    "time": "07:30 PM",
+    "artist": "KCRW Presents: \"Third Thursdays\" with Miles Lennox Quartet with Nic Gelin, Nolan Nwachukwu & John Davis",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -175,28 +290,57 @@
     "personnel": [
       {
         "name": "Miles Lennox",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Nic Gelin",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Nolan Nwachukwu",
-        "instrument": "Drums"
+        "instrument": "drums"
       },
       {
         "name": "John Davis",
-        "instrument": "Saxophone"
+        "instrument": "guitar"
       }
     ],
-    "priceRange": "$TBD",
+    "priceRange": "$30",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-07-16",
+    "time": "09:30 PM",
+    "artist": "KCRW Presents: \"Third Thursdays\" with Miles Lennox Quartet with Nic Gelin, Nolan Nwachukwu & John Davis",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Miles Lennox",
+        "instrument": "piano"
+      },
+      {
+        "name": "Nic Gelin",
+        "instrument": "bass"
+      },
+      {
+        "name": "Nolan Nwachukwu",
+        "instrument": "drums"
+      },
+      {
+        "name": "John Davis",
+        "instrument": "guitar"
+      }
+    ],
+    "priceRange": "$30",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
     "date": "2026-07-17",
-    "time": "7:30 PM",
-    "artist": "Larry Goldings trio",
+    "time": "07:30 PM",
+    "artist": "Larry Goldings trio with David Piltch & Joe La Barbera",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -204,23 +348,56 @@
     "personnel": [
       {
         "name": "Larry Goldings",
-        "instrument": "Piano, Hammond B-3 organ"
+        "instrument": "piano"
+      },
+      {
+        "name": "Larry Goldings",
+        "instrument": "Hammond B-3 organ"
       },
       {
         "name": "David Piltch",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Joe La Barbera",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
-    "priceRange": "$TBD",
+    "priceRange": "$30",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-07-17",
+    "time": "09:30 PM",
+    "artist": "Larry Goldings trio with David Piltch & Joe La Barbera",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Larry Goldings",
+        "instrument": "piano"
+      },
+      {
+        "name": "Larry Goldings",
+        "instrument": "Hammond B-3 organ"
+      },
+      {
+        "name": "David Piltch",
+        "instrument": "bass"
+      },
+      {
+        "name": "Joe La Barbera",
+        "instrument": "drums"
+      }
+    ],
+    "priceRange": "$30",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
     "date": "2026-07-18",
-    "time": "7:30 PM",
+    "time": "07:30 PM",
     "artist": "Benedict, Kane & Penn Trio",
     "venue": {
       "name": "Sam First",
@@ -229,24 +406,49 @@
     "personnel": [
       {
         "name": "Lorin Benedict",
-        "instrument": "Vocals"
+        "instrument": "vocals"
       },
       {
         "name": "Logan Kane",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Clarence Penn",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
-    "priceRange": "$TBD",
+    "priceRange": "$30",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-07-18",
+    "time": "09:30 PM",
+    "artist": "Benedict, Kane & Penn Trio",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Lorin Benedict",
+        "instrument": "vocals"
+      },
+      {
+        "name": "Logan Kane",
+        "instrument": "bass"
+      },
+      {
+        "name": "Clarence Penn",
+        "instrument": "drums"
+      }
+    ],
+    "priceRange": "$30",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
     "date": "2026-07-22",
-    "time": "7:30 PM",
-    "artist": "Martin Nevin",
+    "time": "07:30 PM",
+    "artist": "Martin Nevin with Joshua White & Christian Euman",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -254,24 +456,65 @@
     "personnel": [
       {
         "name": "Martin Nevin",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
-        "name": "Anthony Wilson",
-        "instrument": "Guitar"
+        "name": "Martin Nevin",
+        "instrument": "composition"
+      },
+      {
+        "name": "Joshua White",
+        "instrument": "piano"
       },
       {
         "name": "Christian Euman",
-        "instrument": "Drums"
+        "instrument": "drums"
+      },
+      {
+        "name": "Anthony Wilson",
+        "instrument": "guitar"
       }
     ],
-    "priceRange": "$TBD",
+    "priceRange": "$30",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-07-22",
+    "time": "09:30 PM",
+    "artist": "Martin Nevin with Joshua White & Christian Euman",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Martin Nevin",
+        "instrument": "bass"
+      },
+      {
+        "name": "Martin Nevin",
+        "instrument": "composition"
+      },
+      {
+        "name": "Joshua White",
+        "instrument": "piano"
+      },
+      {
+        "name": "Christian Euman",
+        "instrument": "drums"
+      },
+      {
+        "name": "Anthony Wilson",
+        "instrument": "guitar"
+      }
+    ],
+    "priceRange": "$30",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
     "date": "2026-07-23",
-    "time": "7:30 PM",
-    "artist": "Tim Rachbach Group ft. Mark Turner",
+    "time": "07:30 PM",
+    "artist": "Tim Rachbach Group ft. Mark Turner with Adam Ratner, Adam Hersh & Graeham Guerin",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -279,32 +522,73 @@
     "personnel": [
       {
         "name": "Tim Rachbach",
-        "instrument": "Guitar"
+        "instrument": "guitar"
+      },
+      {
+        "name": "Tim Rachbach",
+        "instrument": "composition"
       },
       {
         "name": "Mark Turner",
-        "instrument": "Saxophone"
+        "instrument": "saxophone"
       },
       {
         "name": "Adam Ratner",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Adam Hersh",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Graeham Guerin",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
-    "priceRange": "$TBD",
+    "priceRange": "$30",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-07-23",
+    "time": "09:30 PM",
+    "artist": "Tim Rachbach Group ft. Mark Turner with Adam Ratner, Adam Hersh & Graeham Guerin",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Tim Rachbach",
+        "instrument": "guitar"
+      },
+      {
+        "name": "Tim Rachbach",
+        "instrument": "composition"
+      },
+      {
+        "name": "Mark Turner",
+        "instrument": "saxophone"
+      },
+      {
+        "name": "Adam Ratner",
+        "instrument": "bass"
+      },
+      {
+        "name": "Adam Hersh",
+        "instrument": "piano"
+      },
+      {
+        "name": "Graeham Guerin",
+        "instrument": "drums"
+      }
+    ],
+    "priceRange": "$30",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
     "date": "2026-07-24",
-    "time": "7:30 PM",
-    "artist": "Jane Monheit Duo",
+    "time": "07:30 PM",
+    "artist": "Jane Monheit Duo with Max Haymer",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -312,20 +596,41 @@
     "personnel": [
       {
         "name": "Jane Monheit",
-        "instrument": "Vocals"
+        "instrument": "vocals"
       },
       {
         "name": "Max Haymer",
-        "instrument": "Piano"
+        "instrument": "piano"
       }
     ],
-    "priceRange": "$TBD",
+    "priceRange": "$30",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-07-24",
+    "time": "09:30 PM",
+    "artist": "Jane Monheit Duo with Max Haymer",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Jane Monheit",
+        "instrument": "vocals"
+      },
+      {
+        "name": "Max Haymer",
+        "instrument": "piano"
+      }
+    ],
+    "priceRange": "$30",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
     "date": "2026-07-25",
-    "time": "7:30 PM",
-    "artist": "Jane Monheit Duo",
+    "time": "07:30 PM",
+    "artist": "Jane Monheit Duo with Max Haymer",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -333,20 +638,41 @@
     "personnel": [
       {
         "name": "Jane Monheit",
-        "instrument": "Vocals"
+        "instrument": "vocals"
       },
       {
         "name": "Max Haymer",
-        "instrument": "Piano"
+        "instrument": "piano"
       }
     ],
-    "priceRange": "$TBD",
+    "priceRange": "$30",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-07-25",
+    "time": "09:30 PM",
+    "artist": "Jane Monheit Duo with Max Haymer",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Jane Monheit",
+        "instrument": "vocals"
+      },
+      {
+        "name": "Max Haymer",
+        "instrument": "piano"
+      }
+    ],
+    "priceRange": "$30",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
     "date": "2026-07-28",
-    "time": "7:30 PM",
-    "artist": "“Tuesday Happenings”: Hosted by Devin Daniels",
+    "time": "07:30 PM",
+    "artist": "Devin Daniels House Band",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -354,16 +680,33 @@
     "personnel": [
       {
         "name": "Devin Daniels",
-        "instrument": "Saxophone"
+        "instrument": "saxophone"
       }
     ],
-    "priceRange": "$TBD",
+    "priceRange": "$30",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-07-28",
+    "time": "09:30 PM",
+    "artist": "Devin Daniels Hosted Jam Session",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Devin Daniels",
+        "instrument": "saxophone"
+      }
+    ],
+    "priceRange": "$30",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
     "date": "2026-07-29",
-    "time": "7:30 PM",
-    "artist": "Adi Meyerson & Dark Matter",
+    "time": "07:30 PM",
+    "artist": "Adi Meyerson & Dark Matter with Nicole McCabe, Julien Knowles & Anthony Fung",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -371,28 +714,65 @@
     "personnel": [
       {
         "name": "Adi Meyerson",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Nicole McCabe",
-        "instrument": "Saxophone"
+        "instrument": "saxophone"
+      },
+      {
+        "name": "Nicole McCabe",
+        "instrument": "composition"
       },
       {
         "name": "Julien Knowles",
-        "instrument": "Trumpet"
+        "instrument": "piano"
       },
       {
         "name": "Anthony Fung",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
-    "priceRange": "$TBD",
+    "priceRange": "$30",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-07-29",
+    "time": "09:30 PM",
+    "artist": "Adi Meyerson & Dark Matter with Nicole McCabe, Julien Knowles & Anthony Fung",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Adi Meyerson",
+        "instrument": "bass"
+      },
+      {
+        "name": "Nicole McCabe",
+        "instrument": "saxophone"
+      },
+      {
+        "name": "Nicole McCabe",
+        "instrument": "composition"
+      },
+      {
+        "name": "Julien Knowles",
+        "instrument": "piano"
+      },
+      {
+        "name": "Anthony Fung",
+        "instrument": "drums"
+      }
+    ],
+    "priceRange": "$30",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
     "date": "2026-07-30",
-    "time": "7:30 PM",
-    "artist": "\"Quinerly Plays the Connoisseur Series\"",
+    "time": "07:30 PM",
+    "artist": "\"Quinerly Plays the Connoisseur Series\" with Ashley Chanel, Reuben Allen & Johnathan Richards",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -400,28 +780,57 @@
     "personnel": [
       {
         "name": "Reggie Quinerly",
-        "instrument": "Drums"
+        "instrument": "drums"
       },
       {
         "name": "Ashley Chanel",
-        "instrument": "Vocals"
+        "instrument": "vocals"
       },
       {
         "name": "Reuben Allen",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Johnathan Richards",
-        "instrument": "Bass"
+        "instrument": "bass"
       }
     ],
-    "priceRange": "$TBD",
+    "priceRange": "$30",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-07-30",
+    "time": "09:30 PM",
+    "artist": "\"Quinerly Plays the Connoisseur Series\" with Ashley Chanel, Reuben Allen & Johnathan Richards",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Reggie Quinerly",
+        "instrument": "drums"
+      },
+      {
+        "name": "Ashley Chanel",
+        "instrument": "vocals"
+      },
+      {
+        "name": "Reuben Allen",
+        "instrument": "piano"
+      },
+      {
+        "name": "Johnathan Richards",
+        "instrument": "bass"
+      }
+    ],
+    "priceRange": "$30",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
     "date": "2026-07-31",
-    "time": "7:30 PM",
-    "artist": "Peter Erskine Dr. Um Band",
+    "time": "07:30 PM",
+    "artist": "Peter Erskine Dr. Um Band with John Beasley, Bob Sheppard & Janek Gwizdala",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -429,28 +838,57 @@
     "personnel": [
       {
         "name": "Peter Erskine",
-        "instrument": "Drums"
+        "instrument": "drums"
       },
       {
         "name": "John Beasley",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Bob Sheppard",
-        "instrument": "Saxophone"
+        "instrument": "saxophone"
       },
       {
         "name": "Janek Gwizdala",
-        "instrument": "Bass"
+        "instrument": "bass"
       }
     ],
-    "priceRange": "$TBD",
+    "priceRange": "$30",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-07-31",
+    "time": "09:30 PM",
+    "artist": "Peter Erskine Dr. Um Band with John Beasley, Bob Sheppard & Janek Gwizdala",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Peter Erskine",
+        "instrument": "drums"
+      },
+      {
+        "name": "John Beasley",
+        "instrument": "piano"
+      },
+      {
+        "name": "Bob Sheppard",
+        "instrument": "saxophone"
+      },
+      {
+        "name": "Janek Gwizdala",
+        "instrument": "bass"
+      }
+    ],
+    "priceRange": "$30",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
     "date": "2026-08-01",
-    "time": "7:30 PM",
-    "artist": "Peter Erskine Dr. Um Band",
+    "time": "07:30 PM",
+    "artist": "Peter Erskine Dr. Um Band with John Beasley, Bob Sheppard & Janek Gwizdala",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -458,28 +896,115 @@
     "personnel": [
       {
         "name": "Peter Erskine",
-        "instrument": "Drums"
+        "instrument": "drums"
       },
       {
         "name": "John Beasley",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Bob Sheppard",
-        "instrument": "Saxophone"
+        "instrument": "saxophone"
       },
       {
         "name": "Janek Gwizdala",
-        "instrument": "Bass"
+        "instrument": "bass"
       }
     ],
-    "priceRange": "$TBD",
+    "priceRange": "$30",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-08-01",
+    "time": "09:30 PM",
+    "artist": "Peter Erskine Dr. Um Band with John Beasley, Bob Sheppard & Janek Gwizdala",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Peter Erskine",
+        "instrument": "drums"
+      },
+      {
+        "name": "John Beasley",
+        "instrument": "piano"
+      },
+      {
+        "name": "Bob Sheppard",
+        "instrument": "saxophone"
+      },
+      {
+        "name": "Janek Gwizdala",
+        "instrument": "bass"
+      }
+    ],
+    "priceRange": "$30",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-08-05",
+    "time": "07:30 PM",
+    "artist": "Brazilian Jazz Summit with Ian Coury, Marcel Camargo, Michael Ragonese & Marcelo Bucater",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Ian Coury",
+        "instrument": "mandolin"
+      },
+      {
+        "name": "Marcel Camargo",
+        "instrument": "guitar"
+      },
+      {
+        "name": "Michael Ragonese",
+        "instrument": "piano"
+      },
+      {
+        "name": "Marcelo Bucater",
+        "instrument": "drums"
+      }
+    ],
+    "priceRange": "$30",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-08-05",
+    "time": "09:30 PM",
+    "artist": "Brazilian Jazz Summit with Ian Coury, Marcel Camargo, Michael Ragonese & Marcelo Bucater",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Ian Coury",
+        "instrument": "mandolin"
+      },
+      {
+        "name": "Marcel Camargo",
+        "instrument": "guitar"
+      },
+      {
+        "name": "Michael Ragonese",
+        "instrument": "piano"
+      },
+      {
+        "name": "Marcelo Bucater",
+        "instrument": "drums"
+      }
+    ],
+    "priceRange": "$30",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
     "date": "2026-08-07",
-    "time": "7:30 PM",
-    "artist": "Nicole McCabe Quartet Live Album Recording for Sam First Records",
+    "time": "07:30 PM",
+    "artist": "Nicole McCabe Quartet Live Album Recording for Sam First Records feat. Gerald Clayton, Justin Brown & Logan Kane",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -487,22 +1012,59 @@
     "personnel": [
       {
         "name": "Nicole McCabe",
-        "instrument": "Saxophone"
+        "instrument": "saxophone"
+      },
+      {
+        "name": "Nicole McCabe",
+        "instrument": "composition"
       },
       {
         "name": "Gerald Clayton",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Justin Brown",
-        "instrument": "Drums"
+        "instrument": "drums"
       },
       {
         "name": "Logan Kane",
-        "instrument": "Bass"
+        "instrument": "bass"
       }
     ],
-    "priceRange": "$TBD",
+    "priceRange": "$30",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-08-07",
+    "time": "09:30 PM",
+    "artist": "Nicole McCabe Quartet Live Album Recording for Sam First Records feat. Gerald Clayton, Justin Brown & Logan Kane",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Nicole McCabe",
+        "instrument": "saxophone"
+      },
+      {
+        "name": "Nicole McCabe",
+        "instrument": "composition"
+      },
+      {
+        "name": "Gerald Clayton",
+        "instrument": "piano"
+      },
+      {
+        "name": "Justin Brown",
+        "instrument": "drums"
+      },
+      {
+        "name": "Logan Kane",
+        "instrument": "bass"
+      }
+    ],
+    "priceRange": "$30",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   }
 ]
