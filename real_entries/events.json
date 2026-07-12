@@ -1,36 +1,7 @@
 [
   {
-    "date": "2026-07-11",
-    "time": "7:30 PM",
-    "artist": "Euman/Renfroe/Carroll Trio Feat. Erin Bentlage",
-    "venue": {
-      "name": "Sam First",
-      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
-    },
-    "personnel": [
-      {
-        "name": "Christian Euman",
-        "instrument": "Drums"
-      },
-      {
-        "name": "Andrew Renfroe",
-        "instrument": "Guitar"
-      },
-      {
-        "name": "Aidan Carroll",
-        "instrument": "Bass"
-      },
-      {
-        "name": "Erin Bentlage",
-        "instrument": "Vocalist"
-      }
-    ],
-    "priceRange": "$XX",
-    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
-  },
-  {
     "date": "2026-07-14",
-    "time": "7:30 PM",
+    "time": "07:30 PM",
     "artist": "Devin Daniels",
     "venue": {
       "name": "Sam First",
@@ -43,11 +14,11 @@
       },
       {
         "name": "Julien Knowles",
-        "instrument": null
+        "instrument": "Piano"
       },
       {
         "name": "Paul Cornish",
-        "instrument": null
+        "instrument": "Piano"
       },
       {
         "name": "Logan Kane",
@@ -63,7 +34,7 @@
   },
   {
     "date": "2026-07-15",
-    "time": "7:30 PM",
+    "time": "07:30 PM",
     "artist": "Jason Hayashi Group",
     "venue": {
       "name": "Sam First",
@@ -80,11 +51,11 @@
       },
       {
         "name": "Luca Mendoza",
-        "instrument": null
+        "instrument": "Piano"
       },
       {
         "name": "Ryan Embola",
-        "instrument": null
+        "instrument": "Bass"
       },
       {
         "name": "Jonathan Pinson",
@@ -96,7 +67,7 @@
   },
   {
     "date": "2026-07-16",
-    "time": "7:30 PM",
+    "time": "07:30 PM",
     "artist": "Miles Lennox Quartet",
     "venue": {
       "name": "Sam First",
@@ -109,15 +80,15 @@
       },
       {
         "name": "Nic Gelin",
-        "instrument": null
+        "instrument": "Bass"
       },
       {
         "name": "Nolan Nwachukwu",
-        "instrument": null
+        "instrument": "Saxophone"
       },
       {
         "name": "John Davis",
-        "instrument": null
+        "instrument": "Drums"
       }
     ],
     "priceRange": "$XX",
@@ -125,7 +96,7 @@
   },
   {
     "date": "2026-07-17",
-    "time": "7:30 PM",
+    "time": "07:30 PM",
     "artist": "Larry Goldings trio",
     "venue": {
       "name": "Sam First",
@@ -134,7 +105,7 @@
     "personnel": [
       {
         "name": "Larry Goldings",
-        "instrument": "Piano, Hammond B-3 organ"
+        "instrument": "Piano, Hammond B-3 Organ"
       },
       {
         "name": "David Piltch",
@@ -150,7 +121,7 @@
   },
   {
     "date": "2026-07-18",
-    "time": "7:30 PM",
+    "time": "07:30 PM",
     "artist": "Benedict, Kane & Penn Trio",
     "venue": {
       "name": "Sam First",
@@ -159,7 +130,7 @@
     "personnel": [
       {
         "name": "Lorin Benedict",
-        "instrument": "Vocalist"
+        "instrument": "Vocals"
       },
       {
         "name": "Logan Kane",
@@ -175,7 +146,7 @@
   },
   {
     "date": "2026-07-22",
-    "time": "7:30 PM",
+    "time": "07:30 PM",
     "artist": "Martin Nevin",
     "venue": {
       "name": "Sam First",
@@ -185,6 +156,10 @@
       {
         "name": "Martin Nevin",
         "instrument": "Bass"
+      },
+      {
+        "name": "Joshua White",
+        "instrument": "Piano"
       },
       {
         "name": "Anthony Wilson",
@@ -200,7 +175,7 @@
   },
   {
     "date": "2026-07-23",
-    "time": "7:30 PM",
+    "time": "07:30 PM",
     "artist": "Tim Rachbach Group ft. Mark Turner",
     "venue": {
       "name": "Sam First",
@@ -217,15 +192,15 @@
       },
       {
         "name": "Adam Ratner",
-        "instrument": null
+        "instrument": "Guitar"
       },
       {
         "name": "Adam Hersh",
-        "instrument": null
+        "instrument": "Piano"
       },
       {
         "name": "Graeham Guerin",
-        "instrument": null
+        "instrument": "Drums"
       }
     ],
     "priceRange": "$XX",
@@ -233,7 +208,7 @@
   },
   {
     "date": "2026-07-24",
-    "time": "7:30 PM",
+    "time": "07:30 PM",
     "artist": "Jane Monheit Duo",
     "venue": {
       "name": "Sam First",
@@ -242,7 +217,7 @@
     "personnel": [
       {
         "name": "Jane Monheit",
-        "instrument": "Vocalist"
+        "instrument": "Vocals"
       },
       {
         "name": "Max Haymer",
@@ -254,7 +229,7 @@
   },
   {
     "date": "2026-07-25",
-    "time": "7:30 PM",
+    "time": "07:30 PM",
     "artist": "Jane Monheit Duo",
     "venue": {
       "name": "Sam First",
@@ -263,7 +238,7 @@
     "personnel": [
       {
         "name": "Jane Monheit",
-        "instrument": "Vocalist"
+        "instrument": "Vocals"
       },
       {
         "name": "Max Haymer",
@@ -275,7 +250,7 @@
   },
   {
     "date": "2026-07-28",
-    "time": "7:30 PM",
+    "time": "07:30 PM",
     "artist": "Devin Daniels",
     "venue": {
       "name": "Sam First",
@@ -292,7 +267,7 @@
   },
   {
     "date": "2026-07-29",
-    "time": "7:30 PM",
+    "time": "07:30 PM",
     "artist": "Adi Meyerson & Dark Matter",
     "venue": {
       "name": "Sam First",
@@ -309,7 +284,7 @@
       },
       {
         "name": "Julien Knowles",
-        "instrument": null
+        "instrument": "Piano"
       },
       {
         "name": "Anthony Fung",
@@ -321,7 +296,7 @@
   },
   {
     "date": "2026-07-30",
-    "time": "7:30 PM",
+    "time": "07:30 PM",
     "artist": "Reggie Quinerly",
     "venue": {
       "name": "Sam First",
@@ -334,15 +309,15 @@
       },
       {
         "name": "Ashley Chanel",
-        "instrument": null
+        "instrument": "Vocals"
       },
       {
         "name": "Reuben Allen",
-        "instrument": null
+        "instrument": "Piano"
       },
       {
         "name": "Johnathan Richards",
-        "instrument": null
+        "instrument": "Bass"
       }
     ],
     "priceRange": "$XX",
@@ -350,7 +325,7 @@
   },
   {
     "date": "2026-07-31",
-    "time": "7:30 PM",
+    "time": "07:30 PM",
     "artist": "Peter Erskine Dr. Um Band",
     "venue": {
       "name": "Sam First",
@@ -363,7 +338,7 @@
       },
       {
         "name": "John Beasley",
-        "instrument": "Piano/Keyboards"
+        "instrument": "Piano"
       },
       {
         "name": "Bob Sheppard",
@@ -379,7 +354,7 @@
   },
   {
     "date": "2026-08-01",
-    "time": "7:30 PM",
+    "time": "07:30 PM",
     "artist": "Peter Erskine Dr. Um Band",
     "venue": {
       "name": "Sam First",
@@ -392,7 +367,7 @@
       },
       {
         "name": "John Beasley",
-        "instrument": "Piano/Keyboards"
+        "instrument": "Piano"
       },
       {
         "name": "Bob Sheppard",
@@ -408,7 +383,7 @@
   },
   {
     "date": "2026-08-04",
-    "time": "7:30 PM",
+    "time": "07:30 PM",
     "artist": "Gerald Clayton",
     "venue": {
       "name": "Sam First",
@@ -425,7 +400,7 @@
   },
   {
     "date": "2026-08-05",
-    "time": "7:30 PM",
+    "time": "07:30 PM",
     "artist": "Brazilian Jazz Summit",
     "venue": {
       "name": "Sam First",
@@ -434,7 +409,7 @@
     "personnel": [
       {
         "name": "Ian Coury",
-        "instrument": "10-string mandolin"
+        "instrument": "Mandolin"
       },
       {
         "name": "Marcel Camargo",
@@ -454,7 +429,36 @@
   },
   {
     "date": "2026-08-07",
-    "time": "7:30 PM",
+    "time": "07:30 PM",
+    "artist": "Nicole McCabe Quartet",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Nicole McCabe",
+        "instrument": "Saxophone"
+      },
+      {
+        "name": "Gerald Clayton",
+        "instrument": "Piano"
+      },
+      {
+        "name": "Justin Brown",
+        "instrument": "Drums"
+      },
+      {
+        "name": "Logan Kane",
+        "instrument": "Bass"
+      }
+    ],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-08-08",
+    "time": "07:30 PM",
     "artist": "Nicole McCabe Quartet",
     "venue": {
       "name": "Sam First",
