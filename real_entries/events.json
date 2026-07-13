@@ -1,7 +1,7 @@
 [
   {
     "date": "2026-07-14",
-    "time": "07:30 PM",
+    "time": "7:30 PM",
     "artist": "Devin Daniels",
     "venue": {
       "name": "Sam First",
@@ -14,7 +14,7 @@
       },
       {
         "name": "Julien Knowles",
-        "instrument": "Piano"
+        "instrument": ""
       },
       {
         "name": "Paul Cornish",
@@ -34,7 +34,7 @@
   },
   {
     "date": "2026-07-15",
-    "time": "07:30 PM",
+    "time": "7:30 PM",
     "artist": "Jason Hayashi Group",
     "venue": {
       "name": "Sam First",
@@ -67,7 +67,7 @@
   },
   {
     "date": "2026-07-16",
-    "time": "07:30 PM",
+    "time": "7:30 PM",
     "artist": "Miles Lennox Quartet",
     "venue": {
       "name": "Sam First",
@@ -84,11 +84,11 @@
       },
       {
         "name": "Nolan Nwachukwu",
-        "instrument": "Saxophone"
+        "instrument": "Drums"
       },
       {
         "name": "John Davis",
-        "instrument": "Drums"
+        "instrument": "Saxophone"
       }
     ],
     "priceRange": "$XX",
@@ -96,7 +96,7 @@
   },
   {
     "date": "2026-07-17",
-    "time": "07:30 PM",
+    "time": "7:30 PM",
     "artist": "Larry Goldings trio",
     "venue": {
       "name": "Sam First",
@@ -121,7 +121,7 @@
   },
   {
     "date": "2026-07-18",
-    "time": "07:30 PM",
+    "time": "7:30 PM",
     "artist": "Benedict, Kane & Penn Trio",
     "venue": {
       "name": "Sam First",
@@ -146,7 +146,7 @@
   },
   {
     "date": "2026-07-22",
-    "time": "07:30 PM",
+    "time": "7:30 PM",
     "artist": "Martin Nevin",
     "venue": {
       "name": "Sam First",
@@ -156,10 +156,6 @@
       {
         "name": "Martin Nevin",
         "instrument": "Bass"
-      },
-      {
-        "name": "Joshua White",
-        "instrument": "Piano"
       },
       {
         "name": "Anthony Wilson",
@@ -175,7 +171,7 @@
   },
   {
     "date": "2026-07-23",
-    "time": "07:30 PM",
+    "time": "7:30 PM",
     "artist": "Tim Rachbach Group ft. Mark Turner",
     "venue": {
       "name": "Sam First",
@@ -192,11 +188,11 @@
       },
       {
         "name": "Adam Ratner",
-        "instrument": "Guitar"
+        "instrument": "Piano"
       },
       {
         "name": "Adam Hersh",
-        "instrument": "Piano"
+        "instrument": "Bass"
       },
       {
         "name": "Graeham Guerin",
@@ -208,7 +204,7 @@
   },
   {
     "date": "2026-07-24",
-    "time": "07:30 PM",
+    "time": "7:30 PM",
     "artist": "Jane Monheit Duo",
     "venue": {
       "name": "Sam First",
@@ -229,7 +225,7 @@
   },
   {
     "date": "2026-07-25",
-    "time": "07:30 PM",
+    "time": "7:30 PM",
     "artist": "Jane Monheit Duo",
     "venue": {
       "name": "Sam First",
@@ -250,7 +246,7 @@
   },
   {
     "date": "2026-07-28",
-    "time": "07:30 PM",
+    "time": "7:30 PM",
     "artist": "Devin Daniels",
     "venue": {
       "name": "Sam First",
@@ -260,6 +256,22 @@
       {
         "name": "Devin Daniels",
         "instrument": "Saxophone"
+      },
+      {
+        "name": "Julien Knowles",
+        "instrument": ""
+      },
+      {
+        "name": "Paul Cornish",
+        "instrument": "Piano"
+      },
+      {
+        "name": "Logan Kane",
+        "instrument": "Bass"
+      },
+      {
+        "name": "Jonathan Pinson",
+        "instrument": "Drums"
       }
     ],
     "priceRange": "$XX",
@@ -267,7 +279,7 @@
   },
   {
     "date": "2026-07-29",
-    "time": "07:30 PM",
+    "time": "7:30 PM",
     "artist": "Adi Meyerson & Dark Matter",
     "venue": {
       "name": "Sam First",
@@ -284,7 +296,7 @@
       },
       {
         "name": "Julien Knowles",
-        "instrument": "Piano"
+        "instrument": ""
       },
       {
         "name": "Anthony Fung",
@@ -296,7 +308,7 @@
   },
   {
     "date": "2026-07-30",
-    "time": "07:30 PM",
+    "time": "7:30 PM",
     "artist": "Reggie Quinerly",
     "venue": {
       "name": "Sam First",
@@ -325,7 +337,7 @@
   },
   {
     "date": "2026-07-31",
-    "time": "07:30 PM",
+    "time": "7:30 PM",
     "artist": "Peter Erskine Dr. Um Band",
     "venue": {
       "name": "Sam First",
@@ -338,7 +350,7 @@
       },
       {
         "name": "John Beasley",
-        "instrument": "Piano"
+        "instrument": "Piano, Keyboards"
       },
       {
         "name": "Bob Sheppard",
@@ -354,7 +366,7 @@
   },
   {
     "date": "2026-08-01",
-    "time": "07:30 PM",
+    "time": "7:30 PM",
     "artist": "Peter Erskine Dr. Um Band",
     "venue": {
       "name": "Sam First",
@@ -367,7 +379,7 @@
       },
       {
         "name": "John Beasley",
-        "instrument": "Piano"
+        "instrument": "Piano, Keyboards"
       },
       {
         "name": "Bob Sheppard",
@@ -383,7 +395,7 @@
   },
   {
     "date": "2026-08-04",
-    "time": "07:30 PM",
+    "time": "7:30 PM",
     "artist": "Gerald Clayton",
     "venue": {
       "name": "Sam First",
@@ -400,7 +412,7 @@
   },
   {
     "date": "2026-08-05",
-    "time": "07:30 PM",
+    "time": "7:30 PM",
     "artist": "Brazilian Jazz Summit",
     "venue": {
       "name": "Sam First",
@@ -429,7 +441,7 @@
   },
   {
     "date": "2026-08-07",
-    "time": "07:30 PM",
+    "time": "7:30 PM",
     "artist": "Nicole McCabe Quartet",
     "venue": {
       "name": "Sam First",
@@ -458,7 +470,7 @@
   },
   {
     "date": "2026-08-08",
-    "time": "07:30 PM",
+    "time": "7:30 PM",
     "artist": "Nicole McCabe Quartet",
     "venue": {
       "name": "Sam First",
