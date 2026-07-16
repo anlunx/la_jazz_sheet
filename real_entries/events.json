@@ -1,40 +1,7 @@
 [
   {
-    "date": "2026-07-15",
-    "time": "7:30 PM",
-    "artist": "Jason Hayashi Group",
-    "venue": {
-      "name": "Sam First",
-      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
-    },
-    "personnel": [
-      {
-        "name": "Jason Hayashi",
-        "instrument": "Saxophonist"
-      },
-      {
-        "name": "Steve Lehman",
-        "instrument": "Saxophone"
-      },
-      {
-        "name": "Luca Mendoza",
-        "instrument": "Piano"
-      },
-      {
-        "name": "Ryan Embola",
-        "instrument": "Bass"
-      },
-      {
-        "name": "Jonathan Pinson",
-        "instrument": "Drums"
-      }
-    ],
-    "priceRange": "$XX",
-    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
-  },
-  {
     "date": "2026-07-16",
-    "time": "7:30 PM",
+    "time": "07:30 PM",
     "artist": "Miles Lennox Quartet",
     "venue": {
       "name": "Sam First",
@@ -43,7 +10,7 @@
     "personnel": [
       {
         "name": "Miles Lennox",
-        "instrument": "Pianist"
+        "instrument": "Piano"
       },
       {
         "name": "Nic Gelin",
@@ -63,7 +30,7 @@
   },
   {
     "date": "2026-07-17",
-    "time": "7:30 PM",
+    "time": "07:30 PM",
     "artist": "Larry Goldings Trio",
     "venue": {
       "name": "Sam First",
@@ -88,7 +55,7 @@
   },
   {
     "date": "2026-07-18",
-    "time": "7:30 PM",
+    "time": "07:30 PM",
     "artist": "Benedict, Kane & Penn Trio",
     "venue": {
       "name": "Sam First",
@@ -97,15 +64,15 @@
     "personnel": [
       {
         "name": "Lorin Benedict",
-        "instrument": "Vocalist"
+        "instrument": "Vocals"
       },
       {
         "name": "Logan Kane",
-        "instrument": "Bassist"
+        "instrument": "Bass"
       },
       {
         "name": "Clarence Penn",
-        "instrument": "Drummer"
+        "instrument": "Drums"
       }
     ],
     "priceRange": "$XX",
@@ -113,8 +80,8 @@
   },
   {
     "date": "2026-07-21",
-    "time": "7:30 PM",
-    "artist": "Tuesday Happenings: Hosted by Kevin Kanner",
+    "time": "07:30 PM",
+    "artist": "“Tuesday Happenings”: Hosted by Kevin Kanner",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -122,7 +89,7 @@
     "personnel": [
       {
         "name": "Kevin Kanner",
-        "instrument": "Drummer"
+        "instrument": "Drums"
       }
     ],
     "priceRange": "$XX",
@@ -130,7 +97,7 @@
   },
   {
     "date": "2026-07-22",
-    "time": "7:30 PM",
+    "time": "07:30 PM",
     "artist": "Martin Nevin",
     "venue": {
       "name": "Sam First",
@@ -139,19 +106,15 @@
     "personnel": [
       {
         "name": "Martin Nevin",
-        "instrument": "Bassist"
-      },
-      {
-        "name": "Joshua White",
-        "instrument": "Piano"
+        "instrument": "Bass"
       },
       {
         "name": "Anthony Wilson",
-        "instrument": "Guitarist"
+        "instrument": "Guitar"
       },
       {
         "name": "Christian Euman",
-        "instrument": "Drummer"
+        "instrument": "Drums"
       }
     ],
     "priceRange": "$XX",
@@ -159,7 +122,7 @@
   },
   {
     "date": "2026-07-23",
-    "time": "7:30 PM",
+    "time": "07:30 PM",
     "artist": "Tim Rachbach Group ft. Mark Turner",
     "venue": {
       "name": "Sam First",
@@ -168,15 +131,15 @@
     "personnel": [
       {
         "name": "Tim Rachbach",
-        "instrument": "Guitarist"
+        "instrument": "Guitar"
       },
       {
         "name": "Mark Turner",
-        "instrument": "Saxophonist"
+        "instrument": "Saxophone"
       },
       {
         "name": "Adam Ratner",
-        "instrument": "Bass"
+        "instrument": "Guitar"
       },
       {
         "name": "Adam Hersh",
@@ -192,7 +155,7 @@
   },
   {
     "date": "2026-07-24",
-    "time": "7:30 PM",
+    "time": "07:30 PM",
     "artist": "Jane Monheit Duo",
     "venue": {
       "name": "Sam First",
@@ -201,11 +164,11 @@
     "personnel": [
       {
         "name": "Jane Monheit",
-        "instrument": "Vocalist"
+        "instrument": "Vocals"
       },
       {
         "name": "Max Haymer",
-        "instrument": "Pianist"
+        "instrument": "Piano"
       }
     ],
     "priceRange": "$XX",
@@ -213,7 +176,7 @@
   },
   {
     "date": "2026-07-25",
-    "time": "7:30 PM",
+    "time": "07:30 PM",
     "artist": "Jane Monheit Duo",
     "venue": {
       "name": "Sam First",
@@ -222,11 +185,11 @@
     "personnel": [
       {
         "name": "Jane Monheit",
-        "instrument": "Vocalist"
+        "instrument": "Vocals"
       },
       {
         "name": "Max Haymer",
-        "instrument": "Pianist"
+        "instrument": "Piano"
       }
     ],
     "priceRange": "$XX",
@@ -234,8 +197,8 @@
   },
   {
     "date": "2026-07-28",
-    "time": "7:30 PM",
-    "artist": "Tuesday Happenings: Hosted by Devin Daniels",
+    "time": "07:30 PM",
+    "artist": "“Tuesday Happenings”: Hosted by Devin Daniels",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -251,7 +214,7 @@
   },
   {
     "date": "2026-07-29",
-    "time": "7:30 PM",
+    "time": "07:30 PM",
     "artist": "Adi Meyerson & Dark Matter",
     "venue": {
       "name": "Sam First",
@@ -280,8 +243,8 @@
   },
   {
     "date": "2026-07-30",
-    "time": "7:30 PM",
-    "artist": "Reggie Quinerly: Quinerly Plays the Connoisseur Series",
+    "time": "07:30 PM",
+    "artist": "Quinerly Plays the Connoisseur Series",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -289,11 +252,11 @@
     "personnel": [
       {
         "name": "Reggie Quinerly",
-        "instrument": "Drummer"
+        "instrument": "Drums"
       },
       {
         "name": "Ashley Chanel",
-        "instrument": "Vocalist"
+        "instrument": "Vocals"
       },
       {
         "name": "Reuben Allen",
@@ -309,7 +272,7 @@
   },
   {
     "date": "2026-07-31",
-    "time": "7:30 PM",
+    "time": "07:30 PM",
     "artist": "Peter Erskine Dr. Um Band",
     "venue": {
       "name": "Sam First",
@@ -322,7 +285,7 @@
       },
       {
         "name": "John Beasley",
-        "instrument": "Keyboards"
+        "instrument": "Piano"
       },
       {
         "name": "Bob Sheppard",
@@ -338,7 +301,7 @@
   },
   {
     "date": "2026-08-01",
-    "time": "7:30 PM",
+    "time": "07:30 PM",
     "artist": "Peter Erskine Dr. Um Band",
     "venue": {
       "name": "Sam First",
@@ -351,7 +314,7 @@
       },
       {
         "name": "John Beasley",
-        "instrument": "Keyboards"
+        "instrument": "Piano"
       },
       {
         "name": "Bob Sheppard",
@@ -367,8 +330,8 @@
   },
   {
     "date": "2026-08-04",
-    "time": "7:30 PM",
-    "artist": "Tuesday Happenings: Hosted by Gerald Clayton",
+    "time": "07:30 PM",
+    "artist": "“Tuesday Happenings”: Hosted by Gerald Clayton",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -376,7 +339,7 @@
     "personnel": [
       {
         "name": "Gerald Clayton",
-        "instrument": "Pianist"
+        "instrument": "Piano"
       }
     ],
     "priceRange": "$XX",
@@ -384,7 +347,7 @@
   },
   {
     "date": "2026-08-05",
-    "time": "7:30 PM",
+    "time": "07:30 PM",
     "artist": "Brazilian Jazz Summit",
     "venue": {
       "name": "Sam First",
@@ -393,7 +356,7 @@
     "personnel": [
       {
         "name": "Ian Coury",
-        "instrument": "10-string mandolin"
+        "instrument": "Mandolin"
       },
       {
         "name": "Marcel Camargo",
@@ -412,8 +375,29 @@
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
+    "date": "2026-08-06",
+    "time": "07:30 PM",
+    "artist": "Pritesh Walia & Henry Godfrey Big Band",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Pritesh Walia",
+        "instrument": "Guitar"
+      },
+      {
+        "name": "Henry Godfrey",
+        "instrument": "Saxophone"
+      }
+    ],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
     "date": "2026-08-07",
-    "time": "7:30 PM",
+    "time": "07:30 PM",
     "artist": "Nicole McCabe Quartet",
     "venue": {
       "name": "Sam First",
@@ -422,7 +406,7 @@
     "personnel": [
       {
         "name": "Nicole McCabe",
-        "instrument": "Saxophonist"
+        "instrument": "Saxophone"
       },
       {
         "name": "Gerald Clayton",
@@ -442,7 +426,7 @@
   },
   {
     "date": "2026-08-08",
-    "time": "7:30 PM",
+    "time": "07:30 PM",
     "artist": "Nicole McCabe Quartet",
     "venue": {
       "name": "Sam First",
@@ -451,7 +435,7 @@
     "personnel": [
       {
         "name": "Nicole McCabe",
-        "instrument": "Saxophonist"
+        "instrument": "Saxophone"
       },
       {
         "name": "Gerald Clayton",
