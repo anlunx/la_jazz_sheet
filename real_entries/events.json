@@ -1,30 +1,5 @@
 [
   {
-    "date": "2026-07-17",
-    "time": "7:30 PM",
-    "artist": "Larry Goldings Trio",
-    "venue": {
-      "name": "Sam First",
-      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
-    },
-    "personnel": [
-      {
-        "name": "Larry Goldings",
-        "instrument": "piano, Hammond B-3 organ"
-      },
-      {
-        "name": "David Piltch",
-        "instrument": "bass"
-      },
-      {
-        "name": "Joe La Barbera",
-        "instrument": "drums"
-      }
-    ],
-    "priceRange": "$XX",
-    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
-  },
-  {
     "date": "2026-07-18",
     "time": "7:30 PM",
     "artist": "Benedict, Kane & Penn Trio",
@@ -35,15 +10,15 @@
     "personnel": [
       {
         "name": "Lorin Benedict",
-        "instrument": "vocalist"
+        "instrument": "vocals"
       },
       {
         "name": "Logan Kane",
-        "instrument": "bassist"
+        "instrument": "bass"
       },
       {
         "name": "Clarence Penn",
-        "instrument": "drummer"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -60,7 +35,7 @@
     "personnel": [
       {
         "name": "Kevin Kanner",
-        "instrument": "drummer"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -77,15 +52,19 @@
     "personnel": [
       {
         "name": "Martin Nevin",
-        "instrument": "bassist, composer"
+        "instrument": "bass"
+      },
+      {
+        "name": "Joshua White",
+        "instrument": "piano"
       },
       {
         "name": "Anthony Wilson",
-        "instrument": "guitarist"
+        "instrument": "guitar"
       },
       {
         "name": "Christian Euman",
-        "instrument": "drummer"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -102,23 +81,23 @@
     "personnel": [
       {
         "name": "Tim Rachbach",
-        "instrument": "guitarist, composer"
+        "instrument": "guitar"
       },
       {
         "name": "Mark Turner",
-        "instrument": "saxophonist"
+        "instrument": "saxophone"
       },
       {
         "name": "Adam Ratner",
-        "instrument": ""
+        "instrument": "drums"
       },
       {
         "name": "Adam Hersh",
-        "instrument": ""
+        "instrument": "piano"
       },
       {
         "name": "Graeham Guerin",
-        "instrument": ""
+        "instrument": "bass"
       }
     ],
     "priceRange": "$XX",
@@ -135,11 +114,11 @@
     "personnel": [
       {
         "name": "Jane Monheit",
-        "instrument": "vocalist"
+        "instrument": "vocals"
       },
       {
         "name": "Max Haymer",
-        "instrument": "pianist"
+        "instrument": "piano"
       }
     ],
     "priceRange": "$XX",
@@ -156,11 +135,11 @@
     "personnel": [
       {
         "name": "Jane Monheit",
-        "instrument": "vocalist"
+        "instrument": "vocals"
       },
       {
         "name": "Max Haymer",
-        "instrument": "pianist"
+        "instrument": "piano"
       }
     ],
     "priceRange": "$XX",
@@ -202,11 +181,11 @@
       },
       {
         "name": "Julien Knowles",
-        "instrument": ""
+        "instrument": "piano"
       },
       {
         "name": "Anthony Fung",
-        "instrument": ""
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -223,19 +202,19 @@
     "personnel": [
       {
         "name": "Reggie Quinerly",
-        "instrument": "drummer"
+        "instrument": "drums"
       },
       {
         "name": "Ashley Chanel",
-        "instrument": ""
+        "instrument": "vocals"
       },
       {
         "name": "Reuben Allen",
-        "instrument": ""
+        "instrument": "piano"
       },
       {
         "name": "Johnathan Richards",
-        "instrument": ""
+        "instrument": "bass"
       }
     ],
     "priceRange": "$XX",
@@ -310,7 +289,7 @@
     "personnel": [
       {
         "name": "Gerald Clayton",
-        "instrument": "pianist, composer"
+        "instrument": "piano"
       }
     ],
     "priceRange": "$XX",
@@ -327,7 +306,7 @@
     "personnel": [
       {
         "name": "Ian Coury",
-        "instrument": "10-string mandolin"
+        "instrument": "mandolin"
       },
       {
         "name": "Marcel Camargo",
@@ -356,11 +335,11 @@
     "personnel": [
       {
         "name": "Pritesh Walia",
-        "instrument": ""
+        "instrument": "bandleader"
       },
       {
         "name": "Henry Godfrey",
-        "instrument": ""
+        "instrument": "bandleader"
       }
     ],
     "priceRange": "$XX",
@@ -377,7 +356,7 @@
     "personnel": [
       {
         "name": "Nicole McCabe",
-        "instrument": "saxophonist, composer"
+        "instrument": "saxophone"
       },
       {
         "name": "Gerald Clayton",
@@ -406,7 +385,7 @@
     "personnel": [
       {
         "name": "Nicole McCabe",
-        "instrument": "saxophonist, composer"
+        "instrument": "saxophone"
       },
       {
         "name": "Gerald Clayton",
@@ -435,7 +414,36 @@
     "personnel": [
       {
         "name": "Nicolaus Gelin",
-        "instrument": "trumpeter, composer"
+        "instrument": "trumpet"
+      }
+    ],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-08-14",
+    "time": "7:30 PM",
+    "artist": "Roy McCurdy Quartet",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Roy McCurdy",
+        "instrument": "drums"
+      },
+      {
+        "name": "Rickey Woodard",
+        "instrument": "saxophone"
+      },
+      {
+        "name": "Josh Nelson",
+        "instrument": "piano"
+      },
+      {
+        "name": "Mike Gurrola",
+        "instrument": "bass"
       }
     ],
     "priceRange": "$XX",
