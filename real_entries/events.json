@@ -1,55 +1,5 @@
 [
   {
-    "date": "2026-07-22",
-    "time": "07:30 PM",
-    "artist": "Martin Nevin",
-    "venue": {
-      "name": "Sam First",
-      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
-    },
-    "personnel": [
-      {
-        "name": "Martin Nevin",
-        "instrument": "bass"
-      },
-      {
-        "name": "Joshua White",
-        "instrument": "piano"
-      },
-      {
-        "name": "Christian Euman",
-        "instrument": "drums"
-      }
-    ],
-    "priceRange": "$XX",
-    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
-  },
-  {
-    "date": "2026-07-22",
-    "time": "09:30 PM",
-    "artist": "Martin Nevin",
-    "venue": {
-      "name": "Sam First",
-      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
-    },
-    "personnel": [
-      {
-        "name": "Martin Nevin",
-        "instrument": "bass"
-      },
-      {
-        "name": "Joshua White",
-        "instrument": "piano"
-      },
-      {
-        "name": "Christian Euman",
-        "instrument": "drums"
-      }
-    ],
-    "priceRange": "$XX",
-    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
-  },
-  {
     "date": "2026-07-23",
     "time": "07:30 PM",
     "artist": "Tim Rachbach Group ft. Mark Turner",
@@ -68,15 +18,15 @@
       },
       {
         "name": "Adam Ratner",
-        "instrument": "piano"
+        "instrument": ""
       },
       {
         "name": "Adam Hersh",
-        "instrument": "bass"
+        "instrument": ""
       },
       {
         "name": "Graeham Guerin",
-        "instrument": "drums"
+        "instrument": ""
       }
     ],
     "priceRange": "$XX",
@@ -101,15 +51,15 @@
       },
       {
         "name": "Adam Ratner",
-        "instrument": "piano"
+        "instrument": ""
       },
       {
         "name": "Adam Hersh",
-        "instrument": "bass"
+        "instrument": ""
       },
       {
         "name": "Graeham Guerin",
-        "instrument": "drums"
+        "instrument": ""
       }
     ],
     "priceRange": "$XX",
@@ -118,7 +68,7 @@
   {
     "date": "2026-07-24",
     "time": "07:30 PM",
-    "artist": "Jane Monheit Duo",
+    "artist": "Jane Monheit Duo with Max Haymer",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -139,7 +89,7 @@
   {
     "date": "2026-07-24",
     "time": "09:30 PM",
-    "artist": "Jane Monheit Duo",
+    "artist": "Jane Monheit Duo with Max Haymer",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -160,7 +110,7 @@
   {
     "date": "2026-07-25",
     "time": "07:30 PM",
-    "artist": "Jane Monheit Duo",
+    "artist": "Jane Monheit Duo with Max Haymer",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -181,7 +131,7 @@
   {
     "date": "2026-07-25",
     "time": "09:30 PM",
-    "artist": "Jane Monheit Duo",
+    "artist": "Jane Monheit Duo with Max Haymer",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -202,7 +152,7 @@
   {
     "date": "2026-07-28",
     "time": "07:30 PM",
-    "artist": "Tuesday Happenings: Hosted by Devin Daniels (House Band Set)",
+    "artist": "“Tuesday Happenings”: Hosted by Devin Daniels",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -210,7 +160,7 @@
     "personnel": [
       {
         "name": "Devin Daniels",
-        "instrument": "saxophone"
+        "instrument": ""
       }
     ],
     "priceRange": "$XX",
@@ -219,7 +169,7 @@
   {
     "date": "2026-07-28",
     "time": "09:30 PM",
-    "artist": "Tuesday Happenings: Hosted by Devin Daniels (Jam Session)",
+    "artist": "“Tuesday Happenings”: Hosted by Devin Daniels",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -227,7 +177,7 @@
     "personnel": [
       {
         "name": "Devin Daniels",
-        "instrument": "saxophone"
+        "instrument": ""
       }
     ],
     "priceRange": "$XX",
@@ -244,7 +194,7 @@
     "personnel": [
       {
         "name": "Adi Meyerson",
-        "instrument": "bass"
+        "instrument": ""
       },
       {
         "name": "Nicole McCabe",
@@ -252,11 +202,11 @@
       },
       {
         "name": "Julien Knowles",
-        "instrument": "piano"
+        "instrument": ""
       },
       {
         "name": "Anthony Fung",
-        "instrument": "drums"
+        "instrument": ""
       }
     ],
     "priceRange": "$XX",
@@ -273,7 +223,7 @@
     "personnel": [
       {
         "name": "Adi Meyerson",
-        "instrument": "bass"
+        "instrument": ""
       },
       {
         "name": "Nicole McCabe",
@@ -281,11 +231,11 @@
       },
       {
         "name": "Julien Knowles",
-        "instrument": "piano"
+        "instrument": ""
       },
       {
         "name": "Anthony Fung",
-        "instrument": "drums"
+        "instrument": ""
       }
     ],
     "priceRange": "$XX",
@@ -294,7 +244,7 @@
   {
     "date": "2026-07-30",
     "time": "07:30 PM",
-    "artist": "Reggie Quinerly",
+    "artist": "\"Quinerly Plays the Connoisseur Series\"",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -306,15 +256,15 @@
       },
       {
         "name": "Ashley Chanel",
-        "instrument": null
+        "instrument": ""
       },
       {
         "name": "Reuben Allen",
-        "instrument": null
+        "instrument": ""
       },
       {
         "name": "Johnathan Richards",
-        "instrument": null
+        "instrument": ""
       }
     ],
     "priceRange": "$XX",
@@ -323,7 +273,7 @@
   {
     "date": "2026-07-30",
     "time": "09:30 PM",
-    "artist": "Reggie Quinerly",
+    "artist": "\"Quinerly Plays the Connoisseur Series\"",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -335,15 +285,15 @@
       },
       {
         "name": "Ashley Chanel",
-        "instrument": null
+        "instrument": ""
       },
       {
         "name": "Reuben Allen",
-        "instrument": null
+        "instrument": ""
       },
       {
         "name": "Johnathan Richards",
-        "instrument": null
+        "instrument": ""
       }
     ],
     "priceRange": "$XX",
@@ -468,7 +418,7 @@
   {
     "date": "2026-08-04",
     "time": "07:30 PM",
-    "artist": "Tuesday Happenings: Hosted by Gerald Clayton (House Band Set)",
+    "artist": "“Tuesday Happenings”: Hosted by Gerald Clayton",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -485,7 +435,7 @@
   {
     "date": "2026-08-04",
     "time": "09:30 PM",
-    "artist": "Tuesday Happenings: Hosted by Gerald Clayton (Jam Session)",
+    "artist": "“Tuesday Happenings”: Hosted by Gerald Clayton",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -514,15 +464,15 @@
       },
       {
         "name": "Marcel Camargo",
-        "instrument": "guitar"
+        "instrument": ""
       },
       {
         "name": "Michael Ragonese",
-        "instrument": "piano"
+        "instrument": ""
       },
       {
         "name": "Marcelo Bucater",
-        "instrument": "drums"
+        "instrument": ""
       }
     ],
     "priceRange": "$XX",
@@ -543,15 +493,15 @@
       },
       {
         "name": "Marcel Camargo",
-        "instrument": "guitar"
+        "instrument": ""
       },
       {
         "name": "Michael Ragonese",
-        "instrument": "piano"
+        "instrument": ""
       },
       {
         "name": "Marcelo Bucater",
-        "instrument": "drums"
+        "instrument": ""
       }
     ],
     "priceRange": "$XX",
@@ -560,7 +510,7 @@
   {
     "date": "2026-08-06",
     "time": "07:30 PM",
-    "artist": "Pritesh Walia & Henry Godfrey Big Band presents \"Journey to Nowhere\"",
+    "artist": "Pritesh Walia & Henry Godfrey Big Band",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -568,11 +518,11 @@
     "personnel": [
       {
         "name": "Pritesh Walia",
-        "instrument": null
+        "instrument": ""
       },
       {
         "name": "Henry Godfrey",
-        "instrument": null
+        "instrument": ""
       }
     ],
     "priceRange": "$XX",
@@ -581,7 +531,7 @@
   {
     "date": "2026-08-06",
     "time": "09:30 PM",
-    "artist": "Pritesh Walia & Henry Godfrey Big Band presents \"Journey to Nowhere\"",
+    "artist": "Pritesh Walia & Henry Godfrey Big Band",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -589,11 +539,11 @@
     "personnel": [
       {
         "name": "Pritesh Walia",
-        "instrument": null
+        "instrument": ""
       },
       {
         "name": "Henry Godfrey",
-        "instrument": null
+        "instrument": ""
       }
     ],
     "priceRange": "$XX",
@@ -602,7 +552,7 @@
   {
     "date": "2026-08-07",
     "time": "07:30 PM",
-    "artist": "Nicole McCabe Quartet",
+    "artist": "Nicole McCabe Quartet Live Album Recording for Sam First Records",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -618,11 +568,11 @@
       },
       {
         "name": "Justin Brown",
-        "instrument": "drums"
+        "instrument": ""
       },
       {
         "name": "Logan Kane",
-        "instrument": "bass"
+        "instrument": ""
       }
     ],
     "priceRange": "$XX",
@@ -631,7 +581,7 @@
   {
     "date": "2026-08-07",
     "time": "09:30 PM",
-    "artist": "Nicole McCabe Quartet",
+    "artist": "Nicole McCabe Quartet Live Album Recording for Sam First Records",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -647,11 +597,11 @@
       },
       {
         "name": "Justin Brown",
-        "instrument": "drums"
+        "instrument": ""
       },
       {
         "name": "Logan Kane",
-        "instrument": "bass"
+        "instrument": ""
       }
     ],
     "priceRange": "$XX",
@@ -660,7 +610,7 @@
   {
     "date": "2026-08-08",
     "time": "07:30 PM",
-    "artist": "Nicole McCabe Quartet",
+    "artist": "Nicole McCabe Quartet Live Album Recording for Sam First Records",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -676,11 +626,11 @@
       },
       {
         "name": "Justin Brown",
-        "instrument": "drums"
+        "instrument": ""
       },
       {
         "name": "Logan Kane",
-        "instrument": "bass"
+        "instrument": ""
       }
     ],
     "priceRange": "$XX",
@@ -689,7 +639,7 @@
   {
     "date": "2026-08-08",
     "time": "09:30 PM",
-    "artist": "Nicole McCabe Quartet",
+    "artist": "Nicole McCabe Quartet Live Album Recording for Sam First Records",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -705,11 +655,11 @@
       },
       {
         "name": "Justin Brown",
-        "instrument": "drums"
+        "instrument": ""
       },
       {
         "name": "Logan Kane",
-        "instrument": "bass"
+        "instrument": ""
       }
     ],
     "priceRange": "$XX",
@@ -868,7 +818,7 @@
   {
     "date": "2026-08-19",
     "time": "07:30 PM",
-    "artist": "Kenny Washington",
+    "artist": "Kenny Washington: Celebrating The Masters",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -884,11 +834,11 @@
       },
       {
         "name": "Luca Alemanno",
-        "instrument": "bass"
+        "instrument": ""
       },
       {
         "name": "Dan Schnelle",
-        "instrument": "drums"
+        "instrument": ""
       }
     ],
     "priceRange": "$XX",
@@ -897,7 +847,7 @@
   {
     "date": "2026-08-19",
     "time": "09:30 PM",
-    "artist": "Kenny Washington",
+    "artist": "Kenny Washington: Celebrating The Masters",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -913,10 +863,60 @@
       },
       {
         "name": "Luca Alemanno",
-        "instrument": "bass"
+        "instrument": ""
       },
       {
         "name": "Dan Schnelle",
+        "instrument": ""
+      }
+    ],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-08-20",
+    "time": "07:30 PM",
+    "artist": "KCRW Presents: \"Third Thursdays\" with Shelly Berg Trio",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Shelly Berg",
+        "instrument": "piano"
+      },
+      {
+        "name": "Carlitos Del Puerto",
+        "instrument": "bass"
+      },
+      {
+        "name": "Gary Novak",
+        "instrument": "drums"
+      }
+    ],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-08-20",
+    "time": "09:30 PM",
+    "artist": "KCRW Presents: \"Third Thursdays\" with Shelly Berg Trio",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Shelly Berg",
+        "instrument": "piano"
+      },
+      {
+        "name": "Carlitos Del Puerto",
+        "instrument": "bass"
+      },
+      {
+        "name": "Gary Novak",
         "instrument": "drums"
       }
     ],
