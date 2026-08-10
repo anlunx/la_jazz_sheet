@@ -1,7 +1,7 @@
 [
   {
     "date": "2026-08-11",
-    "time": "07:30 PM",
+    "time": "7:30 PM",
     "artist": "Tuesday Happenings: Hosted by Gerald Clayton",
     "venue": {
       "name": "Sam First",
@@ -29,37 +29,8 @@
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
-    "date": "2026-08-11",
-    "time": "09:30 PM",
-    "artist": "Tuesday Happenings: Hosted by Gerald Clayton (Jam Session)",
-    "venue": {
-      "name": "Sam First",
-      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
-    },
-    "personnel": [
-      {
-        "name": "Gerald Clayton",
-        "instrument": "piano"
-      },
-      {
-        "name": "Devin Daniels",
-        "instrument": "saxophone"
-      },
-      {
-        "name": "Luca Alemanno",
-        "instrument": "bass"
-      },
-      {
-        "name": "Christian Euman",
-        "instrument": "drums"
-      }
-    ],
-    "priceRange": "$XX",
-    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
-  },
-  {
     "date": "2026-08-12",
-    "time": "07:30 PM",
+    "time": "7:30 PM",
     "artist": "Nicolaus Gelin Quartet",
     "venue": {
       "name": "Sam First",
@@ -84,7 +55,7 @@
   },
   {
     "date": "2026-08-13",
-    "time": "07:30 PM",
+    "time": "7:30 PM",
     "artist": "Ferenc Nemeth Trio",
     "venue": {
       "name": "Sam First",
@@ -109,7 +80,7 @@
   },
   {
     "date": "2026-08-14",
-    "time": "07:30 PM",
+    "time": "7:30 PM",
     "artist": "Roy McCurdy Quartet",
     "venue": {
       "name": "Sam First",
@@ -138,7 +109,7 @@
   },
   {
     "date": "2026-08-15",
-    "time": "07:30 PM",
+    "time": "7:30 PM",
     "artist": "Roy McCurdy Quartet",
     "venue": {
       "name": "Sam First",
@@ -167,7 +138,7 @@
   },
   {
     "date": "2026-08-19",
-    "time": "07:30 PM",
+    "time": "7:30 PM",
     "artist": "Kenny Washington: Celebrating The Masters",
     "venue": {
       "name": "Sam First",
@@ -196,8 +167,8 @@
   },
   {
     "date": "2026-08-20",
-    "time": "07:30 PM",
-    "artist": "KCRW Presents: \"Third Thursdays\" with Shelly Berg Trio",
+    "time": "7:30 PM",
+    "artist": "KCRW Presents: 'Third Thursdays' with Shelly Berg Trio",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -221,8 +192,8 @@
   },
   {
     "date": "2026-08-21",
-    "time": "07:30 PM",
-    "artist": "Miki Yamanaka \"Breathe\" Release Celebration feat. Nicole Glover",
+    "time": "7:30 PM",
+    "artist": "Miki Yamanaka 'Breathe' Release Celebration feat. Nicole Glover",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -250,37 +221,8 @@
   },
   {
     "date": "2026-08-22",
-    "time": "07:30 PM",
-    "artist": "Miki Yamanaka \"Breathe\" Album Release feat. Nicole Glover",
-    "venue": {
-      "name": "Sam First",
-      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
-    },
-    "personnel": [
-      {
-        "name": "Miki Yamanaka",
-        "instrument": "piano"
-      },
-      {
-        "name": "Nicole Glover",
-        "instrument": "saxophone"
-      },
-      {
-        "name": "Tyrone Allen II",
-        "instrument": "bass"
-      },
-      {
-        "name": "Jimmy Macbride",
-        "instrument": "drums"
-      }
-    ],
-    "priceRange": "$XX",
-    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
-  },
-  {
-    "date": "2026-08-22",
-    "time": "09:30 PM",
-    "artist": "Miki Yamanaka \"Breathe\" Album Release feat. Nicole Glover (2nd Set KJAZZ Broadcast)",
+    "time": "7:30 PM",
+    "artist": "Miki Yamanaka 'Breathe' Album Release feat. Nicole Glover",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -308,7 +250,7 @@
   },
   {
     "date": "2026-08-26",
-    "time": "07:30 PM",
+    "time": "7:30 PM",
     "artist": "Steve Lehman & Garden of Klōns",
     "venue": {
       "name": "Sam First",
@@ -317,11 +259,11 @@
     "personnel": [
       {
         "name": "Steve Lehman",
-        "instrument": "saxophone"
+        "instrument": "alto saxophone, electronics"
       },
       {
         "name": "Cory Smythe",
-        "instrument": "piano"
+        "instrument": "piano, electronics"
       },
       {
         "name": "Chris Tordini",
@@ -329,7 +271,7 @@
       },
       {
         "name": "Jacob Porter",
-        "instrument": "drums"
+        "instrument": "drums, electronics"
       }
     ],
     "priceRange": "$XX",
@@ -337,7 +279,7 @@
   },
   {
     "date": "2026-08-27",
-    "time": "07:30 PM",
+    "time": "7:30 PM",
     "artist": "Syndee Winters Sings Lena Horne",
     "venue": {
       "name": "Sam First",
@@ -366,7 +308,7 @@
       },
       {
         "name": "Yafeu Tyhimba",
-        "instrument": "saxophone"
+        "instrument": "percussion"
       }
     ],
     "priceRange": "$XX",
@@ -374,8 +316,8 @@
   },
   {
     "date": "2026-08-28",
-    "time": "07:30 PM",
-    "artist": "Marlonius Jazz Orchestra!",
+    "time": "7:30 PM",
+    "artist": "Marlonius Jazz Orchestra! Birthday Bash & Album Promo",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -399,8 +341,8 @@
   },
   {
     "date": "2026-08-29",
-    "time": "07:30 PM",
-    "artist": "John Beasley Presents: \"The Birthday Hang\"",
+    "time": "7:30 PM",
+    "artist": "John Beasley Presents: 'The Birthday Hang' Celebrating Bird, Pres, Sonny & Wayne",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -424,7 +366,7 @@
   },
   {
     "date": "2026-09-01",
-    "time": "07:30 PM",
+    "time": "7:30 PM",
     "artist": "Tuesday Happenings: Hosted by Gerald Clayton",
     "venue": {
       "name": "Sam First",
@@ -452,37 +394,8 @@
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
-    "date": "2026-09-01",
-    "time": "09:30 PM",
-    "artist": "Tuesday Happenings: Hosted by Gerald Clayton (Jam Session)",
-    "venue": {
-      "name": "Sam First",
-      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
-    },
-    "personnel": [
-      {
-        "name": "Gerald Clayton",
-        "instrument": "piano"
-      },
-      {
-        "name": "Devin Daniels",
-        "instrument": "saxophone"
-      },
-      {
-        "name": "Luca Alemanno",
-        "instrument": "bass"
-      },
-      {
-        "name": "Christian Euman",
-        "instrument": "drums"
-      }
-    ],
-    "priceRange": "$XX",
-    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
-  },
-  {
     "date": "2026-09-03",
-    "time": "07:30 PM",
+    "time": "7:30 PM",
     "artist": "Aubrey Situmorang",
     "venue": {
       "name": "Sam First",
@@ -495,7 +408,7 @@
       },
       {
         "name": "Tristan Cappel",
-        "instrument": "saxophone"
+        "instrument": "piano"
       },
       {
         "name": "Keelan Walters",
@@ -503,11 +416,11 @@
       },
       {
         "name": "Adam Hersh",
-        "instrument": "piano"
+        "instrument": "guitar"
       },
       {
         "name": "Jordan Proffer",
-        "instrument": "guitar"
+        "instrument": "saxophone"
       }
     ],
     "priceRange": "$XX",
@@ -515,7 +428,7 @@
   },
   {
     "date": "2026-09-04",
-    "time": "07:30 PM",
+    "time": "7:30 PM",
     "artist": "Clay Jenkins Quintet",
     "venue": {
       "name": "Sam First",
@@ -548,7 +461,7 @@
   },
   {
     "date": "2026-09-05",
-    "time": "07:30 PM",
+    "time": "7:30 PM",
     "artist": "Clay Jenkins Quintet",
     "venue": {
       "name": "Sam First",
@@ -581,37 +494,8 @@
   },
   {
     "date": "2026-09-08",
-    "time": "07:30 PM",
+    "time": "7:30 PM",
     "artist": "Tuesday Happenings: Hosted by Gerald Clayton",
-    "venue": {
-      "name": "Sam First",
-      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
-    },
-    "personnel": [
-      {
-        "name": "Gerald Clayton",
-        "instrument": "piano"
-      },
-      {
-        "name": "Devin Daniels",
-        "instrument": "saxophone"
-      },
-      {
-        "name": "Luca Alemanno",
-        "instrument": "bass"
-      },
-      {
-        "name": "Christian Euman",
-        "instrument": "drums"
-      }
-    ],
-    "priceRange": "$XX",
-    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
-  },
-  {
-    "date": "2026-09-08",
-    "time": "09:30 PM",
-    "artist": "Tuesday Happenings: Hosted by Gerald Clayton (Jam Session)",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
