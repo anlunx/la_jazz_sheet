@@ -1,8 +1,8 @@
 [
   {
-    "date": "2026-08-21",
-    "time": "7:30 PM",
-    "artist": "Miki Yamanaka \"Breathe\" Album Release feat. Nicole Glover",
+    "date": "2026-08-22",
+    "time": "07:30 PM",
+    "artist": "Miki Yamanaka \"Breathe\" Album Release",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -10,19 +10,19 @@
     "personnel": [
       {
         "name": "Miki Yamanaka",
-        "instrument": "piano"
+        "instrument": "Piano"
       },
       {
         "name": "Nicole Glover",
-        "instrument": "saxophone"
+        "instrument": "Saxophone"
       },
       {
         "name": "Tyrone Allen II",
-        "instrument": "bass"
+        "instrument": "Bass"
       },
       {
         "name": "Jimmy Macbride",
-        "instrument": "drums"
+        "instrument": "Drums"
       }
     ],
     "priceRange": "$XX",
@@ -30,8 +30,8 @@
   },
   {
     "date": "2026-08-22",
-    "time": "9:30 PM",
-    "artist": "Miki Yamanaka \"Breathe\" Album Release feat. Nicole Glover",
+    "time": "09:30 PM",
+    "artist": "Miki Yamanaka \"Breathe\" Album Release",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -39,19 +39,19 @@
     "personnel": [
       {
         "name": "Miki Yamanaka",
-        "instrument": "piano"
+        "instrument": "Piano"
       },
       {
         "name": "Nicole Glover",
-        "instrument": "saxophone"
+        "instrument": "Saxophone"
       },
       {
         "name": "Tyrone Allen II",
-        "instrument": "bass"
+        "instrument": "Bass"
       },
       {
         "name": "Jimmy Macbride",
-        "instrument": "drums"
+        "instrument": "Drums"
       }
     ],
     "priceRange": "$XX",
@@ -59,8 +59,8 @@
   },
   {
     "date": "2026-08-25",
-    "time": "7:30 PM",
-    "artist": "Devin Daniels (Host)",
+    "time": "07:30 PM",
+    "artist": "“Tuesday Happenings”: Hosted by Devin Daniels",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -68,7 +68,24 @@
     "personnel": [
       {
         "name": "Devin Daniels",
-        "instrument": "saxophone"
+        "instrument": "Saxophone"
+      }
+    ],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-08-25",
+    "time": "09:30 PM",
+    "artist": "“Tuesday Happenings”: Hosted by Devin Daniels (Jam Session)",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Devin Daniels",
+        "instrument": "Saxophone"
       }
     ],
     "priceRange": "$XX",
@@ -76,7 +93,7 @@
   },
   {
     "date": "2026-08-26",
-    "time": "7:30 PM",
+    "time": "07:30 PM",
     "artist": "Steve Lehman & Garden of Klōns",
     "venue": {
       "name": "Sam First",
@@ -85,19 +102,19 @@
     "personnel": [
       {
         "name": "Steve Lehman",
-        "instrument": "saxophone"
+        "instrument": "Saxophone"
       },
       {
         "name": "Cory Smythe",
-        "instrument": "piano"
+        "instrument": "Piano"
       },
       {
         "name": "Chris Tordini",
-        "instrument": "bass"
+        "instrument": "Bass"
       },
       {
         "name": "Jacob Porter",
-        "instrument": "drums"
+        "instrument": "Drums"
       }
     ],
     "priceRange": "$XX",
@@ -105,7 +122,7 @@
   },
   {
     "date": "2026-08-26",
-    "time": "9:30 PM",
+    "time": "09:30 PM",
     "artist": "Steve Lehman & Garden of Klōns",
     "venue": {
       "name": "Sam First",
@@ -114,19 +131,19 @@
     "personnel": [
       {
         "name": "Steve Lehman",
-        "instrument": "saxophone"
+        "instrument": "Saxophone"
       },
       {
         "name": "Cory Smythe",
-        "instrument": "piano"
+        "instrument": "Piano"
       },
       {
         "name": "Chris Tordini",
-        "instrument": "bass"
+        "instrument": "Bass"
       },
       {
         "name": "Jacob Porter",
-        "instrument": "drums"
+        "instrument": "Drums"
       }
     ],
     "priceRange": "$XX",
@@ -134,7 +151,7 @@
   },
   {
     "date": "2026-08-27",
-    "time": "7:30 PM",
+    "time": "07:30 PM",
     "artist": "Syndee Winters Sings Lena Horne",
     "venue": {
       "name": "Sam First",
@@ -143,27 +160,27 @@
     "personnel": [
       {
         "name": "Syndee Winters",
-        "instrument": "vocals"
+        "instrument": "Vocals"
       },
       {
         "name": "Alexis Lombre",
-        "instrument": "piano"
+        "instrument": "Piano"
       },
       {
         "name": "John Davis",
-        "instrument": "drums"
+        "instrument": "Bass"
       },
       {
         "name": "Jay Flat",
-        "instrument": "bass"
+        "instrument": "Drums"
       },
       {
         "name": "Brad Allen Williams",
-        "instrument": "guitar"
+        "instrument": "Guitar"
       },
       {
         "name": "Yafeu Tyhimba",
-        "instrument": "percussion"
+        "instrument": "Percussion"
       }
     ],
     "priceRange": "$XX",
@@ -171,7 +188,7 @@
   },
   {
     "date": "2026-08-27",
-    "time": "9:30 PM",
+    "time": "09:30 PM",
     "artist": "Syndee Winters Sings Lena Horne",
     "venue": {
       "name": "Sam First",
@@ -180,27 +197,27 @@
     "personnel": [
       {
         "name": "Syndee Winters",
-        "instrument": "vocals"
+        "instrument": "Vocals"
       },
       {
         "name": "Alexis Lombre",
-        "instrument": "piano"
+        "instrument": "Piano"
       },
       {
         "name": "John Davis",
-        "instrument": "drums"
+        "instrument": "Bass"
       },
       {
         "name": "Jay Flat",
-        "instrument": "bass"
+        "instrument": "Drums"
       },
       {
         "name": "Brad Allen Williams",
-        "instrument": "guitar"
+        "instrument": "Guitar"
       },
       {
         "name": "Yafeu Tyhimba",
-        "instrument": "percussion"
+        "instrument": "Percussion"
       }
     ],
     "priceRange": "$XX",
@@ -208,24 +225,28 @@
   },
   {
     "date": "2026-08-28",
-    "time": "7:30 PM",
-    "artist": "Marlonius Jazz Orchestra",
+    "time": "07:30 PM",
+    "artist": "Marlonius Jazz Orchestra! Birthday Bash & Album Promo",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
     },
     "personnel": [
       {
-        "name": "MARLONIUS",
-        "instrument": "bass"
+        "name": "Marlonius",
+        "instrument": "Bass"
       },
       {
         "name": "Olivia Kuper Harris",
-        "instrument": "vocals"
+        "instrument": "Vocals"
       },
       {
         "name": "Mara Kaye",
-        "instrument": "vocals"
+        "instrument": "Vocals"
+      },
+      {
+        "name": "Marlonius Jazz Orchestra",
+        "instrument": "Big Band"
       }
     ],
     "priceRange": "$XX",
@@ -233,24 +254,28 @@
   },
   {
     "date": "2026-08-28",
-    "time": "9:30 PM",
-    "artist": "Marlonius Jazz Orchestra",
+    "time": "09:30 PM",
+    "artist": "Marlonius Jazz Orchestra! Birthday Bash & Album Promo",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
     },
     "personnel": [
       {
-        "name": "MARLONIUS",
-        "instrument": "bass"
+        "name": "Marlonius",
+        "instrument": "Bass"
       },
       {
         "name": "Olivia Kuper Harris",
-        "instrument": "vocals"
+        "instrument": "Vocals"
       },
       {
         "name": "Mara Kaye",
-        "instrument": "vocals"
+        "instrument": "Vocals"
+      },
+      {
+        "name": "Marlonius Jazz Orchestra",
+        "instrument": "Big Band"
       }
     ],
     "priceRange": "$XX",
@@ -258,7 +283,7 @@
   },
   {
     "date": "2026-08-29",
-    "time": "7:30 PM",
+    "time": "07:30 PM",
     "artist": "John Beasley Presents: \"The Birthday Hang\"",
     "venue": {
       "name": "Sam First",
@@ -267,15 +292,15 @@
     "personnel": [
       {
         "name": "John Beasley",
-        "instrument": "piano"
+        "instrument": "Piano"
       },
       {
         "name": "Bob Sheppard",
-        "instrument": "saxophone"
+        "instrument": "Saxophone"
       },
       {
         "name": "Ralph Moore",
-        "instrument": "saxophone"
+        "instrument": "Saxophone"
       }
     ],
     "priceRange": "$XX",
@@ -283,7 +308,7 @@
   },
   {
     "date": "2026-08-29",
-    "time": "9:30 PM",
+    "time": "09:30 PM",
     "artist": "John Beasley Presents: \"The Birthday Hang\"",
     "venue": {
       "name": "Sam First",
@@ -292,15 +317,15 @@
     "personnel": [
       {
         "name": "John Beasley",
-        "instrument": "piano"
+        "instrument": "Piano"
       },
       {
         "name": "Bob Sheppard",
-        "instrument": "saxophone"
+        "instrument": "Saxophone"
       },
       {
         "name": "Ralph Moore",
-        "instrument": "saxophone"
+        "instrument": "Saxophone"
       }
     ],
     "priceRange": "$XX",
@@ -308,8 +333,8 @@
   },
   {
     "date": "2026-09-01",
-    "time": "7:30 PM",
-    "artist": "Gerald Clayton (Host)",
+    "time": "07:30 PM",
+    "artist": "“Tuesday Happenings”: Hosted by Gerald Clayton",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -317,7 +342,24 @@
     "personnel": [
       {
         "name": "Gerald Clayton",
-        "instrument": "piano"
+        "instrument": "Piano"
+      }
+    ],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-09-01",
+    "time": "09:30 PM",
+    "artist": "“Tuesday Happenings”: Hosted by Gerald Clayton (Jam Session)",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Gerald Clayton",
+        "instrument": "Piano"
       }
     ],
     "priceRange": "$XX",
@@ -325,7 +367,7 @@
   },
   {
     "date": "2026-09-02",
-    "time": "7:30 PM",
+    "time": "07:30 PM",
     "artist": "Michael Wolff Quartet",
     "venue": {
       "name": "Sam First",
@@ -334,19 +376,19 @@
     "personnel": [
       {
         "name": "Michael Wolff",
-        "instrument": "piano"
+        "instrument": "Piano"
       },
       {
         "name": "Danny Janklow",
-        "instrument": "saxophone"
+        "instrument": "Saxophone"
       },
       {
         "name": "Edwin Livingston",
-        "instrument": "bass"
+        "instrument": "Bass"
       },
       {
         "name": "Clayton Cameron",
-        "instrument": "drums"
+        "instrument": "Drums"
       }
     ],
     "priceRange": "$XX",
@@ -354,7 +396,7 @@
   },
   {
     "date": "2026-09-02",
-    "time": "9:30 PM",
+    "time": "09:30 PM",
     "artist": "Michael Wolff Quartet",
     "venue": {
       "name": "Sam First",
@@ -363,19 +405,19 @@
     "personnel": [
       {
         "name": "Michael Wolff",
-        "instrument": "piano"
+        "instrument": "Piano"
       },
       {
         "name": "Danny Janklow",
-        "instrument": "saxophone"
+        "instrument": "Saxophone"
       },
       {
         "name": "Edwin Livingston",
-        "instrument": "bass"
+        "instrument": "Bass"
       },
       {
         "name": "Clayton Cameron",
-        "instrument": "drums"
+        "instrument": "Drums"
       }
     ],
     "priceRange": "$XX",
@@ -383,7 +425,7 @@
   },
   {
     "date": "2026-09-03",
-    "time": "7:30 PM",
+    "time": "07:30 PM",
     "artist": "Aubrey Situmorang",
     "venue": {
       "name": "Sam First",
@@ -392,23 +434,23 @@
     "personnel": [
       {
         "name": "Aubrey Situmorang",
-        "instrument": "bass"
+        "instrument": "Bass"
       },
       {
         "name": "Tristan Cappel",
-        "instrument": "saxophone"
+        "instrument": "Saxophone"
       },
       {
         "name": "Keelan Walters",
-        "instrument": "drums"
+        "instrument": "Piano"
       },
       {
         "name": "Adam Hersh",
-        "instrument": "piano"
+        "instrument": "Piano"
       },
       {
         "name": "Jordan Proffer",
-        "instrument": "guitar"
+        "instrument": "Drums"
       }
     ],
     "priceRange": "$XX",
@@ -416,7 +458,7 @@
   },
   {
     "date": "2026-09-03",
-    "time": "9:30 PM",
+    "time": "09:30 PM",
     "artist": "Aubrey Situmorang",
     "venue": {
       "name": "Sam First",
@@ -425,23 +467,23 @@
     "personnel": [
       {
         "name": "Aubrey Situmorang",
-        "instrument": "bass"
+        "instrument": "Bass"
       },
       {
         "name": "Tristan Cappel",
-        "instrument": "saxophone"
+        "instrument": "Saxophone"
       },
       {
         "name": "Keelan Walters",
-        "instrument": "drums"
+        "instrument": "Piano"
       },
       {
         "name": "Adam Hersh",
-        "instrument": "piano"
+        "instrument": "Piano"
       },
       {
         "name": "Jordan Proffer",
-        "instrument": "guitar"
+        "instrument": "Drums"
       }
     ],
     "priceRange": "$XX",
@@ -449,7 +491,7 @@
   },
   {
     "date": "2026-09-04",
-    "time": "7:30 PM",
+    "time": "07:30 PM",
     "artist": "Clay Jenkins Quintet",
     "venue": {
       "name": "Sam First",
@@ -458,23 +500,23 @@
     "personnel": [
       {
         "name": "Clay Jenkins",
-        "instrument": "trumpet"
+        "instrument": "Trumpet"
       },
       {
         "name": "Larry Koonse",
-        "instrument": "guitar"
+        "instrument": "Guitar"
       },
       {
         "name": "Ivan Malespin",
-        "instrument": "piano"
+        "instrument": "Piano"
       },
       {
         "name": "Jonathan Richards",
-        "instrument": "bass"
+        "instrument": "Bass"
       },
       {
         "name": "Joe La Barbera",
-        "instrument": "drums"
+        "instrument": "Drums"
       }
     ],
     "priceRange": "$XX",
@@ -482,7 +524,7 @@
   },
   {
     "date": "2026-09-04",
-    "time": "9:30 PM",
+    "time": "09:30 PM",
     "artist": "Clay Jenkins Quintet",
     "venue": {
       "name": "Sam First",
@@ -491,23 +533,23 @@
     "personnel": [
       {
         "name": "Clay Jenkins",
-        "instrument": "trumpet"
+        "instrument": "Trumpet"
       },
       {
         "name": "Larry Koonse",
-        "instrument": "guitar"
+        "instrument": "Guitar"
       },
       {
         "name": "Ivan Malespin",
-        "instrument": "piano"
+        "instrument": "Piano"
       },
       {
         "name": "Jonathan Richards",
-        "instrument": "bass"
+        "instrument": "Bass"
       },
       {
         "name": "Joe La Barbera",
-        "instrument": "drums"
+        "instrument": "Drums"
       }
     ],
     "priceRange": "$XX",
@@ -515,7 +557,7 @@
   },
   {
     "date": "2026-09-05",
-    "time": "7:30 PM",
+    "time": "07:30 PM",
     "artist": "Clay Jenkins Quintet",
     "venue": {
       "name": "Sam First",
@@ -524,23 +566,23 @@
     "personnel": [
       {
         "name": "Clay Jenkins",
-        "instrument": "trumpet"
+        "instrument": "Trumpet"
       },
       {
         "name": "Larry Koonse",
-        "instrument": "guitar"
+        "instrument": "Guitar"
       },
       {
         "name": "Ivan Malespin",
-        "instrument": "piano"
+        "instrument": "Piano"
       },
       {
         "name": "Jonathan Richards",
-        "instrument": "bass"
+        "instrument": "Bass"
       },
       {
         "name": "Joe La Barbera",
-        "instrument": "drums"
+        "instrument": "Drums"
       }
     ],
     "priceRange": "$XX",
@@ -548,7 +590,7 @@
   },
   {
     "date": "2026-09-05",
-    "time": "9:30 PM",
+    "time": "09:30 PM",
     "artist": "Clay Jenkins Quintet",
     "venue": {
       "name": "Sam First",
@@ -557,23 +599,23 @@
     "personnel": [
       {
         "name": "Clay Jenkins",
-        "instrument": "trumpet"
+        "instrument": "Trumpet"
       },
       {
         "name": "Larry Koonse",
-        "instrument": "guitar"
+        "instrument": "Guitar"
       },
       {
         "name": "Ivan Malespin",
-        "instrument": "piano"
+        "instrument": "Piano"
       },
       {
         "name": "Jonathan Richards",
-        "instrument": "bass"
+        "instrument": "Bass"
       },
       {
         "name": "Joe La Barbera",
-        "instrument": "drums"
+        "instrument": "Drums"
       }
     ],
     "priceRange": "$XX",
@@ -581,8 +623,8 @@
   },
   {
     "date": "2026-09-08",
-    "time": "7:30 PM",
-    "artist": "Gerald Clayton (Host)",
+    "time": "07:30 PM",
+    "artist": "“Tuesday Happenings”: Hosted by Gerald Clayton",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -590,7 +632,24 @@
     "personnel": [
       {
         "name": "Gerald Clayton",
-        "instrument": "piano"
+        "instrument": "Piano"
+      }
+    ],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-09-08",
+    "time": "09:30 PM",
+    "artist": "“Tuesday Happenings”: Hosted by Gerald Clayton (Jam Session)",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Gerald Clayton",
+        "instrument": "Piano"
       }
     ],
     "priceRange": "$XX",
@@ -598,7 +657,7 @@
   },
   {
     "date": "2026-09-09",
-    "time": "7:30 PM",
+    "time": "07:30 PM",
     "artist": "Ari and Cecil Alexander Quartet",
     "venue": {
       "name": "Sam First",
@@ -607,11 +666,11 @@
     "personnel": [
       {
         "name": "Ari Alexander",
-        "instrument": "vocals"
+        "instrument": "Vocals"
       },
       {
         "name": "Cecil Alexander",
-        "instrument": "guitar"
+        "instrument": "Guitar"
       }
     ],
     "priceRange": "$XX",
@@ -619,7 +678,7 @@
   },
   {
     "date": "2026-09-09",
-    "time": "9:30 PM",
+    "time": "09:30 PM",
     "artist": "Ari and Cecil Alexander Quartet",
     "venue": {
       "name": "Sam First",
@@ -628,11 +687,11 @@
     "personnel": [
       {
         "name": "Ari Alexander",
-        "instrument": "vocals"
+        "instrument": "Vocals"
       },
       {
         "name": "Cecil Alexander",
-        "instrument": "guitar"
+        "instrument": "Guitar"
       }
     ],
     "priceRange": "$XX",
@@ -640,7 +699,7 @@
   },
   {
     "date": "2026-09-10",
-    "time": "7:30 PM",
+    "time": "07:30 PM",
     "artist": "The Brian Swartz Quintet",
     "venue": {
       "name": "Sam First",
@@ -649,23 +708,23 @@
     "personnel": [
       {
         "name": "Brian Swartz",
-        "instrument": "trumpet"
+        "instrument": "Trumpet"
       },
       {
         "name": "Keith Fiddmont",
-        "instrument": "saxophone"
+        "instrument": "Saxophone"
       },
       {
         "name": "Steve Cotter",
-        "instrument": "guitar"
+        "instrument": "Guitar"
       },
       {
         "name": "Chris Colangelo",
-        "instrument": "bass"
+        "instrument": "Bass"
       },
       {
         "name": "Kendall Kay",
-        "instrument": "drums"
+        "instrument": "Drums"
       }
     ],
     "priceRange": "$XX",
@@ -673,7 +732,7 @@
   },
   {
     "date": "2026-09-10",
-    "time": "9:30 PM",
+    "time": "09:30 PM",
     "artist": "The Brian Swartz Quintet",
     "venue": {
       "name": "Sam First",
@@ -682,23 +741,73 @@
     "personnel": [
       {
         "name": "Brian Swartz",
-        "instrument": "trumpet"
+        "instrument": "Trumpet"
       },
       {
         "name": "Keith Fiddmont",
-        "instrument": "saxophone"
+        "instrument": "Saxophone"
       },
       {
         "name": "Steve Cotter",
-        "instrument": "guitar"
+        "instrument": "Guitar"
       },
       {
         "name": "Chris Colangelo",
-        "instrument": "bass"
+        "instrument": "Bass"
       },
       {
         "name": "Kendall Kay",
-        "instrument": "drums"
+        "instrument": "Drums"
+      }
+    ],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-09-12",
+    "time": "07:30 PM",
+    "artist": "Vardan Ovsepian Trio",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Vardan Ovsepian",
+        "instrument": "Piano"
+      },
+      {
+        "name": "Darek Oles",
+        "instrument": "Bass"
+      },
+      {
+        "name": "Jimmy Branly",
+        "instrument": "Drums"
+      }
+    ],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-09-12",
+    "time": "09:30 PM",
+    "artist": "Vardan Ovsepian Trio",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Vardan Ovsepian",
+        "instrument": "Piano"
+      },
+      {
+        "name": "Darek Oles",
+        "instrument": "Bass"
+      },
+      {
+        "name": "Jimmy Branly",
+        "instrument": "Drums"
       }
     ],
     "priceRange": "$XX",
@@ -706,8 +815,8 @@
   },
   {
     "date": "2026-09-15",
-    "time": "7:30 PM",
-    "artist": "Gerald Clayton (Host)",
+    "time": "07:30 PM",
+    "artist": "“Tuesday Happenings”: Hosted by Gerald Clayton",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -715,7 +824,24 @@
     "personnel": [
       {
         "name": "Gerald Clayton",
-        "instrument": "piano"
+        "instrument": "Piano"
+      }
+    ],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-09-15",
+    "time": "09:30 PM",
+    "artist": "“Tuesday Happenings”: Hosted by Gerald Clayton (Jam Session)",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Gerald Clayton",
+        "instrument": "Piano"
       }
     ],
     "priceRange": "$XX",
@@ -723,7 +849,7 @@
   },
   {
     "date": "2026-09-16",
-    "time": "7:30 PM",
+    "time": "07:30 PM",
     "artist": "Veotis: Feelings To Run From",
     "venue": {
       "name": "Sam First",
@@ -732,23 +858,23 @@
     "personnel": [
       {
         "name": "Veotis",
-        "instrument": "vocals"
+        "instrument": "Vocals"
       },
       {
         "name": "Kevin Person",
-        "instrument": "piano"
+        "instrument": "Piano"
       },
       {
         "name": "Simon Aks",
-        "instrument": "bass"
+        "instrument": "Bass"
       },
       {
         "name": "Sheldon Alexander",
-        "instrument": "drums"
+        "instrument": "Drums"
       },
       {
         "name": "Noah Mogor",
-        "instrument": "guitar"
+        "instrument": "Guitar"
       }
     ],
     "priceRange": "$XX",
@@ -756,7 +882,7 @@
   },
   {
     "date": "2026-09-16",
-    "time": "9:30 PM",
+    "time": "09:30 PM",
     "artist": "Veotis: Feelings To Run From",
     "venue": {
       "name": "Sam First",
@@ -765,81 +891,81 @@
     "personnel": [
       {
         "name": "Veotis",
-        "instrument": "vocals"
+        "instrument": "Vocals"
       },
       {
         "name": "Kevin Person",
-        "instrument": "piano"
+        "instrument": "Piano"
       },
       {
         "name": "Simon Aks",
-        "instrument": "bass"
+        "instrument": "Bass"
       },
       {
         "name": "Sheldon Alexander",
-        "instrument": "drums"
+        "instrument": "Drums"
       },
       {
         "name": "Noah Mogor",
-        "instrument": "guitar"
+        "instrument": "Guitar"
       }
     ],
     "priceRange": "$XX",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
-    "date": "2026-09-18",
-    "time": "7:30 PM",
-    "artist": "Seamus Blake and EH! (the music of Eddie Harris)",
+    "date": "2026-09-17",
+    "time": "07:30 PM",
+    "artist": "KCRW Presents: \"Third Thursdays\" with Brandon Coleman Quartet",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
     },
     "personnel": [
       {
-        "name": "Seamus Blake",
-        "instrument": "saxophone"
+        "name": "Brandon Coleman",
+        "instrument": "Keyboards"
       },
       {
-        "name": "Scott Kinsey",
-        "instrument": "keyboards"
+        "name": "Eric Sittner",
+        "instrument": "Bass"
       },
       {
-        "name": "Travis Carlton",
-        "instrument": "bass"
+        "name": "Horace Bray",
+        "instrument": "Guitar"
       },
       {
-        "name": "Anthony Fung",
-        "instrument": "drums"
+        "name": "Efa Etorom",
+        "instrument": "Drums"
       }
     ],
     "priceRange": "$XX",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
-    "date": "2026-09-18",
-    "time": "9:30 PM",
-    "artist": "Seamus Blake and EH! (the music of Eddie Harris)",
+    "date": "2026-09-17",
+    "time": "09:30 PM",
+    "artist": "KCRW Presents: \"Third Thursdays\" with Brandon Coleman Quartet",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
     },
     "personnel": [
       {
-        "name": "Seamus Blake",
-        "instrument": "saxophone"
+        "name": "Brandon Coleman",
+        "instrument": "Keyboards"
       },
       {
-        "name": "Scott Kinsey",
-        "instrument": "keyboards"
+        "name": "Eric Sittner",
+        "instrument": "Bass"
       },
       {
-        "name": "Travis Carlton",
-        "instrument": "bass"
+        "name": "Horace Bray",
+        "instrument": "Guitar"
       },
       {
-        "name": "Anthony Fung",
-        "instrument": "drums"
+        "name": "Efa Etorom",
+        "instrument": "Drums"
       }
     ],
     "priceRange": "$XX",
