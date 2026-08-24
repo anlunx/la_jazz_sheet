@@ -10,7 +10,23 @@
     "personnel": [
       {
         "name": "Devin Daniels",
-        "instrument": "saxophone"
+        "instrument": "Saxophone"
+      },
+      {
+        "name": "Julien Knowles",
+        "instrument": null
+      },
+      {
+        "name": "Chris Fishman",
+        "instrument": "Keyboards"
+      },
+      {
+        "name": "Emiliano Lasansky",
+        "instrument": "Bass"
+      },
+      {
+        "name": "Christian Euman",
+        "instrument": "Drums"
       }
     ],
     "priceRange": "$XX",
@@ -27,19 +43,19 @@
     "personnel": [
       {
         "name": "Steve Lehman",
-        "instrument": "alto saxophone"
+        "instrument": "Saxophone"
       },
       {
         "name": "Cory Smythe",
-        "instrument": "piano"
+        "instrument": "Piano"
       },
       {
         "name": "Chris Tordini",
-        "instrument": "bass"
+        "instrument": "Bass"
       },
       {
         "name": "Jacob Porter",
-        "instrument": "drums"
+        "instrument": "Drums"
       }
     ],
     "priceRange": "$XX",
@@ -56,27 +72,27 @@
     "personnel": [
       {
         "name": "Syndee Winters",
-        "instrument": "vocals"
+        "instrument": "Vocalist"
       },
       {
         "name": "Alexis Lombre",
-        "instrument": "piano"
+        "instrument": "Piano"
       },
       {
         "name": "John Davis",
-        "instrument": "drums"
+        "instrument": "Drums"
       },
       {
         "name": "Jay Flat",
-        "instrument": "bass"
+        "instrument": "Bass"
       },
       {
         "name": "Brad Allen Williams",
-        "instrument": "guitar"
+        "instrument": "Guitar"
       },
       {
         "name": "Yafeu Tyhimba",
-        "instrument": "percussion"
+        "instrument": "Percussion"
       }
     ],
     "priceRange": "$XX",
@@ -92,16 +108,16 @@
     },
     "personnel": [
       {
-        "name": "MARLONIUS",
-        "instrument": "bass"
+        "name": "Marlonius",
+        "instrument": "Bass"
       },
       {
         "name": "Olivia Kuper Harris",
-        "instrument": "vocals"
+        "instrument": "Vocalist"
       },
       {
         "name": "Mara Kaye",
-        "instrument": "vocals"
+        "instrument": "Vocalist"
       }
     ],
     "priceRange": "$XX",
@@ -110,7 +126,7 @@
   {
     "date": "2026-08-29",
     "time": "7:30 PM",
-    "artist": "John Beasley Presents: \"The Birthday Hang\"",
+    "artist": "John Beasley Presents: \"The Birthday Hang\" Celebrating Bird, Pres, Sonny & Wayne",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -118,15 +134,15 @@
     "personnel": [
       {
         "name": "John Beasley",
-        "instrument": "piano"
+        "instrument": "Piano"
       },
       {
         "name": "Bob Sheppard",
-        "instrument": "saxophone"
+        "instrument": "Saxophone"
       },
       {
         "name": "Ralph Moore",
-        "instrument": "saxophone"
+        "instrument": "Saxophone"
       }
     ],
     "priceRange": "$XX",
@@ -143,7 +159,7 @@
     "personnel": [
       {
         "name": "Gerald Clayton",
-        "instrument": "piano"
+        "instrument": "Piano"
       }
     ],
     "priceRange": "$XX",
@@ -160,19 +176,19 @@
     "personnel": [
       {
         "name": "Michael Wolff",
-        "instrument": "piano"
+        "instrument": "Piano"
       },
       {
         "name": "Danny Janklow",
-        "instrument": "saxophone"
+        "instrument": "Saxophone"
       },
       {
         "name": "Edwin Livingston",
-        "instrument": "bass"
+        "instrument": "Bass"
       },
       {
         "name": "Clayton Cameron",
-        "instrument": "drums"
+        "instrument": "Drums"
       }
     ],
     "priceRange": "$XX",
@@ -189,23 +205,23 @@
     "personnel": [
       {
         "name": "Aubrey Situmorang",
-        "instrument": "bass"
+        "instrument": "Bass"
       },
       {
         "name": "Tristan Cappel",
-        "instrument": "guitar"
+        "instrument": "Saxophone"
       },
       {
         "name": "Keelan Walters",
-        "instrument": "drums"
+        "instrument": "Drums"
       },
       {
         "name": "Adam Hersh",
-        "instrument": "piano"
+        "instrument": "Piano"
       },
       {
         "name": "Jordan Proffer",
-        "instrument": "saxophone"
+        "instrument": "Guitar"
       }
     ],
     "priceRange": "$XX",
@@ -222,23 +238,23 @@
     "personnel": [
       {
         "name": "Clay Jenkins",
-        "instrument": "trumpet"
+        "instrument": "Trumpet"
       },
       {
         "name": "Larry Koonse",
-        "instrument": "guitar"
+        "instrument": "Guitar"
       },
       {
         "name": "Ivan Malespin",
-        "instrument": "bass"
+        "instrument": "Bass"
       },
       {
         "name": "Jonathan Richards",
-        "instrument": "piano"
+        "instrument": "Piano"
       },
       {
         "name": "Joe La Barbera",
-        "instrument": "drums"
+        "instrument": "Drums"
       }
     ],
     "priceRange": "$XX",
@@ -255,23 +271,23 @@
     "personnel": [
       {
         "name": "Clay Jenkins",
-        "instrument": "trumpet"
+        "instrument": "Trumpet"
       },
       {
         "name": "Larry Koonse",
-        "instrument": "guitar"
+        "instrument": "Guitar"
       },
       {
         "name": "Ivan Malespin",
-        "instrument": "bass"
+        "instrument": "Bass"
       },
       {
         "name": "Jonathan Richards",
-        "instrument": "piano"
+        "instrument": "Piano"
       },
       {
         "name": "Joe La Barbera",
-        "instrument": "drums"
+        "instrument": "Drums"
       }
     ],
     "priceRange": "$XX",
@@ -288,7 +304,7 @@
     "personnel": [
       {
         "name": "Gerald Clayton",
-        "instrument": "piano"
+        "instrument": "Piano"
       }
     ],
     "priceRange": "$XX",
@@ -305,11 +321,11 @@
     "personnel": [
       {
         "name": "Ari Alexander",
-        "instrument": "vocals"
+        "instrument": "Vocalist"
       },
       {
         "name": "Cecil Alexander",
-        "instrument": "guitar"
+        "instrument": "Guitar"
       }
     ],
     "priceRange": "$XX",
@@ -326,23 +342,23 @@
     "personnel": [
       {
         "name": "Brian Swartz",
-        "instrument": "trumpet"
+        "instrument": "Trumpet"
       },
       {
         "name": "Keith Fiddmont",
-        "instrument": "saxophone"
+        "instrument": "Saxophone"
       },
       {
         "name": "Steve Cotter",
-        "instrument": "piano"
+        "instrument": "Piano"
       },
       {
         "name": "Chris Colangelo",
-        "instrument": "bass"
+        "instrument": "Bass"
       },
       {
         "name": "Kendall Kay",
-        "instrument": "drums"
+        "instrument": "Drums"
       }
     ],
     "priceRange": "$XX",
@@ -359,15 +375,15 @@
     "personnel": [
       {
         "name": "Vardan Ovsepian",
-        "instrument": "piano"
+        "instrument": "Piano"
       },
       {
         "name": "Darek Oles",
-        "instrument": "bass"
+        "instrument": "Bass"
       },
       {
         "name": "Jimmy Branly",
-        "instrument": "drums"
+        "instrument": "Drums"
       }
     ],
     "priceRange": "$XX",
@@ -384,7 +400,7 @@
     "personnel": [
       {
         "name": "Gerald Clayton",
-        "instrument": "piano"
+        "instrument": "Piano"
       }
     ],
     "priceRange": "$XX",
@@ -401,23 +417,23 @@
     "personnel": [
       {
         "name": "Veotis",
-        "instrument": "vocals"
+        "instrument": "Vocalist"
       },
       {
         "name": "Kevin Person",
-        "instrument": "piano"
+        "instrument": "Saxophone"
       },
       {
         "name": "Simon Aks",
-        "instrument": "bass"
+        "instrument": "Piano"
       },
       {
         "name": "Sheldon Alexander",
-        "instrument": "drums"
+        "instrument": "Bass"
       },
       {
         "name": "Noah Mogor",
-        "instrument": "guitar"
+        "instrument": "Drums"
       }
     ],
     "priceRange": "$XX",
@@ -426,7 +442,7 @@
   {
     "date": "2026-09-17",
     "time": "7:30 PM",
-    "artist": "Brandon Coleman Quartet",
+    "artist": "KCRW Presents: \"Third Thursdays\" with Brandon Coleman Quartet",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -434,19 +450,19 @@
     "personnel": [
       {
         "name": "Brandon Coleman",
-        "instrument": "keyboards"
+        "instrument": "Keyboards"
       },
       {
         "name": "Eric Sittner",
-        "instrument": "bass"
+        "instrument": "Bass"
       },
       {
         "name": "Horace Bray",
-        "instrument": "guitar"
+        "instrument": "Guitar"
       },
       {
         "name": "Efa Etorom",
-        "instrument": "drums"
+        "instrument": "Drums"
       }
     ],
     "priceRange": "$XX",
@@ -463,19 +479,19 @@
     "personnel": [
       {
         "name": "Seamus Blake",
-        "instrument": "saxophone"
+        "instrument": "Saxophone"
       },
       {
         "name": "Scott Kinsey",
-        "instrument": "keyboards"
+        "instrument": "Keyboards"
       },
       {
         "name": "Travis Carlton",
-        "instrument": "bass"
+        "instrument": "Bass"
       },
       {
         "name": "Anthony Fung",
-        "instrument": "drums"
+        "instrument": "Drums"
       }
     ],
     "priceRange": "$XX",
