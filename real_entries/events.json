@@ -1,38 +1,5 @@
 [
   {
-    "date": "2026-08-25",
-    "time": "7:30 PM",
-    "artist": "Devin Daniels",
-    "venue": {
-      "name": "Sam First",
-      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
-    },
-    "personnel": [
-      {
-        "name": "Devin Daniels",
-        "instrument": "Saxophone"
-      },
-      {
-        "name": "Julien Knowles",
-        "instrument": null
-      },
-      {
-        "name": "Chris Fishman",
-        "instrument": "Keyboards"
-      },
-      {
-        "name": "Emiliano Lasansky",
-        "instrument": "Bass"
-      },
-      {
-        "name": "Christian Euman",
-        "instrument": "Drums"
-      }
-    ],
-    "priceRange": "$XX",
-    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
-  },
-  {
     "date": "2026-08-26",
     "time": "7:30 PM",
     "artist": "Steve Lehman & Garden of Klōns",
@@ -43,7 +10,7 @@
     "personnel": [
       {
         "name": "Steve Lehman",
-        "instrument": "Saxophone"
+        "instrument": "Saxophone, Electronics"
       },
       {
         "name": "Cory Smythe",
@@ -55,7 +22,7 @@
       },
       {
         "name": "Jacob Porter",
-        "instrument": "Drums"
+        "instrument": "Electronics"
       }
     ],
     "priceRange": "$XX",
@@ -72,7 +39,7 @@
     "personnel": [
       {
         "name": "Syndee Winters",
-        "instrument": "Vocalist"
+        "instrument": "Vocals"
       },
       {
         "name": "Alexis Lombre",
@@ -92,7 +59,7 @@
       },
       {
         "name": "Yafeu Tyhimba",
-        "instrument": "Percussion"
+        "instrument": "Trumpet"
       }
     ],
     "priceRange": "$XX",
@@ -113,11 +80,11 @@
       },
       {
         "name": "Olivia Kuper Harris",
-        "instrument": "Vocalist"
+        "instrument": "Vocals"
       },
       {
         "name": "Mara Kaye",
-        "instrument": "Vocalist"
+        "instrument": "Vocals"
       }
     ],
     "priceRange": "$XX",
@@ -126,7 +93,7 @@
   {
     "date": "2026-08-29",
     "time": "7:30 PM",
-    "artist": "John Beasley Presents: \"The Birthday Hang\" Celebrating Bird, Pres, Sonny & Wayne",
+    "artist": "John Beasley Presents: \"The Birthday Hang\"",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -151,7 +118,7 @@
   {
     "date": "2026-09-01",
     "time": "7:30 PM",
-    "artist": "Gerald Clayton",
+    "artist": "“Tuesday Happenings”: Hosted by Gerald Clayton",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -209,11 +176,11 @@
       },
       {
         "name": "Tristan Cappel",
-        "instrument": "Saxophone"
+        "instrument": "Drums"
       },
       {
         "name": "Keelan Walters",
-        "instrument": "Drums"
+        "instrument": "Saxophone"
       },
       {
         "name": "Adam Hersh",
@@ -245,12 +212,12 @@
         "instrument": "Guitar"
       },
       {
-        "name": "Ivan Malespin",
-        "instrument": "Bass"
+        "name": "Katisse Buckingham",
+        "instrument": "Saxophone"
       },
       {
         "name": "Jonathan Richards",
-        "instrument": "Piano"
+        "instrument": "Bass"
       },
       {
         "name": "Joe La Barbera",
@@ -278,12 +245,12 @@
         "instrument": "Guitar"
       },
       {
-        "name": "Ivan Malespin",
-        "instrument": "Bass"
+        "name": "Katisse Buckingham",
+        "instrument": "Saxophone"
       },
       {
         "name": "Jonathan Richards",
-        "instrument": "Piano"
+        "instrument": "Bass"
       },
       {
         "name": "Joe La Barbera",
@@ -296,7 +263,7 @@
   {
     "date": "2026-09-08",
     "time": "7:30 PM",
-    "artist": "Gerald Clayton",
+    "artist": "“Tuesday Happenings”: Hosted by Gerald Clayton",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -321,7 +288,7 @@
     "personnel": [
       {
         "name": "Ari Alexander",
-        "instrument": "Vocalist"
+        "instrument": "Vocals"
       },
       {
         "name": "Cecil Alexander",
@@ -350,7 +317,7 @@
       },
       {
         "name": "Steve Cotter",
-        "instrument": "Piano"
+        "instrument": "Guitar"
       },
       {
         "name": "Chris Colangelo",
@@ -358,6 +325,31 @@
       },
       {
         "name": "Kendall Kay",
+        "instrument": "Drums"
+      }
+    ],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-09-11",
+    "time": "7:30 PM",
+    "artist": "Adam Hersh Trio",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Adam Hersh",
+        "instrument": "Piano"
+      },
+      {
+        "name": "Karl McComas-Reichl",
+        "instrument": "Bass"
+      },
+      {
+        "name": "Gary Novak",
         "instrument": "Drums"
       }
     ],
@@ -392,7 +384,7 @@
   {
     "date": "2026-09-15",
     "time": "7:30 PM",
-    "artist": "Gerald Clayton",
+    "artist": "“Tuesday Happenings”: Hosted by Gerald Clayton",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -417,15 +409,15 @@
     "personnel": [
       {
         "name": "Veotis",
-        "instrument": "Vocalist"
+        "instrument": "Vocals"
       },
       {
         "name": "Kevin Person",
-        "instrument": "Saxophone"
+        "instrument": "Drums"
       },
       {
         "name": "Simon Aks",
-        "instrument": "Piano"
+        "instrument": "Guitar"
       },
       {
         "name": "Sheldon Alexander",
@@ -433,7 +425,7 @@
       },
       {
         "name": "Noah Mogor",
-        "instrument": "Drums"
+        "instrument": "Saxophone"
       }
     ],
     "priceRange": "$XX",
