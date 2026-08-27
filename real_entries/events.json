@@ -1,34 +1,5 @@
 [
   {
-    "date": "2026-08-26",
-    "time": "7:30 PM",
-    "artist": "Steve Lehman & Garden of Klōns",
-    "venue": {
-      "name": "Sam First",
-      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
-    },
-    "personnel": [
-      {
-        "name": "Steve Lehman",
-        "instrument": "Saxophone, Electronics"
-      },
-      {
-        "name": "Cory Smythe",
-        "instrument": "Piano"
-      },
-      {
-        "name": "Chris Tordini",
-        "instrument": "Bass"
-      },
-      {
-        "name": "Jacob Porter",
-        "instrument": "Electronics"
-      }
-    ],
-    "priceRange": "$XX",
-    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
-  },
-  {
     "date": "2026-08-27",
     "time": "7:30 PM",
     "artist": "Syndee Winters Sings Lena Horne",
@@ -68,14 +39,14 @@
   {
     "date": "2026-08-28",
     "time": "7:30 PM",
-    "artist": "Marlonius Jazz Orchestra!",
+    "artist": "Marlonius Jazz Orchestra",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
     },
     "personnel": [
       {
-        "name": "Marlonius",
+        "name": "MARLONIUS",
         "instrument": "Bass"
       },
       {
@@ -93,7 +64,7 @@
   {
     "date": "2026-08-29",
     "time": "7:30 PM",
-    "artist": "John Beasley Presents: \"The Birthday Hang\"",
+    "artist": "John Beasley Presents: The Birthday Hang",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -118,7 +89,7 @@
   {
     "date": "2026-09-01",
     "time": "7:30 PM",
-    "artist": "“Tuesday Happenings”: Hosted by Gerald Clayton",
+    "artist": "Tuesday Happenings: Hosted by Gerald Clayton",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -213,7 +184,7 @@
       },
       {
         "name": "Katisse Buckingham",
-        "instrument": "Saxophone"
+        "instrument": "Saxophone/Flute"
       },
       {
         "name": "Jonathan Richards",
@@ -246,7 +217,7 @@
       },
       {
         "name": "Katisse Buckingham",
-        "instrument": "Saxophone"
+        "instrument": "Saxophone/Flute"
       },
       {
         "name": "Jonathan Richards",
@@ -263,7 +234,7 @@
   {
     "date": "2026-09-08",
     "time": "7:30 PM",
-    "artist": "“Tuesday Happenings”: Hosted by Gerald Clayton",
+    "artist": "Tuesday Happenings: Hosted by Gerald Clayton",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -384,7 +355,7 @@
   {
     "date": "2026-09-15",
     "time": "7:30 PM",
-    "artist": "“Tuesday Happenings”: Hosted by Gerald Clayton",
+    "artist": "Tuesday Happenings: Hosted by Gerald Clayton",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -413,15 +384,15 @@
       },
       {
         "name": "Kevin Person",
-        "instrument": "Drums"
-      },
-      {
-        "name": "Simon Aks",
         "instrument": "Guitar"
       },
       {
-        "name": "Sheldon Alexander",
+        "name": "Simon Aks",
         "instrument": "Bass"
+      },
+      {
+        "name": "Sheldon Alexander",
+        "instrument": "Drums"
       },
       {
         "name": "Noah Mogor",
@@ -434,7 +405,7 @@
   {
     "date": "2026-09-17",
     "time": "7:30 PM",
-    "artist": "KCRW Presents: \"Third Thursdays\" with Brandon Coleman Quartet",
+    "artist": "Brandon Coleman Quartet",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -484,6 +455,23 @@
       {
         "name": "Anthony Fung",
         "instrument": "Drums"
+      }
+    ],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-09-19",
+    "time": "7:30 PM",
+    "artist": "IT TAKES A VILLAGE: Sam First's Annual Benefit Honoring LA Jazz Icons Herbie Hancock & Darlene Chan",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Herbie Hancock",
+        "instrument": "Piano"
       }
     ],
     "priceRange": "$XX",
