@@ -1,42 +1,5 @@
 [
   {
-    "date": "2026-08-27",
-    "time": "7:30 PM",
-    "artist": "Syndee Winters Sings Lena Horne",
-    "venue": {
-      "name": "Sam First",
-      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
-    },
-    "personnel": [
-      {
-        "name": "Syndee Winters",
-        "instrument": "Vocals"
-      },
-      {
-        "name": "Alexis Lombre",
-        "instrument": "Piano"
-      },
-      {
-        "name": "John Davis",
-        "instrument": "Drums"
-      },
-      {
-        "name": "Jay Flat",
-        "instrument": "Bass"
-      },
-      {
-        "name": "Brad Allen Williams",
-        "instrument": "Guitar"
-      },
-      {
-        "name": "Yafeu Tyhimba",
-        "instrument": "Trumpet"
-      }
-    ],
-    "priceRange": "$XX",
-    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
-  },
-  {
     "date": "2026-08-28",
     "time": "7:30 PM",
     "artist": "Marlonius Jazz Orchestra",
@@ -46,7 +9,7 @@
     },
     "personnel": [
       {
-        "name": "MARLONIUS",
+        "name": "Marlonius",
         "instrument": "Bass"
       },
       {
@@ -64,7 +27,7 @@
   {
     "date": "2026-08-29",
     "time": "7:30 PM",
-    "artist": "John Beasley Presents: The Birthday Hang",
+    "artist": "John Beasley Presents: \"The Birthday Hang\"",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -151,7 +114,7 @@
       },
       {
         "name": "Keelan Walters",
-        "instrument": "Saxophone"
+        "instrument": "Guitar"
       },
       {
         "name": "Adam Hersh",
@@ -159,7 +122,7 @@
       },
       {
         "name": "Jordan Proffer",
-        "instrument": "Guitar"
+        "instrument": "Saxophone"
       }
     ],
     "priceRange": "$XX",
@@ -184,7 +147,7 @@
       },
       {
         "name": "Katisse Buckingham",
-        "instrument": "Saxophone/Flute"
+        "instrument": "Saxophone, Flute"
       },
       {
         "name": "Jonathan Richards",
@@ -217,7 +180,7 @@
       },
       {
         "name": "Katisse Buckingham",
-        "instrument": "Saxophone/Flute"
+        "instrument": "Saxophone, Flute"
       },
       {
         "name": "Jonathan Richards",
@@ -264,6 +227,14 @@
       {
         "name": "Cecil Alexander",
         "instrument": "Guitar"
+      },
+      {
+        "name": "Unknown",
+        "instrument": "Bass"
+      },
+      {
+        "name": "Unknown",
+        "instrument": "Drums"
       }
     ],
     "priceRange": "$XX",
@@ -288,7 +259,7 @@
       },
       {
         "name": "Steve Cotter",
-        "instrument": "Guitar"
+        "instrument": "Piano"
       },
       {
         "name": "Chris Colangelo",
@@ -384,7 +355,7 @@
       },
       {
         "name": "Kevin Person",
-        "instrument": "Guitar"
+        "instrument": "Piano"
       },
       {
         "name": "Simon Aks",
@@ -396,7 +367,7 @@
       },
       {
         "name": "Noah Mogor",
-        "instrument": "Saxophone"
+        "instrument": "Guitar"
       }
     ],
     "priceRange": "$XX",
@@ -472,6 +443,23 @@
       {
         "name": "Herbie Hancock",
         "instrument": "Piano"
+      }
+    ],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-09-22",
+    "time": "7:30 PM",
+    "artist": "Tuesday Happenings: Hosted by Devin Daniels",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Devin Daniels",
+        "instrument": "Saxophone"
       }
     ],
     "priceRange": "$XX",
