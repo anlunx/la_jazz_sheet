@@ -2,7 +2,7 @@
   {
     "date": "2026-09-01",
     "time": "7:30 PM",
-    "artist": "Tuesday Happenings: Hosted by Gerald Clayton",
+    "artist": "“Tuesday Happenings”: Hosted by Gerald Clayton",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -11,6 +11,18 @@
       {
         "name": "Gerald Clayton",
         "instrument": "Piano"
+      },
+      {
+        "name": "Devin Daniels",
+        "instrument": "Saxophone"
+      },
+      {
+        "name": "Jermaine Paul",
+        "instrument": "Bass"
+      },
+      {
+        "name": "Jonathan Pinson",
+        "instrument": "Drums"
       }
     ],
     "priceRange": "$XX",
@@ -64,7 +76,7 @@
       },
       {
         "name": "Keelan Walters",
-        "instrument": "Drums"
+        "instrument": "Guitar"
       },
       {
         "name": "Adam Hersh",
@@ -72,7 +84,7 @@
       },
       {
         "name": "Jordan Proffer",
-        "instrument": "Guitar"
+        "instrument": "Drums"
       }
     ],
     "priceRange": "$XX",
@@ -147,7 +159,7 @@
   {
     "date": "2026-09-08",
     "time": "7:30 PM",
-    "artist": "Tuesday Happenings: Hosted by Gerald Clayton",
+    "artist": "“Tuesday Happenings”: Hosted by Gerald Clayton",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -156,6 +168,18 @@
       {
         "name": "Gerald Clayton",
         "instrument": "Piano"
+      },
+      {
+        "name": "Sasha Masakowski",
+        "instrument": "Vocals"
+      },
+      {
+        "name": "Jermaine Paul",
+        "instrument": "Bass"
+      },
+      {
+        "name": "Myles Martin",
+        "instrument": "Drums"
       }
     ],
     "priceRange": "$XX",
@@ -177,14 +201,6 @@
       {
         "name": "Cecil Alexander",
         "instrument": "Guitar"
-      },
-      {
-        "name": "Unknown",
-        "instrument": "Bass"
-      },
-      {
-        "name": "Unknown",
-        "instrument": "Drums"
       }
     ],
     "priceRange": "$XX",
@@ -276,7 +292,7 @@
   {
     "date": "2026-09-15",
     "time": "7:30 PM",
-    "artist": "Tuesday Happenings: Hosted by Gerald Clayton",
+    "artist": "“Tuesday Happenings”: Hosted by Gerald Clayton",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -334,7 +350,7 @@
     "personnel": [
       {
         "name": "Brandon Coleman",
-        "instrument": "Keyboards"
+        "instrument": "Keyboards/Piano"
       },
       {
         "name": "Eric Sittner",
@@ -384,7 +400,7 @@
   {
     "date": "2026-09-22",
     "time": "7:30 PM",
-    "artist": "Tuesday Happenings: Hosted by Devin Daniels",
+    "artist": "“Tuesday Happenings”: Hosted by Devin Daniels",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
