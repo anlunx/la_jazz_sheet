@@ -1,7 +1,7 @@
 [
   {
     "date": "2026-09-01",
-    "time": "7:30 PM",
+    "time": "7:30 PM / 9:30 PM Jam Session",
     "artist": "“Tuesday Happenings”: Hosted by Gerald Clayton",
     "venue": {
       "name": "Sam First",
@@ -10,19 +10,19 @@
     "personnel": [
       {
         "name": "Gerald Clayton",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Devin Daniels",
-        "instrument": "Saxophone"
+        "instrument": "saxophone"
       },
       {
         "name": "Jermaine Paul",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Jonathan Pinson",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -30,7 +30,7 @@
   },
   {
     "date": "2026-09-02",
-    "time": "7:30 PM",
+    "time": "7:30 PM & 9:30 PM",
     "artist": "Michael Wolff Quartet",
     "venue": {
       "name": "Sam First",
@@ -39,19 +39,19 @@
     "personnel": [
       {
         "name": "Michael Wolff",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Danny Janklow",
-        "instrument": "Saxophone"
+        "instrument": "saxophone"
       },
       {
         "name": "Edwin Livingston",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Clayton Cameron",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -59,7 +59,7 @@
   },
   {
     "date": "2026-09-03",
-    "time": "7:30 PM",
+    "time": "7:30 PM & 9:30 PM",
     "artist": "Aubrey Situmorang",
     "venue": {
       "name": "Sam First",
@@ -68,23 +68,23 @@
     "personnel": [
       {
         "name": "Aubrey Situmorang",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Tristan Cappel",
-        "instrument": "Saxophone"
+        "instrument": "saxophone"
       },
       {
         "name": "Keelan Walters",
-        "instrument": "Guitar"
+        "instrument": "guitar"
       },
       {
         "name": "Adam Hersh",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Jordan Proffer",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -92,7 +92,7 @@
   },
   {
     "date": "2026-09-04",
-    "time": "7:30 PM",
+    "time": "7:30 PM & 9:30 PM",
     "artist": "Clay Jenkins Quintet",
     "venue": {
       "name": "Sam First",
@@ -101,23 +101,23 @@
     "personnel": [
       {
         "name": "Clay Jenkins",
-        "instrument": "Trumpet"
+        "instrument": "trumpet"
       },
       {
         "name": "Larry Koonse",
-        "instrument": "Guitar"
+        "instrument": "guitar"
       },
       {
         "name": "Katisse Buckingham",
-        "instrument": "Saxophone/Flute"
+        "instrument": "saxophone"
       },
       {
         "name": "Jonathan Richards",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Joe La Barbera",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -125,7 +125,7 @@
   },
   {
     "date": "2026-09-05",
-    "time": "7:30 PM",
+    "time": "7:30 PM & 9:30 PM",
     "artist": "Clay Jenkins Quintet",
     "venue": {
       "name": "Sam First",
@@ -134,23 +134,23 @@
     "personnel": [
       {
         "name": "Clay Jenkins",
-        "instrument": "Trumpet"
+        "instrument": "trumpet"
       },
       {
         "name": "Larry Koonse",
-        "instrument": "Guitar"
+        "instrument": "guitar"
       },
       {
         "name": "Katisse Buckingham",
-        "instrument": "Saxophone/Flute"
+        "instrument": "saxophone"
       },
       {
         "name": "Jonathan Richards",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Joe La Barbera",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -158,7 +158,7 @@
   },
   {
     "date": "2026-09-08",
-    "time": "7:30 PM",
+    "time": "7:30 PM / 9:30 PM Jam Session",
     "artist": "“Tuesday Happenings”: Hosted by Gerald Clayton",
     "venue": {
       "name": "Sam First",
@@ -167,19 +167,19 @@
     "personnel": [
       {
         "name": "Gerald Clayton",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Sasha Masakowski",
-        "instrument": "Vocals"
+        "instrument": "vocals"
       },
       {
         "name": "Jermaine Paul",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Myles Martin",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -187,7 +187,7 @@
   },
   {
     "date": "2026-09-09",
-    "time": "7:30 PM",
+    "time": "7:30 PM & 9:30 PM",
     "artist": "Ari and Cecil Alexander Quartet",
     "venue": {
       "name": "Sam First",
@@ -196,11 +196,11 @@
     "personnel": [
       {
         "name": "Ari Alexander",
-        "instrument": "Vocals"
+        "instrument": "vocals"
       },
       {
         "name": "Cecil Alexander",
-        "instrument": "Guitar"
+        "instrument": "guitar"
       }
     ],
     "priceRange": "$XX",
@@ -208,7 +208,7 @@
   },
   {
     "date": "2026-09-10",
-    "time": "7:30 PM",
+    "time": "7:30 PM & 9:30 PM",
     "artist": "The Brian Swartz Quintet",
     "venue": {
       "name": "Sam First",
@@ -217,23 +217,23 @@
     "personnel": [
       {
         "name": "Brian Swartz",
-        "instrument": "Trumpet"
+        "instrument": "trumpet"
       },
       {
         "name": "Keith Fiddmont",
-        "instrument": "Saxophone"
+        "instrument": "saxophone"
       },
       {
         "name": "Steve Cotter",
-        "instrument": "Guitar"
+        "instrument": "piano"
       },
       {
         "name": "Chris Colangelo",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Kendall Kay",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -241,7 +241,7 @@
   },
   {
     "date": "2026-09-11",
-    "time": "7:30 PM",
+    "time": "7:30 PM & 9:30 PM",
     "artist": "Adam Hersh Trio",
     "venue": {
       "name": "Sam First",
@@ -250,15 +250,15 @@
     "personnel": [
       {
         "name": "Adam Hersh",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Karl McComas-Reichl",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Gary Novak",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -266,7 +266,7 @@
   },
   {
     "date": "2026-09-12",
-    "time": "7:30 PM",
+    "time": "7:30 PM & 9:30 PM",
     "artist": "Vardan Ovsepian Trio",
     "venue": {
       "name": "Sam First",
@@ -275,15 +275,15 @@
     "personnel": [
       {
         "name": "Vardan Ovsepian",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Darek Oles",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Jimmy Branly",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -291,7 +291,7 @@
   },
   {
     "date": "2026-09-15",
-    "time": "7:30 PM",
+    "time": "7:30 PM / 9:30 PM Jam Session",
     "artist": "“Tuesday Happenings”: Hosted by Gerald Clayton",
     "venue": {
       "name": "Sam First",
@@ -300,7 +300,7 @@
     "personnel": [
       {
         "name": "Gerald Clayton",
-        "instrument": "Piano"
+        "instrument": "piano"
       }
     ],
     "priceRange": "$XX",
@@ -308,7 +308,7 @@
   },
   {
     "date": "2026-09-16",
-    "time": "7:30 PM",
+    "time": "7:30 PM & 9:30 PM",
     "artist": "Veotis: Feelings To Run From",
     "venue": {
       "name": "Sam First",
@@ -317,23 +317,23 @@
     "personnel": [
       {
         "name": "Veotis",
-        "instrument": "Vocals"
+        "instrument": "vocals"
       },
       {
         "name": "Kevin Person",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Simon Aks",
-        "instrument": "Guitar"
+        "instrument": "guitar"
       },
       {
         "name": "Sheldon Alexander",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Noah Mogor",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -341,7 +341,7 @@
   },
   {
     "date": "2026-09-17",
-    "time": "7:30 PM",
+    "time": "7:30 PM & 9:30 PM",
     "artist": "KCRW Presents: \"Third Thursdays\" with Brandon Coleman Quartet",
     "venue": {
       "name": "Sam First",
@@ -350,19 +350,19 @@
     "personnel": [
       {
         "name": "Brandon Coleman",
-        "instrument": "Keyboards/Piano"
+        "instrument": "keyboards"
       },
       {
         "name": "Eric Sittner",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Horace Bray",
-        "instrument": "Guitar"
+        "instrument": "guitar"
       },
       {
         "name": "Efa Etorom",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -370,7 +370,7 @@
   },
   {
     "date": "2026-09-18",
-    "time": "7:30 PM",
+    "time": "7:30 PM & 9:30 PM",
     "artist": "Seamus Blake and EH! (the music of Eddie Harris)",
     "venue": {
       "name": "Sam First",
@@ -379,19 +379,19 @@
     "personnel": [
       {
         "name": "Seamus Blake",
-        "instrument": "Saxophone"
+        "instrument": "saxophone"
       },
       {
         "name": "Scott Kinsey",
-        "instrument": "Keyboards"
+        "instrument": "keyboards"
       },
       {
         "name": "Travis Carlton",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Anthony Fung",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -399,7 +399,7 @@
   },
   {
     "date": "2026-09-22",
-    "time": "7:30 PM",
+    "time": "7:30 PM / 9:30 PM Jam Session",
     "artist": "“Tuesday Happenings”: Hosted by Devin Daniels",
     "venue": {
       "name": "Sam First",
@@ -408,7 +408,7 @@
     "personnel": [
       {
         "name": "Devin Daniels",
-        "instrument": "Saxophone"
+        "instrument": "saxophone"
       }
     ],
     "priceRange": "$XX",
@@ -416,7 +416,7 @@
   },
   {
     "date": "2026-09-23",
-    "time": "7:30 PM",
+    "time": "7:30 PM & 9:30 PM",
     "artist": "Bokani Dyer Trio",
     "venue": {
       "name": "Sam First",
@@ -425,15 +425,15 @@
     "personnel": [
       {
         "name": "Bokani Dyer",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Timothy Norton",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Malachi Whitson",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -441,7 +441,7 @@
   },
   {
     "date": "2026-09-24",
-    "time": "7:30 PM",
+    "time": "7:30 PM & 9:30 PM",
     "artist": "Alexandra Ridout Quartet",
     "venue": {
       "name": "Sam First",
@@ -450,19 +450,19 @@
     "personnel": [
       {
         "name": "Alexandra Ridout",
-        "instrument": "Trumpet"
+        "instrument": "trumpet"
       },
       {
         "name": "Yvonne Rogers",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Simón Willson",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "David Sirkis",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
