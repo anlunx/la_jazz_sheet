@@ -1,38 +1,5 @@
 [
   {
-    "date": "2026-09-04",
-    "time": "7:30 PM",
-    "artist": "Clay Jenkins Quintet",
-    "venue": {
-      "name": "Sam First",
-      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
-    },
-    "personnel": [
-      {
-        "name": "Clay Jenkins",
-        "instrument": "Trumpet"
-      },
-      {
-        "name": "Larry Koonse",
-        "instrument": "Guitar"
-      },
-      {
-        "name": "Katisse Buckingham",
-        "instrument": "Saxophone"
-      },
-      {
-        "name": "Jonathan Richards",
-        "instrument": "Bass"
-      },
-      {
-        "name": "Joe La Barbera",
-        "instrument": "Drums"
-      }
-    ],
-    "priceRange": "$XX",
-    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
-  },
-  {
     "date": "2026-09-05",
     "time": "7:30 PM",
     "artist": "Clay Jenkins Quintet",
@@ -43,23 +10,23 @@
     "personnel": [
       {
         "name": "Clay Jenkins",
-        "instrument": "Trumpet"
+        "instrument": "drums"
       },
       {
         "name": "Larry Koonse",
-        "instrument": "Guitar"
+        "instrument": "guitar"
       },
       {
         "name": "Katisse Buckingham",
-        "instrument": "Saxophone"
+        "instrument": "saxophone"
       },
       {
         "name": "Jonathan Richards",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Joe La Barbera",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -68,7 +35,7 @@
   {
     "date": "2026-09-08",
     "time": "7:30 PM",
-    "artist": "“Tuesday Happenings”: Hosted by Gerald Clayton",
+    "artist": "Tuesday Happenings: Hosted by Gerald Clayton",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -76,19 +43,19 @@
     "personnel": [
       {
         "name": "Gerald Clayton",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Sasha Masakowski",
-        "instrument": "Vocals"
+        "instrument": "vocals"
       },
       {
         "name": "Jermaine Paul",
-        "instrument": ""
+        "instrument": "bass"
       },
       {
         "name": "Myles Martin",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -105,11 +72,11 @@
     "personnel": [
       {
         "name": "Ari Alexander",
-        "instrument": "Vocals"
+        "instrument": "vocals"
       },
       {
         "name": "Cecil Alexander",
-        "instrument": "Guitar"
+        "instrument": "guitar"
       }
     ],
     "priceRange": "$XX",
@@ -126,23 +93,23 @@
     "personnel": [
       {
         "name": "Brian Swartz",
-        "instrument": "Trumpet"
+        "instrument": "trumpet"
       },
       {
         "name": "Keith Fiddmont",
-        "instrument": "Saxophone"
+        "instrument": "saxophone"
       },
       {
         "name": "Steve Cotter",
-        "instrument": ""
+        "instrument": "piano"
       },
       {
         "name": "Chris Colangelo",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Kendall Kay",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -159,15 +126,15 @@
     "personnel": [
       {
         "name": "Adam Hersh",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Karl McComas-Reichl",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Gary Novak",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -184,15 +151,15 @@
     "personnel": [
       {
         "name": "Vardan Ovsepian",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Darek Oles",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Jimmy Branly",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -201,7 +168,7 @@
   {
     "date": "2026-09-15",
     "time": "7:30 PM",
-    "artist": "“Tuesday Happenings”: Hosted by Gerald Clayton",
+    "artist": "Tuesday Happenings: Hosted by Gerald Clayton",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -209,7 +176,7 @@
     "personnel": [
       {
         "name": "Gerald Clayton",
-        "instrument": "Piano"
+        "instrument": "piano"
       }
     ],
     "priceRange": "$XX",
@@ -226,23 +193,23 @@
     "personnel": [
       {
         "name": "Veotis",
-        "instrument": "Vocals"
+        "instrument": "vocals"
       },
       {
         "name": "Kevin Person",
-        "instrument": ""
+        "instrument": "musician"
       },
       {
         "name": "Simon Aks",
-        "instrument": ""
+        "instrument": "musician"
       },
       {
         "name": "Sheldon Alexander",
-        "instrument": ""
+        "instrument": "musician"
       },
       {
         "name": "Noah Mogor",
-        "instrument": ""
+        "instrument": "musician"
       }
     ],
     "priceRange": "$XX",
@@ -259,19 +226,19 @@
     "personnel": [
       {
         "name": "Brandon Coleman",
-        "instrument": "Keyboards"
+        "instrument": "keyboards"
       },
       {
         "name": "Eric Sittner",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Horace Bray",
-        "instrument": "Guitar"
+        "instrument": "guitar"
       },
       {
         "name": "Efa Etorom",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -288,19 +255,19 @@
     "personnel": [
       {
         "name": "Seamus Blake",
-        "instrument": "Saxophone"
+        "instrument": "saxophone"
       },
       {
         "name": "Scott Kinsey",
-        "instrument": "Keyboards"
+        "instrument": "keyboards"
       },
       {
         "name": "Travis Carlton",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Anthony Fung",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -309,7 +276,7 @@
   {
     "date": "2026-09-22",
     "time": "7:30 PM",
-    "artist": "“Tuesday Happenings”: Hosted by Devin Daniels",
+    "artist": "Tuesday Happenings: Hosted by Devin Daniels",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -317,7 +284,7 @@
     "personnel": [
       {
         "name": "Devin Daniels",
-        "instrument": "Saxophone"
+        "instrument": "saxophone"
       }
     ],
     "priceRange": "$XX",
@@ -334,15 +301,15 @@
     "personnel": [
       {
         "name": "Bokani Dyer",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Timothy Norton",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Malachi Whitson",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -359,19 +326,19 @@
     "personnel": [
       {
         "name": "Alexandra Ridout",
-        "instrument": "Trumpet"
+        "instrument": "trumpet"
       },
       {
         "name": "Yvonne Rogers",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Simón Willson",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "David Sirkis",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -388,15 +355,15 @@
     "personnel": [
       {
         "name": "Victor Baker",
-        "instrument": "Guitar"
+        "instrument": "guitar"
       },
       {
         "name": "Julian Esparza",
-        "instrument": ""
+        "instrument": "musician"
       },
       {
         "name": "Mark Ferber",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -413,19 +380,19 @@
     "personnel": [
       {
         "name": "Efajemue Etoroma, Jr.",
-        "instrument": "Drums"
+        "instrument": "drums"
       },
       {
         "name": "Michael Ragonese",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Ted Taforo",
-        "instrument": "Saxophone"
+        "instrument": "saxophone"
       },
       {
         "name": "Francisco Ojeda",
-        "instrument": "Bass"
+        "instrument": "bass"
       }
     ],
     "priceRange": "$XX",
@@ -442,15 +409,65 @@
     "personnel": [
       {
         "name": "Josh Nelson",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Karl McComas-Reichl",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Dan Schnelle",
-        "instrument": "Drums"
+        "instrument": "drums"
+      }
+    ],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-10-03",
+    "time": "7:30 PM",
+    "artist": "Josh Nelson Trio",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Josh Nelson",
+        "instrument": "piano"
+      },
+      {
+        "name": "Karl McComas-Reichl",
+        "instrument": "bass"
+      },
+      {
+        "name": "Dan Schnelle",
+        "instrument": "drums"
+      }
+    ],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-10-03",
+    "time": "9:30 PM",
+    "artist": "Josh Nelson Trio",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Josh Nelson",
+        "instrument": "piano"
+      },
+      {
+        "name": "Karl McComas-Reichl",
+        "instrument": "bass"
+      },
+      {
+        "name": "Dan Schnelle",
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
