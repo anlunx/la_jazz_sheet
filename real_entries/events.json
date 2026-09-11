@@ -1,38 +1,5 @@
 [
   {
-    "date": "2026-09-10",
-    "time": "7:30 PM",
-    "artist": "The Brian Swartz Quintet",
-    "venue": {
-      "name": "Sam First",
-      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
-    },
-    "personnel": [
-      {
-        "name": "Brian Swartz",
-        "instrument": "Trumpet"
-      },
-      {
-        "name": "Keith Fiddmont",
-        "instrument": "Saxophone"
-      },
-      {
-        "name": "Steve Cotter",
-        "instrument": "Guitar"
-      },
-      {
-        "name": "Chris Colangelo",
-        "instrument": "Bass"
-      },
-      {
-        "name": "Kendall Kay",
-        "instrument": "Drums"
-      }
-    ],
-    "priceRange": "$XX",
-    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
-  },
-  {
     "date": "2026-09-11",
     "time": "7:30 PM",
     "artist": "Adam Hersh Trio",
@@ -85,7 +52,7 @@
   {
     "date": "2026-09-15",
     "time": "7:30 PM",
-    "artist": "“Tuesday Happenings”: Hosted by Gerald Clayton",
+    "artist": "Gerald Clayton (Host)",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -96,12 +63,12 @@
         "instrument": "Piano"
       },
       {
-        "name": "Mark Turner",
-        "instrument": "Saxophone"
+        "name": "Marcel Camargo",
+        "instrument": "Unknown"
       },
       {
-        "name": "Marcel Camargo",
-        "instrument": "Guitar"
+        "name": "Eva Scow",
+        "instrument": "Unknown"
       }
     ],
     "priceRange": "$XX",
@@ -110,7 +77,7 @@
   {
     "date": "2026-09-16",
     "time": "7:30 PM",
-    "artist": "Veotis: Feelings To Run From",
+    "artist": "Veotis",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -118,23 +85,23 @@
     "personnel": [
       {
         "name": "Veotis",
-        "instrument": "Vocals"
+        "instrument": "Voice"
       },
       {
         "name": "Kevin Person",
-        "instrument": "Bass"
+        "instrument": "Unknown"
       },
       {
         "name": "Simon Aks",
-        "instrument": "Drums"
+        "instrument": "Unknown"
       },
       {
         "name": "Sheldon Alexander",
-        "instrument": "Guitar"
+        "instrument": "Unknown"
       },
       {
         "name": "Noah Mogor",
-        "instrument": "Keyboards"
+        "instrument": "Unknown"
       }
     ],
     "priceRange": "$XX",
@@ -155,15 +122,15 @@
       },
       {
         "name": "Eric Sittner",
-        "instrument": "Bass"
+        "instrument": "Unknown"
       },
       {
         "name": "Horace Bray",
-        "instrument": "Guitar"
+        "instrument": "Unknown"
       },
       {
         "name": "Efa Etorom",
-        "instrument": "Drums"
+        "instrument": "Unknown"
       }
     ],
     "priceRange": "$XX",
@@ -184,36 +151,24 @@
       },
       {
         "name": "Scott Kinsey",
-        "instrument": "Keyboards"
+        "instrument": "Unknown"
       },
       {
         "name": "Travis Carlton",
-        "instrument": "Bass"
+        "instrument": "Unknown"
       },
       {
         "name": "Anthony Fung",
-        "instrument": "Drums"
+        "instrument": "Unknown"
       }
     ],
     "priceRange": "$XX",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
-    "date": "2026-09-19",
-    "time": "7:30 PM",
-    "artist": "IT TAKES A VILLAGE: Sam First's Annual Benefit Honoring LA Jazz Icons Herbie Hancock & Darlene Chan",
-    "venue": {
-      "name": "Sam First",
-      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
-    },
-    "personnel": [],
-    "priceRange": "$XX",
-    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
-  },
-  {
     "date": "2026-09-22",
     "time": "7:30 PM",
-    "artist": "“Tuesday Happenings”: Hosted by Devin Daniels",
+    "artist": "Devin Daniels (Host)",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -221,7 +176,7 @@
     "personnel": [
       {
         "name": "Devin Daniels",
-        "instrument": "Saxophone"
+        "instrument": "Unknown"
       }
     ],
     "priceRange": "$XX",
@@ -267,14 +222,39 @@
       },
       {
         "name": "Yvonne Rogers",
-        "instrument": "Piano"
+        "instrument": "Unknown"
       },
       {
         "name": "Simón Willson",
-        "instrument": "Bass"
+        "instrument": "Unknown"
       },
       {
         "name": "David Sirkis",
+        "instrument": "Unknown"
+      }
+    ],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-09-26",
+    "time": "7:30 PM",
+    "artist": "Tamir Hendelman Trio",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Tamir Hendelman",
+        "instrument": "Piano"
+      },
+      {
+        "name": "Kevin Axt",
+        "instrument": "Bass"
+      },
+      {
+        "name": "Joe LaBarbera",
         "instrument": "Drums"
       }
     ],
@@ -296,11 +276,11 @@
       },
       {
         "name": "Julian Esparza",
-        "instrument": "Bass"
+        "instrument": "Unknown"
       },
       {
         "name": "Mark Ferber",
-        "instrument": "Drums"
+        "instrument": "Unknown"
       }
     ],
     "priceRange": "$XX",
@@ -321,15 +301,15 @@
       },
       {
         "name": "Michael Ragonese",
-        "instrument": "Piano"
+        "instrument": "Unknown"
       },
       {
         "name": "Ted Taforo",
-        "instrument": "Saxophone"
+        "instrument": "Unknown"
       },
       {
         "name": "Francisco Ojeda",
-        "instrument": "Bass"
+        "instrument": "Unknown"
       }
     ],
     "priceRange": "$XX",
@@ -362,7 +342,7 @@
   },
   {
     "date": "2026-10-03",
-    "time": "9:30 PM",
+    "time": "7:30 PM",
     "artist": "Josh Nelson Trio",
     "venue": {
       "name": "Sam First",
@@ -388,7 +368,7 @@
   {
     "date": "2026-10-06",
     "time": "7:30 PM",
-    "artist": "“Tuesday Happenings”: Hosted by Gerald Clayton",
+    "artist": "Gerald Clayton (Host)",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -442,19 +422,19 @@
       },
       {
         "name": "Brandon Fields",
-        "instrument": "Saxophone"
+        "instrument": "Unknown"
       },
       {
         "name": "Jeff Littleton",
-        "instrument": "Bass"
+        "instrument": "Unknown"
       },
       {
         "name": "Alan Eicher",
-        "instrument": "Piano"
+        "instrument": "Unknown"
       },
       {
         "name": "Akira Yamada",
-        "instrument": "Drums"
+        "instrument": "Unknown"
       }
     ],
     "priceRange": "$XX",
