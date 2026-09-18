@@ -1,34 +1,5 @@
 [
   {
-    "date": "2026-09-17",
-    "time": "7:30 PM",
-    "artist": "Brandon Coleman Quartet",
-    "venue": {
-      "name": "Sam First",
-      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
-    },
-    "personnel": [
-      {
-        "name": "Brandon Coleman",
-        "instrument": "piano/keyboards"
-      },
-      {
-        "name": "Eric Sittner",
-        "instrument": "bass"
-      },
-      {
-        "name": "Horace Bray",
-        "instrument": "guitar"
-      },
-      {
-        "name": "Efa Etoroma",
-        "instrument": "drums"
-      }
-    ],
-    "priceRange": "$XX",
-    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
-  },
-  {
     "date": "2026-09-18",
     "time": "7:30 PM",
     "artist": "Seamus Blake and EH! (the music of Eddie Harris)",
@@ -39,21 +10,33 @@
     "personnel": [
       {
         "name": "Seamus Blake",
-        "instrument": "saxophone"
+        "instrument": "Saxophonist"
       },
       {
         "name": "Scott Kinsey",
-        "instrument": "keyboards"
+        "instrument": "Keyboards"
       },
       {
         "name": "Travis Carlton",
-        "instrument": "bass"
+        "instrument": "Bass"
       },
       {
         "name": "Anthony Fung",
-        "instrument": "drums"
+        "instrument": "Drums"
       }
     ],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-09-19",
+    "time": "7:30 PM",
+    "artist": "IT TAKES A VILLAGE: Sam First's Annual Benefit Honoring LA Jazz Icons Herbie Hancock & Darlene Chan",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [],
     "priceRange": "$XX",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
@@ -68,7 +51,7 @@
     "personnel": [
       {
         "name": "Devin Daniels",
-        "instrument": "saxophone"
+        "instrument": "Saxophone"
       }
     ],
     "priceRange": "$XX",
@@ -85,15 +68,15 @@
     "personnel": [
       {
         "name": "Bokani Dyer",
-        "instrument": "piano"
+        "instrument": "Pianist"
       },
       {
         "name": "Timothy Norton",
-        "instrument": "bass"
+        "instrument": "Bassist"
       },
       {
         "name": "Malachi Whitson",
-        "instrument": "drums"
+        "instrument": "Drummer"
       }
     ],
     "priceRange": "$XX",
@@ -110,19 +93,19 @@
     "personnel": [
       {
         "name": "Alexandra Ridout",
-        "instrument": "trumpet"
+        "instrument": "Trumpeter"
       },
       {
         "name": "Yvonne Rogers",
-        "instrument": "piano"
+        "instrument": "Piano"
       },
       {
         "name": "Simón Willson",
-        "instrument": "bass"
+        "instrument": "Bass"
       },
       {
         "name": "David Sirkis",
-        "instrument": "drums"
+        "instrument": "Drums"
       }
     ],
     "priceRange": "$XX",
@@ -139,19 +122,19 @@
     "personnel": [
       {
         "name": "John Escreet",
-        "instrument": "piano"
+        "instrument": "Pianist"
       },
       {
         "name": "Steve Lehman",
-        "instrument": "saxophone"
+        "instrument": "Saxophone"
       },
       {
         "name": "Eric Revis",
-        "instrument": "bass"
+        "instrument": "Bass"
       },
       {
         "name": "Gary Novak",
-        "instrument": "drums"
+        "instrument": "Drums"
       }
     ],
     "priceRange": "$XX",
@@ -160,7 +143,7 @@
   {
     "date": "2026-09-26",
     "time": "7:30 PM",
-    "artist": "Tamir Hendelman Trio-Celebrating the Music of Bill Evans",
+    "artist": "Tamir Hendelman Trio",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -168,15 +151,15 @@
     "personnel": [
       {
         "name": "Tamir Hendelman",
-        "instrument": "piano"
+        "instrument": "Pianist"
       },
       {
         "name": "Kevin Axt",
-        "instrument": "bass"
+        "instrument": "Bassist"
       },
       {
         "name": "Joe LaBarbera",
-        "instrument": "drums"
+        "instrument": "Drummer"
       }
     ],
     "priceRange": "$XX",
@@ -193,15 +176,15 @@
     "personnel": [
       {
         "name": "Victor Baker",
-        "instrument": "guitar"
+        "instrument": "Guitarist"
       },
       {
         "name": "Julian Esparza",
-        "instrument": "bass"
+        "instrument": "Bass"
       },
       {
         "name": "Mark Ferber",
-        "instrument": "drums"
+        "instrument": "Drums"
       }
     ],
     "priceRange": "$XX",
@@ -218,19 +201,19 @@
     "personnel": [
       {
         "name": "Efajemue Etoroma, Jr.",
-        "instrument": "drums"
+        "instrument": "Drummer"
       },
       {
         "name": "Michael Ragonese",
-        "instrument": "piano"
+        "instrument": "Piano"
       },
       {
         "name": "Ted Taforo",
-        "instrument": "saxophone"
+        "instrument": "Saxophone"
       },
       {
         "name": "Francisco Ojeda",
-        "instrument": "bass"
+        "instrument": "Bass"
       }
     ],
     "priceRange": "$XX",
@@ -247,15 +230,15 @@
     "personnel": [
       {
         "name": "Josh Nelson",
-        "instrument": "piano"
+        "instrument": "Pianist"
       },
       {
         "name": "Karl McComas-Reichl",
-        "instrument": "bass"
+        "instrument": "Bass"
       },
       {
         "name": "Dan Schnelle",
-        "instrument": "drums"
+        "instrument": "Drums"
       }
     ],
     "priceRange": "$XX",
@@ -272,15 +255,15 @@
     "personnel": [
       {
         "name": "Josh Nelson",
-        "instrument": "piano"
+        "instrument": "Pianist"
       },
       {
         "name": "Karl McComas-Reichl",
-        "instrument": "bass"
+        "instrument": "Bass"
       },
       {
         "name": "Dan Schnelle",
-        "instrument": "drums"
+        "instrument": "Drums"
       }
     ],
     "priceRange": "$XX",
@@ -297,7 +280,7 @@
     "personnel": [
       {
         "name": "Gerald Clayton",
-        "instrument": "piano"
+        "instrument": "Pianist"
       }
     ],
     "priceRange": "$XX",
@@ -314,15 +297,15 @@
     "personnel": [
       {
         "name": "Adam Levy",
-        "instrument": "guitar"
+        "instrument": "Guitarist"
       },
       {
         "name": "Edwin Livingston",
-        "instrument": "bass"
+        "instrument": "Bassist"
       },
       {
         "name": "Christian Euman",
-        "instrument": "drums"
+        "instrument": "Drummer"
       }
     ],
     "priceRange": "$XX",
@@ -339,23 +322,23 @@
     "personnel": [
       {
         "name": "Shunzo Ohno",
-        "instrument": "trumpet"
+        "instrument": "Trumpeter"
       },
       {
         "name": "Brandon Fields",
-        "instrument": "saxophone"
+        "instrument": "Saxophone"
       },
       {
         "name": "Jeff Littleton",
-        "instrument": "bass"
+        "instrument": "Bass"
       },
       {
         "name": "Alan Eicher",
-        "instrument": "piano/keyboards"
+        "instrument": "Piano"
       },
       {
         "name": "Akira Yamada",
-        "instrument": "drums"
+        "instrument": "Drums"
       }
     ],
     "priceRange": "$XX",
@@ -372,19 +355,19 @@
     "personnel": [
       {
         "name": "María Grand",
-        "instrument": "saxophone"
+        "instrument": "Saxophone"
       },
       {
         "name": "Shakoor Hakeem",
-        "instrument": "piano"
+        "instrument": "Piano"
       },
       {
         "name": "Miguel Russell",
-        "instrument": "drums"
+        "instrument": "Drums"
       },
       {
         "name": "Gervis Myles",
-        "instrument": "bass"
+        "instrument": "Bass"
       }
     ],
     "priceRange": "$XX",
@@ -401,7 +384,7 @@
     "personnel": [
       {
         "name": "Brandon Goldberg",
-        "instrument": "piano"
+        "instrument": "Pianist"
       }
     ],
     "priceRange": "$XX",
@@ -418,19 +401,52 @@
     "personnel": [
       {
         "name": "Max Light",
-        "instrument": "guitar"
+        "instrument": "Guitarist"
       },
       {
         "name": "Julian Shore",
-        "instrument": "piano"
+        "instrument": "Piano"
       },
       {
         "name": "Walter Stinson",
-        "instrument": "bass"
+        "instrument": "Bass"
       },
       {
         "name": "Steven Crammer",
-        "instrument": "drums"
+        "instrument": "Drums"
+      }
+    ],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-10-16",
+    "time": "7:30 PM",
+    "artist": "The Darynn Dean Quartet",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Darynn Dean",
+        "instrument": "Voice"
+      },
+      {
+        "name": "Donald Dean Sr.",
+        "instrument": "Drums"
+      },
+      {
+        "name": "Joshua Wong",
+        "instrument": "Piano"
+      },
+      {
+        "name": "Marlonius",
+        "instrument": "Bass"
+      },
+      {
+        "name": "Mailo Rakotonanahary",
+        "instrument": "Guitar"
       }
     ],
     "priceRange": "$XX",
