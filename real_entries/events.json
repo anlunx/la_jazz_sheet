@@ -1,19 +1,7 @@
 [
   {
-    "date": "2026-09-19",
-    "time": "7:30 PM",
-    "artist": "IT TAKES A VILLAGE: Sam First's Annual Benefit Honoring LA Jazz Icons Herbie Hancock & Darlene Chan",
-    "venue": {
-      "name": "Sam First",
-      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
-    },
-    "personnel": [],
-    "priceRange": "$XX",
-    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
-  },
-  {
     "date": "2026-09-22",
-    "time": "7:30 PM",
+    "time": "7:30 PM / 9:30 PM",
     "artist": "Devin Daniels",
     "venue": {
       "name": "Sam First",
@@ -22,7 +10,7 @@
     "personnel": [
       {
         "name": "Devin Daniels",
-        "instrument": ""
+        "instrument": "saxophone"
       }
     ],
     "priceRange": "$XX",
@@ -97,7 +85,7 @@
       },
       {
         "name": "Steve Lehman",
-        "instrument": "alto saxophone"
+        "instrument": "saxophone"
       },
       {
         "name": "Eric Revis",
@@ -114,7 +102,7 @@
   {
     "date": "2026-09-26",
     "time": "7:30 PM",
-    "artist": "Tamir Hendelman Trio",
+    "artist": "Tamir Hendelman Trio-Celebrating the Music of Bill Evans",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -217,7 +205,7 @@
   },
   {
     "date": "2026-10-03",
-    "time": "7:30 PM",
+    "time": "9:30 PM",
     "artist": "Josh Nelson Trio",
     "venue": {
       "name": "Sam First",
@@ -242,7 +230,7 @@
   },
   {
     "date": "2026-10-06",
-    "time": "7:30 PM",
+    "time": "7:30 PM / 9:30 PM",
     "artist": "Gerald Clayton",
     "venue": {
       "name": "Sam First",
@@ -393,7 +381,7 @@
   {
     "date": "2026-10-16",
     "time": "7:30 PM",
-    "artist": "The Darynn Dean Quartet",
+    "artist": "The Darynn Dean Quartet feat. Donald Dean Sr.",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -409,15 +397,15 @@
       },
       {
         "name": "Joshua Wong",
-        "instrument": "piano"
-      },
-      {
-        "name": "Marlonius",
         "instrument": "bass"
       },
       {
+        "name": "Marlonius",
+        "instrument": "piano"
+      },
+      {
         "name": "Mailo Rakotonanahary",
-        "instrument": "guitar"
+        "instrument": "saxophone"
       }
     ],
     "priceRange": "$XX",
@@ -438,15 +426,44 @@
       },
       {
         "name": "Christina Galisatus",
-        "instrument": "piano"
+        "instrument": "piano/vocals"
       },
       {
-        "name": "Nicole Mccabe",
+        "name": "Nicole McCabe",
         "instrument": "saxophone"
       },
       {
         "name": "Mark Valdes",
         "instrument": "drums"
+      }
+    ],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-10-22",
+    "time": "7:30 PM",
+    "artist": "Yvonne Rogers Quartet",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Yvonne Rogers",
+        "instrument": "piano"
+      },
+      {
+        "name": "Jermaine Paul",
+        "instrument": "bass"
+      },
+      {
+        "name": "Mark Ferber",
+        "instrument": "drums"
+      },
+      {
+        "name": "Nicolaus Gelin",
+        "instrument": "saxophone"
       }
     ],
     "priceRange": "$XX",
