@@ -10,19 +10,19 @@
     "personnel": [
       {
         "name": "John Escreet",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Steve Lehman",
-        "instrument": "Saxophone"
+        "instrument": "saxophone"
       },
       {
         "name": "Eric Revis",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Gary Novak",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -31,7 +31,7 @@
   {
     "date": "2026-09-26",
     "time": "7:30 PM",
-    "artist": "Tamir Hendelman Trio",
+    "artist": "Tamir Hendelman Trio-Celebrating the Music of Bill Evans",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -39,15 +39,15 @@
     "personnel": [
       {
         "name": "Tamir Hendelman",
-        "instrument": "Pianist"
+        "instrument": "piano"
       },
       {
         "name": "Kevin Axt",
-        "instrument": "Bassist"
+        "instrument": "bass"
       },
       {
         "name": "Joe LaBarbera",
-        "instrument": "Drummer"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -76,15 +76,15 @@
     "personnel": [
       {
         "name": "Victor Baker",
-        "instrument": "Guitar"
+        "instrument": "guitar"
       },
       {
         "name": "Julian Esparza",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Mark Ferber",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -101,19 +101,19 @@
     "personnel": [
       {
         "name": "Efajemue Etoroma, Jr.",
-        "instrument": "Drums"
+        "instrument": "drums"
       },
       {
         "name": "Michael Ragonese",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Ted Taforo",
-        "instrument": "Saxophone"
+        "instrument": "saxophone"
       },
       {
         "name": "Francisco Ojeda",
-        "instrument": "Bass"
+        "instrument": "bass"
       }
     ],
     "priceRange": "$XX",
@@ -130,15 +130,15 @@
     "personnel": [
       {
         "name": "Josh Nelson",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Karl McComas-Reichl",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Dan Schnelle",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -146,7 +146,7 @@
   },
   {
     "date": "2026-10-03",
-    "time": "9:30 PM",
+    "time": "7:30 PM",
     "artist": "Josh Nelson Trio",
     "venue": {
       "name": "Sam First",
@@ -155,15 +155,15 @@
     "personnel": [
       {
         "name": "Josh Nelson",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Karl McComas-Reichl",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Dan Schnelle",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -180,7 +180,7 @@
     "personnel": [
       {
         "name": "Gerald Clayton",
-        "instrument": "Piano"
+        "instrument": "piano"
       }
     ],
     "priceRange": "$XX",
@@ -197,15 +197,15 @@
     "personnel": [
       {
         "name": "Adam Levy",
-        "instrument": "Guitar"
+        "instrument": "guitar"
       },
       {
         "name": "Edwin Livingston",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Christian Euman",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -222,23 +222,23 @@
     "personnel": [
       {
         "name": "Shunzo Ohno",
-        "instrument": "Trumpet"
+        "instrument": "trumpet"
       },
       {
         "name": "Brandon Fields",
-        "instrument": "Saxophone"
+        "instrument": "saxophone"
       },
       {
         "name": "Jeff Littleton",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Alan Eicher",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Akira Yamada",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -255,19 +255,19 @@
     "personnel": [
       {
         "name": "María Grand",
-        "instrument": "Saxophone"
+        "instrument": "saxophone"
       },
       {
         "name": "Miriam Elhajli",
-        "instrument": "Vocals"
+        "instrument": "vocals"
       },
       {
         "name": "Dominique Sanders",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Anthony Fung",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -284,11 +284,11 @@
     "personnel": [
       {
         "name": "Anthony Wilson",
-        "instrument": "Guitar"
+        "instrument": "guitar"
       },
       {
         "name": "Gerald Clayton",
-        "instrument": "Piano"
+        "instrument": "piano"
       }
     ],
     "priceRange": "$XX",
@@ -305,7 +305,7 @@
     "personnel": [
       {
         "name": "Brandon Goldberg",
-        "instrument": "Piano"
+        "instrument": "piano"
       }
     ],
     "priceRange": "$XX",
@@ -322,19 +322,19 @@
     "personnel": [
       {
         "name": "Max Light",
-        "instrument": "Guitar"
+        "instrument": "guitar"
       },
       {
         "name": "Julian Shore",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Walter Stinson",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Steven Crammer",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -343,7 +343,7 @@
   {
     "date": "2026-10-16",
     "time": "7:30 PM",
-    "artist": "The Darynn Dean Quartet",
+    "artist": "The Darynn Dean Quartet feat. Donald Dean Sr.",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -351,23 +351,23 @@
     "personnel": [
       {
         "name": "Darynn Dean",
-        "instrument": "Vocals"
+        "instrument": "vocals"
       },
       {
         "name": "Donald Dean Sr.",
-        "instrument": "Drums"
+        "instrument": "drums"
       },
       {
         "name": "Joshua Wong",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Marlonius",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Mailo Rakotonanahary",
-        "instrument": "Saxophone"
+        "instrument": "saxophone"
       }
     ],
     "priceRange": "$XX",
@@ -384,19 +384,19 @@
     "personnel": [
       {
         "name": "Devon Gates",
-        "instrument": "Bass, Vocals"
+        "instrument": "bass/vocals"
       },
       {
         "name": "Christina Galisatus",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Nicole Mccabe",
-        "instrument": "Saxophone"
+        "instrument": "saxophone"
       },
       {
         "name": "Mark Valdes",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -413,19 +413,19 @@
     "personnel": [
       {
         "name": "Yvonne Rogers",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Jermaine Paul",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Mark Ferber",
-        "instrument": "Drums"
+        "instrument": "drums"
       },
       {
         "name": "Nicolaus Gelin",
-        "instrument": "Saxophone"
+        "instrument": "saxophone"
       }
     ],
     "priceRange": "$XX",
@@ -442,15 +442,15 @@
     "personnel": [
       {
         "name": "Joel Frahm",
-        "instrument": "Tenor Saxophone"
+        "instrument": "tenor saxophone"
       },
       {
         "name": "Dan Loomis",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Ernesto Cervini",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
