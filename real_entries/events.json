@@ -8,7 +8,7 @@
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
     },
     "personnel": [],
-    "priceRange": "$XX",
+    "priceRange": "",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -33,7 +33,7 @@
         "instrument": "drums"
       }
     ],
-    "priceRange": "$XX",
+    "priceRange": "",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -62,7 +62,7 @@
         "instrument": "bass"
       }
     ],
-    "priceRange": "$XX",
+    "priceRange": "",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -87,7 +87,7 @@
         "instrument": "drums"
       }
     ],
-    "priceRange": "$XX",
+    "priceRange": "",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -112,13 +112,13 @@
         "instrument": "drums"
       }
     ],
-    "priceRange": "$XX",
+    "priceRange": "",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
     "date": "2026-10-06",
     "time": "7:30 PM",
-    "artist": "House Band (Hosted by Gerald Clayton)",
+    "artist": "Gerald Clayton",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -129,7 +129,7 @@
         "instrument": "piano"
       }
     ],
-    "priceRange": "$XX",
+    "priceRange": "",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -154,7 +154,7 @@
         "instrument": "drums"
       }
     ],
-    "priceRange": "$XX",
+    "priceRange": "",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -187,7 +187,7 @@
         "instrument": "drums"
       }
     ],
-    "priceRange": "$XX",
+    "priceRange": "",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -205,7 +205,7 @@
       },
       {
         "name": "Miriam Elhajli",
-        "instrument": "vocals"
+        "instrument": "piano"
       },
       {
         "name": "Dominique Sanders",
@@ -216,7 +216,7 @@
         "instrument": "drums"
       }
     ],
-    "priceRange": "$XX",
+    "priceRange": "",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -237,7 +237,7 @@
         "instrument": "piano"
       }
     ],
-    "priceRange": "$XX",
+    "priceRange": "",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -252,9 +252,17 @@
       {
         "name": "Brandon Goldberg",
         "instrument": "piano"
+      },
+      {
+        "name": "Mike Gurrola",
+        "instrument": "bass"
+      },
+      {
+        "name": "Aaron Kimmel",
+        "instrument": "drums"
       }
     ],
-    "priceRange": "$XX",
+    "priceRange": "",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -283,13 +291,13 @@
         "instrument": "drums"
       }
     ],
-    "priceRange": "$XX",
+    "priceRange": "",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
     "date": "2026-10-16",
     "time": "7:30 PM",
-    "artist": "The Darynn Dean Quartet feat. Donald Dean Sr.",
+    "artist": "The Darynn Dean Quartet",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -313,10 +321,10 @@
       },
       {
         "name": "Mailo Rakotonanahary",
-        "instrument": "guitar"
+        "instrument": ""
       }
     ],
-    "priceRange": "$XX",
+    "priceRange": "",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -330,11 +338,11 @@
     "personnel": [
       {
         "name": "Devon Gates",
-        "instrument": "bass, vocals"
+        "instrument": "vocals"
       },
       {
         "name": "Christina Galisatus",
-        "instrument": "piano, vocals"
+        "instrument": "piano"
       },
       {
         "name": "Nicole Mccabe",
@@ -345,7 +353,7 @@
         "instrument": "drums"
       }
     ],
-    "priceRange": "$XX",
+    "priceRange": "",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -371,16 +379,16 @@
       },
       {
         "name": "Nicolaus Gelin",
-        "instrument": "saxophone"
+        "instrument": ""
       }
     ],
-    "priceRange": "$XX",
+    "priceRange": "",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
     "date": "2026-10-23",
     "time": "7:30 PM",
-    "artist": "Joel Frahm Trio",
+    "artist": "Joel Frahm Trio: Lumination Tour",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -388,7 +396,7 @@
     "personnel": [
       {
         "name": "Joel Frahm",
-        "instrument": "tenor saxophone"
+        "instrument": "saxophone"
       },
       {
         "name": "Dan Loomis",
@@ -399,7 +407,7 @@
         "instrument": "drums"
       }
     ],
-    "priceRange": "$XX",
+    "priceRange": "",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -424,7 +432,7 @@
         "instrument": "bass"
       }
     ],
-    "priceRange": "$XX",
+    "priceRange": "",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -449,7 +457,7 @@
         "instrument": "drums"
       }
     ],
-    "priceRange": "$XX",
+    "priceRange": "",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   }
 ]
