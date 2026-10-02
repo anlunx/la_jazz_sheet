@@ -1,34 +1,5 @@
 [
   {
-    "date": "2026-10-01",
-    "time": "7:30 PM",
-    "artist": "Efajemue Etoroma, Jr. Quartet",
-    "venue": {
-      "name": "Sam First",
-      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
-    },
-    "personnel": [
-      {
-        "name": "Efajemue Etoroma, Jr.",
-        "instrument": "drums"
-      },
-      {
-        "name": "Michael Ragonese",
-        "instrument": "piano"
-      },
-      {
-        "name": "Ted Taforo",
-        "instrument": "saxophone"
-      },
-      {
-        "name": "Francisco Ojeda",
-        "instrument": "bass"
-      }
-    ],
-    "priceRange": "$XX",
-    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
-  },
-  {
     "date": "2026-10-02",
     "time": "7:30 PM",
     "artist": "Josh Nelson Trio",
@@ -50,12 +21,11 @@
         "instrument": "drums"
       }
     ],
-    "priceRange": "$XX",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
     "date": "2026-10-03",
-    "time": "9:30 PM",
+    "time": "7:30 PM",
     "artist": "Josh Nelson Trio",
     "venue": {
       "name": "Sam First",
@@ -75,13 +45,12 @@
         "instrument": "drums"
       }
     ],
-    "priceRange": "$XX",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
     "date": "2026-10-06",
     "time": "7:30 PM",
-    "artist": "\"Tuesday Happenings\": Hosted by Gerald Clayton",
+    "artist": "Tuesday Happenings: Hosted by Gerald Clayton",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -92,7 +61,6 @@
         "instrument": "piano"
       }
     ],
-    "priceRange": "$XX",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -117,7 +85,6 @@
         "instrument": "drums"
       }
     ],
-    "priceRange": "$XX",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -150,7 +117,6 @@
         "instrument": "drums"
       }
     ],
-    "priceRange": "$XX",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -179,7 +145,6 @@
         "instrument": "drums"
       }
     ],
-    "priceRange": "$XX",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -200,7 +165,6 @@
         "instrument": "piano"
       }
     ],
-    "priceRange": "$XX",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -225,7 +189,6 @@
         "instrument": "drums"
       }
     ],
-    "priceRange": "$XX",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -254,7 +217,6 @@
         "instrument": "drums"
       }
     ],
-    "priceRange": "$XX",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -276,18 +238,17 @@
       },
       {
         "name": "Joshua Wong",
-        "instrument": "piano"
+        "instrument": "bass"
       },
       {
         "name": "Marlonius",
-        "instrument": "bass"
+        "instrument": "piano"
       },
       {
         "name": "Mailo Rakotonanahary",
         "instrument": "saxophone"
       }
     ],
-    "priceRange": "$XX",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -301,7 +262,7 @@
     "personnel": [
       {
         "name": "Devon Gates",
-        "instrument": "bass"
+        "instrument": "bass/vocals"
       },
       {
         "name": "Christina Galisatus",
@@ -316,7 +277,6 @@
         "instrument": "drums"
       }
     ],
-    "priceRange": "$XX",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -345,13 +305,12 @@
         "instrument": "saxophone"
       }
     ],
-    "priceRange": "$XX",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
     "date": "2026-10-23",
     "time": "7:30 PM",
-    "artist": "Joel Frahm Trio: Lumination Tour",
+    "artist": "Joel Frahm Trio",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -359,7 +318,7 @@
     "personnel": [
       {
         "name": "Joel Frahm",
-        "instrument": "saxophone"
+        "instrument": "tenor saxophone"
       },
       {
         "name": "Dan Loomis",
@@ -370,7 +329,6 @@
         "instrument": "drums"
       }
     ],
-    "priceRange": "$XX",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -395,7 +353,6 @@
         "instrument": "bass"
       }
     ],
-    "priceRange": "$XX",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -420,7 +377,6 @@
         "instrument": "drums"
       }
     ],
-    "priceRange": "$XX",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -445,13 +401,12 @@
         "instrument": "saxophone"
       }
     ],
-    "priceRange": "$XX",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
     "date": "2026-11-03",
     "time": "7:30 PM",
-    "artist": "\"Tuesday Happenings\": Hosted by Gerald Clayton",
+    "artist": "Tuesday Happenings: Hosted by Gerald Clayton",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -462,7 +417,22 @@
         "instrument": "piano"
       }
     ],
-    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-11-04",
+    "time": "7:30 PM",
+    "artist": "Gabrielle Cavassa",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Gabrielle Cavassa",
+        "instrument": "vocals"
+      }
+    ],
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   }
 ]
