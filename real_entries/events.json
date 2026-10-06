@@ -10,47 +10,19 @@
     "personnel": [
       {
         "name": "Devin Daniels",
-        "instrument": "saxophone"
-      },
-      {
-        "name": "Isaiah Harwood",
-        "instrument": "bass"
-      },
-      {
-        "name": "Brandon Rose",
-        "instrument": "piano"
+        "instrument": "Saxophone"
       },
       {
         "name": "Don Brown",
-        "instrument": "drums"
-      }
-    ],
-    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
-  },
-  {
-    "date": "2026-10-06",
-    "time": "9:30 PM",
-    "artist": "Devin Daniels",
-    "venue": {
-      "name": "Sam First",
-      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
-    },
-    "personnel": [
-      {
-        "name": "Devin Daniels",
-        "instrument": "saxophone"
+        "instrument": "Piano"
       },
       {
         "name": "Isaiah Harwood",
-        "instrument": "bass"
+        "instrument": "Bass"
       },
       {
         "name": "Brandon Rose",
-        "instrument": "piano"
-      },
-      {
-        "name": "Don Brown",
-        "instrument": "drums"
+        "instrument": "Drums"
       }
     ],
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
@@ -66,15 +38,15 @@
     "personnel": [
       {
         "name": "Adam Levy",
-        "instrument": "guitar"
+        "instrument": "Guitar"
       },
       {
         "name": "Edwin Livingston",
-        "instrument": "bass"
+        "instrument": "Bass"
       },
       {
         "name": "Christian Euman",
-        "instrument": "drums"
+        "instrument": "Drums"
       }
     ],
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
@@ -90,23 +62,23 @@
     "personnel": [
       {
         "name": "Shunzo Ohno",
-        "instrument": "trumpet"
+        "instrument": "Trumpet"
       },
       {
         "name": "Brandon Fields",
-        "instrument": "saxophone"
-      },
-      {
-        "name": "Jeff Littleton",
-        "instrument": "bass"
+        "instrument": "Saxophone"
       },
       {
         "name": "Alan Eicher",
-        "instrument": "piano"
+        "instrument": "Piano"
+      },
+      {
+        "name": "Jeff Littleton",
+        "instrument": "Bass"
       },
       {
         "name": "Akira Yamada",
-        "instrument": "drums"
+        "instrument": "Drums"
       }
     ],
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
@@ -122,19 +94,19 @@
     "personnel": [
       {
         "name": "María Grand",
-        "instrument": "saxophone"
+        "instrument": "Saxophone"
       },
       {
         "name": "Miriam Elhajli",
-        "instrument": "vocals"
+        "instrument": "Piano"
       },
       {
         "name": "Dominique Sanders",
-        "instrument": "bass"
+        "instrument": "Bass"
       },
       {
         "name": "Anthony Fung",
-        "instrument": "drums"
+        "instrument": "Drums"
       }
     ],
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
@@ -150,11 +122,11 @@
     "personnel": [
       {
         "name": "Anthony Wilson",
-        "instrument": "guitar"
+        "instrument": "Guitar"
       },
       {
         "name": "Gerald Clayton",
-        "instrument": "piano"
+        "instrument": "Piano"
       }
     ],
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
@@ -170,23 +142,7 @@
     "personnel": [
       {
         "name": "Devin Daniels",
-        "instrument": "saxophone"
-      }
-    ],
-    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
-  },
-  {
-    "date": "2026-10-13",
-    "time": "9:30 PM",
-    "artist": "Devin Daniels",
-    "venue": {
-      "name": "Sam First",
-      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
-    },
-    "personnel": [
-      {
-        "name": "Devin Daniels",
-        "instrument": "saxophone"
+        "instrument": "Saxophone"
       }
     ],
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
@@ -202,15 +158,15 @@
     "personnel": [
       {
         "name": "Brandon Goldberg",
-        "instrument": "piano"
+        "instrument": "Piano"
       },
       {
         "name": "Mike Gurrola",
-        "instrument": "bass"
+        "instrument": "Bass"
       },
       {
         "name": "Aaron Kimmel",
-        "instrument": "drums"
+        "instrument": "Drums"
       }
     ],
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
@@ -226,19 +182,19 @@
     "personnel": [
       {
         "name": "Max Light",
-        "instrument": "guitar"
+        "instrument": "Guitar"
       },
       {
         "name": "Julian Shore",
-        "instrument": "piano"
+        "instrument": "Piano"
       },
       {
         "name": "Walter Stinson",
-        "instrument": "bass"
+        "instrument": "Bass"
       },
       {
         "name": "Steven Crammer",
-        "instrument": "drums"
+        "instrument": "Drums"
       }
     ],
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
@@ -246,7 +202,7 @@
   {
     "date": "2026-10-16",
     "time": "7:30 PM",
-    "artist": "The Darynn Dean Quartet",
+    "artist": "The Darynn Dean Quartet feat. Donald Dean Sr.",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -254,23 +210,23 @@
     "personnel": [
       {
         "name": "Darynn Dean",
-        "instrument": "vocals"
+        "instrument": "Voice"
       },
       {
         "name": "Donald Dean Sr.",
-        "instrument": "drums"
+        "instrument": "Drums"
       },
       {
         "name": "Joshua Wong",
-        "instrument": "bass"
+        "instrument": "Piano"
       },
       {
         "name": "Marlonius",
-        "instrument": "piano"
+        "instrument": "Bass"
       },
       {
         "name": "Mailo Rakotonanahary",
-        "instrument": "guitar"
+        "instrument": "Saxophone"
       }
     ],
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
@@ -286,19 +242,19 @@
     "personnel": [
       {
         "name": "Chuck Manning",
-        "instrument": "saxophone"
+        "instrument": "Saxophone"
       },
       {
         "name": "Larry Koonse",
-        "instrument": "guitar"
+        "instrument": "Guitar"
       },
       {
         "name": "Darek Oles",
-        "instrument": "bass"
+        "instrument": "Bass"
       },
       {
         "name": "Jason Harnell",
-        "instrument": "drums"
+        "instrument": "Drums"
       }
     ],
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
@@ -314,23 +270,7 @@
     "personnel": [
       {
         "name": "Devin Daniels",
-        "instrument": "saxophone"
-      }
-    ],
-    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
-  },
-  {
-    "date": "2026-10-20",
-    "time": "9:30 PM",
-    "artist": "Devin Daniels",
-    "venue": {
-      "name": "Sam First",
-      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
-    },
-    "personnel": [
-      {
-        "name": "Devin Daniels",
-        "instrument": "saxophone"
+        "instrument": "Saxophone"
       }
     ],
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
@@ -346,19 +286,19 @@
     "personnel": [
       {
         "name": "Devon Gates",
-        "instrument": "bass"
+        "instrument": "Voice"
       },
       {
         "name": "Christina Galisatus",
-        "instrument": "piano"
+        "instrument": "Piano"
       },
       {
         "name": "Nicole Mccabe",
-        "instrument": "saxophone"
+        "instrument": "Saxophone"
       },
       {
         "name": "Mark Valdes",
-        "instrument": "drums"
+        "instrument": "Drums"
       }
     ],
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
@@ -374,19 +314,19 @@
     "personnel": [
       {
         "name": "Yvonne Rogers",
-        "instrument": "piano"
+        "instrument": "Piano"
       },
       {
         "name": "Jermaine Paul",
-        "instrument": "bass"
+        "instrument": "Bass"
       },
       {
         "name": "Mark Ferber",
-        "instrument": "drums"
+        "instrument": "Drums"
       },
       {
         "name": "Nicolaus Gelin",
-        "instrument": "saxophone"
+        "instrument": "Saxophone"
       }
     ],
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
@@ -402,15 +342,15 @@
     "personnel": [
       {
         "name": "Joel Frahm",
-        "instrument": "tenor saxophone"
+        "instrument": "Tenor Saxophone"
       },
       {
         "name": "Dan Loomis",
-        "instrument": "bass"
+        "instrument": "Bass"
       },
       {
         "name": "Ernesto Cervini",
-        "instrument": "drums"
+        "instrument": "Drums"
       }
     ],
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
@@ -426,15 +366,15 @@
     "personnel": [
       {
         "name": "Michael Ragonese",
-        "instrument": "piano"
+        "instrument": "Piano"
       },
       {
         "name": "Anthony Fung",
-        "instrument": "drums"
+        "instrument": "Drums"
       },
       {
         "name": "Luca Alemanno",
-        "instrument": "bass"
+        "instrument": "Bass"
       }
     ],
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
@@ -450,15 +390,15 @@
     "personnel": [
       {
         "name": "Christian Sands",
-        "instrument": "piano"
+        "instrument": "Piano"
       },
       {
         "name": "Ben Williams",
-        "instrument": "bass"
+        "instrument": "Bass"
       },
       {
         "name": "John Davis",
-        "instrument": "drums"
+        "instrument": "Drums"
       }
     ],
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
@@ -474,15 +414,15 @@
     "personnel": [
       {
         "name": "Billy Mohler",
-        "instrument": "bass"
+        "instrument": "Bass"
       },
       {
         "name": "Joe La Barbera",
-        "instrument": "drums"
+        "instrument": "Drums"
       },
       {
         "name": "Mark Turner",
-        "instrument": "saxophone"
+        "instrument": "Saxophone"
       }
     ],
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
@@ -498,23 +438,7 @@
     "personnel": [
       {
         "name": "Gerald Clayton",
-        "instrument": "piano"
-      }
-    ],
-    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
-  },
-  {
-    "date": "2026-11-03",
-    "time": "9:30 PM",
-    "artist": "Gerald Clayton",
-    "venue": {
-      "name": "Sam First",
-      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
-    },
-    "personnel": [
-      {
-        "name": "Gerald Clayton",
-        "instrument": "piano"
+        "instrument": "Piano"
       }
     ],
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
