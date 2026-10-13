@@ -2,7 +2,7 @@
   {
     "date": "2026-10-13",
     "time": "07:30 PM",
-    "artist": "Devin Daniels",
+    "artist": "“Tuesday Happenings”: Hosted by Devin Daniels",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -10,27 +10,10 @@
     "personnel": [
       {
         "name": "Devin Daniels",
-        "instrument": "saxophone"
+        "instrument": "Saxophone"
       }
     ],
-    "priceRange": "$25",
-    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
-  },
-  {
-    "date": "2026-10-13",
-    "time": "09:30 PM",
-    "artist": "Devin Daniels (Jam Session Host)",
-    "venue": {
-      "name": "Sam First",
-      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
-    },
-    "personnel": [
-      {
-        "name": "Devin Daniels",
-        "instrument": "saxophone"
-      }
-    ],
-    "priceRange": "$25",
+    "priceRange": "$XX",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -44,43 +27,18 @@
     "personnel": [
       {
         "name": "Brandon Goldberg",
-        "instrument": "piano"
+        "instrument": "Piano"
       },
       {
         "name": "Mike Gurrola",
-        "instrument": "bass"
+        "instrument": "Bass"
       },
       {
         "name": "Aaron Kimmel",
-        "instrument": "drums"
+        "instrument": "Drums"
       }
     ],
-    "priceRange": "$25",
-    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
-  },
-  {
-    "date": "2026-10-14",
-    "time": "09:30 PM",
-    "artist": "Brandon Goldberg Trio",
-    "venue": {
-      "name": "Sam First",
-      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
-    },
-    "personnel": [
-      {
-        "name": "Brandon Goldberg",
-        "instrument": "piano"
-      },
-      {
-        "name": "Mike Gurrola",
-        "instrument": "bass"
-      },
-      {
-        "name": "Aaron Kimmel",
-        "instrument": "drums"
-      }
-    ],
-    "priceRange": "$25",
+    "priceRange": "$XX",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -94,51 +52,22 @@
     "personnel": [
       {
         "name": "Max Light",
-        "instrument": "guitar"
+        "instrument": "Guitar"
       },
       {
         "name": "Julian Shore",
-        "instrument": "piano"
+        "instrument": "Piano"
       },
       {
         "name": "Walter Stinson",
-        "instrument": "bass"
+        "instrument": "Bass"
       },
       {
         "name": "Steven Crammer",
-        "instrument": "drums"
+        "instrument": "Drums"
       }
     ],
-    "priceRange": "$25",
-    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
-  },
-  {
-    "date": "2026-10-15",
-    "time": "09:30 PM",
-    "artist": "Max Light Quartet",
-    "venue": {
-      "name": "Sam First",
-      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
-    },
-    "personnel": [
-      {
-        "name": "Max Light",
-        "instrument": "guitar"
-      },
-      {
-        "name": "Julian Shore",
-        "instrument": "piano"
-      },
-      {
-        "name": "Walter Stinson",
-        "instrument": "bass"
-      },
-      {
-        "name": "Steven Crammer",
-        "instrument": "drums"
-      }
-    ],
-    "priceRange": "$25",
+    "priceRange": "$XX",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -152,59 +81,26 @@
     "personnel": [
       {
         "name": "Darynn Dean",
-        "instrument": "vocals"
+        "instrument": "Vocals"
       },
       {
         "name": "Donald Dean Sr.",
-        "instrument": "drums"
+        "instrument": "Drums"
       },
       {
         "name": "Joshua Wong",
-        "instrument": "piano"
+        "instrument": "Bass"
       },
       {
         "name": "Marlonius",
-        "instrument": "bass"
+        "instrument": "Piano"
       },
       {
         "name": "Mailo Rakotonanahary",
-        "instrument": "saxophone"
+        "instrument": "Guitar"
       }
     ],
-    "priceRange": "$25",
-    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
-  },
-  {
-    "date": "2026-10-16",
-    "time": "09:30 PM",
-    "artist": "The Darynn Dean Quartet feat. Donald Dean Sr.",
-    "venue": {
-      "name": "Sam First",
-      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
-    },
-    "personnel": [
-      {
-        "name": "Darynn Dean",
-        "instrument": "vocals"
-      },
-      {
-        "name": "Donald Dean Sr.",
-        "instrument": "drums"
-      },
-      {
-        "name": "Joshua Wong",
-        "instrument": "piano"
-      },
-      {
-        "name": "Marlonius",
-        "instrument": "bass"
-      },
-      {
-        "name": "Mailo Rakotonanahary",
-        "instrument": "saxophone"
-      }
-    ],
-    "priceRange": "$25",
+    "priceRange": "$XX",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -218,57 +114,28 @@
     "personnel": [
       {
         "name": "Chuck Manning",
-        "instrument": "saxophone"
+        "instrument": "Saxophone"
       },
       {
         "name": "Larry Koonse",
-        "instrument": "guitar"
+        "instrument": "Guitar"
       },
       {
         "name": "Darek Oles",
-        "instrument": "bass"
+        "instrument": "Bass"
       },
       {
         "name": "Jason Harnell",
-        "instrument": "drums"
+        "instrument": "Drums"
       }
     ],
-    "priceRange": "$25",
-    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
-  },
-  {
-    "date": "2026-10-17",
-    "time": "09:30 PM",
-    "artist": "LA Jazz Quartet",
-    "venue": {
-      "name": "Sam First",
-      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
-    },
-    "personnel": [
-      {
-        "name": "Chuck Manning",
-        "instrument": "saxophone"
-      },
-      {
-        "name": "Larry Koonse",
-        "instrument": "guitar"
-      },
-      {
-        "name": "Darek Oles",
-        "instrument": "bass"
-      },
-      {
-        "name": "Jason Harnell",
-        "instrument": "drums"
-      }
-    ],
-    "priceRange": "$25",
+    "priceRange": "$XX",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
     "date": "2026-10-20",
     "time": "07:30 PM",
-    "artist": "Devin Daniels",
+    "artist": "“Tuesday Happenings”: Hosted by Devin Daniels",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -276,27 +143,10 @@
     "personnel": [
       {
         "name": "Devin Daniels",
-        "instrument": "saxophone"
+        "instrument": "Saxophone"
       }
     ],
-    "priceRange": "$25",
-    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
-  },
-  {
-    "date": "2026-10-20",
-    "time": "09:30 PM",
-    "artist": "Devin Daniels (Jam Session Host)",
-    "venue": {
-      "name": "Sam First",
-      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
-    },
-    "personnel": [
-      {
-        "name": "Devin Daniels",
-        "instrument": "saxophone"
-      }
-    ],
-    "priceRange": "$25",
+    "priceRange": "$XX",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -310,51 +160,22 @@
     "personnel": [
       {
         "name": "Devon Gates",
-        "instrument": "vocals"
+        "instrument": "Bass"
       },
       {
         "name": "Christina Galisatus",
-        "instrument": "piano"
+        "instrument": "Piano"
       },
       {
         "name": "Nicole McCabe",
-        "instrument": "saxophone"
+        "instrument": "Saxophone"
       },
       {
         "name": "Mark Valdes",
-        "instrument": "drums"
+        "instrument": "Drums"
       }
     ],
-    "priceRange": "$25",
-    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
-  },
-  {
-    "date": "2026-10-21",
-    "time": "09:30 PM",
-    "artist": "Devon Gates & Christina Galisatus",
-    "venue": {
-      "name": "Sam First",
-      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
-    },
-    "personnel": [
-      {
-        "name": "Devon Gates",
-        "instrument": "vocals"
-      },
-      {
-        "name": "Christina Galisatus",
-        "instrument": "piano"
-      },
-      {
-        "name": "Nicole McCabe",
-        "instrument": "saxophone"
-      },
-      {
-        "name": "Mark Valdes",
-        "instrument": "drums"
-      }
-    ],
-    "priceRange": "$25",
+    "priceRange": "$XX",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -368,51 +189,22 @@
     "personnel": [
       {
         "name": "Yvonne Rogers",
-        "instrument": "piano"
+        "instrument": "Piano"
       },
       {
         "name": "Jermaine Paul",
-        "instrument": "bass"
+        "instrument": "Bass"
       },
       {
         "name": "Mark Ferber",
-        "instrument": "drums"
+        "instrument": "Drums"
       },
       {
         "name": "Nicolaus Gelin",
-        "instrument": "saxophone"
+        "instrument": "Saxophone"
       }
     ],
-    "priceRange": "$25",
-    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
-  },
-  {
-    "date": "2026-10-22",
-    "time": "09:30 PM",
-    "artist": "Yvonne Rogers Quartet",
-    "venue": {
-      "name": "Sam First",
-      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
-    },
-    "personnel": [
-      {
-        "name": "Yvonne Rogers",
-        "instrument": "piano"
-      },
-      {
-        "name": "Jermaine Paul",
-        "instrument": "bass"
-      },
-      {
-        "name": "Mark Ferber",
-        "instrument": "drums"
-      },
-      {
-        "name": "Nicolaus Gelin",
-        "instrument": "saxophone"
-      }
-    ],
-    "priceRange": "$25",
+    "priceRange": "$XX",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -426,43 +218,18 @@
     "personnel": [
       {
         "name": "Joel Frahm",
-        "instrument": "tenor saxophone"
+        "instrument": "Tenor Saxophone"
       },
       {
         "name": "Dan Loomis",
-        "instrument": "bass"
+        "instrument": "Bass"
       },
       {
         "name": "Ernesto Cervini",
-        "instrument": "drums"
+        "instrument": "Drums"
       }
     ],
-    "priceRange": "$25",
-    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
-  },
-  {
-    "date": "2026-10-23",
-    "time": "09:30 PM",
-    "artist": "Joel Frahm Trio: Lumination Tour",
-    "venue": {
-      "name": "Sam First",
-      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
-    },
-    "personnel": [
-      {
-        "name": "Joel Frahm",
-        "instrument": "tenor saxophone"
-      },
-      {
-        "name": "Dan Loomis",
-        "instrument": "bass"
-      },
-      {
-        "name": "Ernesto Cervini",
-        "instrument": "drums"
-      }
-    ],
-    "priceRange": "$25",
+    "priceRange": "$XX",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -476,43 +243,18 @@
     "personnel": [
       {
         "name": "Michael Ragonese",
-        "instrument": "piano"
+        "instrument": "Piano"
       },
       {
         "name": "Anthony Fung",
-        "instrument": "drums"
+        "instrument": "Drums"
       },
       {
         "name": "Luca Alemanno",
-        "instrument": "bass"
+        "instrument": "Bass"
       }
     ],
-    "priceRange": "$25",
-    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
-  },
-  {
-    "date": "2026-10-24",
-    "time": "09:30 PM",
-    "artist": "Michael Ragonese Trio",
-    "venue": {
-      "name": "Sam First",
-      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
-    },
-    "personnel": [
-      {
-        "name": "Michael Ragonese",
-        "instrument": "piano"
-      },
-      {
-        "name": "Anthony Fung",
-        "instrument": "drums"
-      },
-      {
-        "name": "Luca Alemanno",
-        "instrument": "bass"
-      }
-    ],
-    "priceRange": "$25",
+    "priceRange": "$XX",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -526,43 +268,18 @@
     "personnel": [
       {
         "name": "Christian Sands",
-        "instrument": "piano"
+        "instrument": "Piano"
       },
       {
         "name": "Ben Williams",
-        "instrument": "bass"
+        "instrument": "Bass"
       },
       {
         "name": "John Davis",
-        "instrument": "drums"
+        "instrument": "Drums"
       }
     ],
-    "priceRange": "$25",
-    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
-  },
-  {
-    "date": "2026-10-25",
-    "time": "09:30 PM",
-    "artist": "Christian Sands Trio",
-    "venue": {
-      "name": "Sam First",
-      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
-    },
-    "personnel": [
-      {
-        "name": "Christian Sands",
-        "instrument": "piano"
-      },
-      {
-        "name": "Ben Williams",
-        "instrument": "bass"
-      },
-      {
-        "name": "John Davis",
-        "instrument": "drums"
-      }
-    ],
-    "priceRange": "$25",
+    "priceRange": "$XX",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -576,43 +293,18 @@
     "personnel": [
       {
         "name": "Carmen Staaf",
-        "instrument": "piano"
+        "instrument": "Piano"
       },
       {
         "name": "Karl McComas-Reichl",
-        "instrument": "bass"
+        "instrument": "Bass"
       },
       {
         "name": "Christian Euman",
-        "instrument": "drums"
+        "instrument": "Drums"
       }
     ],
-    "priceRange": "$25",
-    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
-  },
-  {
-    "date": "2026-10-28",
-    "time": "09:30 PM",
-    "artist": "Carmen Staaf Trio",
-    "venue": {
-      "name": "Sam First",
-      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
-    },
-    "personnel": [
-      {
-        "name": "Carmen Staaf",
-        "instrument": "piano"
-      },
-      {
-        "name": "Karl McComas-Reichl",
-        "instrument": "bass"
-      },
-      {
-        "name": "Christian Euman",
-        "instrument": "drums"
-      }
-    ],
-    "priceRange": "$25",
+    "priceRange": "$XX",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -626,49 +318,24 @@
     "personnel": [
       {
         "name": "Billy Mohler",
-        "instrument": "bass"
+        "instrument": "Bass"
       },
       {
         "name": "Joe La Barbera",
-        "instrument": "drums"
+        "instrument": "Drums"
       },
       {
         "name": "Mark Turner",
-        "instrument": "saxophone"
+        "instrument": "Saxophone"
       }
     ],
-    "priceRange": "$25",
-    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
-  },
-  {
-    "date": "2026-10-30",
-    "time": "09:30 PM",
-    "artist": "Billy Mohler Trio",
-    "venue": {
-      "name": "Sam First",
-      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
-    },
-    "personnel": [
-      {
-        "name": "Billy Mohler",
-        "instrument": "bass"
-      },
-      {
-        "name": "Joe La Barbera",
-        "instrument": "drums"
-      },
-      {
-        "name": "Mark Turner",
-        "instrument": "saxophone"
-      }
-    ],
-    "priceRange": "$25",
+    "priceRange": "$XX",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
     "date": "2026-11-03",
     "time": "07:30 PM",
-    "artist": "Gerald Clayton",
+    "artist": "“Tuesday Happenings”: Hosted by Gerald Clayton",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -676,27 +343,10 @@
     "personnel": [
       {
         "name": "Gerald Clayton",
-        "instrument": "piano"
+        "instrument": "Piano"
       }
     ],
-    "priceRange": "$25",
-    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
-  },
-  {
-    "date": "2026-11-03",
-    "time": "09:30 PM",
-    "artist": "Gerald Clayton (Jam Session Host)",
-    "venue": {
-      "name": "Sam First",
-      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
-    },
-    "personnel": [
-      {
-        "name": "Gerald Clayton",
-        "instrument": "piano"
-      }
-    ],
-    "priceRange": "$25",
+    "priceRange": "$XX",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -710,27 +360,10 @@
     "personnel": [
       {
         "name": "Gabrielle Cavassa",
-        "instrument": "vocals"
+        "instrument": "Vocals"
       }
     ],
-    "priceRange": "$25",
-    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
-  },
-  {
-    "date": "2026-11-04",
-    "time": "09:30 PM",
-    "artist": "Gabrielle Cavassa",
-    "venue": {
-      "name": "Sam First",
-      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
-    },
-    "personnel": [
-      {
-        "name": "Gabrielle Cavassa",
-        "instrument": "vocals"
-      }
-    ],
-    "priceRange": "$25",
+    "priceRange": "$XX",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -744,59 +377,26 @@
     "personnel": [
       {
         "name": "Emiliano Lasansky",
-        "instrument": "bass"
+        "instrument": "Bass"
       },
       {
         "name": "Julien Knowles",
-        "instrument": "trumpet"
+        "instrument": "Saxophone"
       },
       {
         "name": "Devin Daniels",
-        "instrument": "saxophone"
+        "instrument": "Saxophone"
       },
       {
         "name": "Javier Santiago",
-        "instrument": "piano"
+        "instrument": "Piano"
       },
       {
         "name": "Nate Friedman",
-        "instrument": "drums"
+        "instrument": "Drums"
       }
     ],
-    "priceRange": "$25",
-    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
-  },
-  {
-    "date": "2026-11-05",
-    "time": "09:30 PM",
-    "artist": "Emiliano Lasansky Quintet",
-    "venue": {
-      "name": "Sam First",
-      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
-    },
-    "personnel": [
-      {
-        "name": "Emiliano Lasansky",
-        "instrument": "bass"
-      },
-      {
-        "name": "Julien Knowles",
-        "instrument": "trumpet"
-      },
-      {
-        "name": "Devin Daniels",
-        "instrument": "saxophone"
-      },
-      {
-        "name": "Javier Santiago",
-        "instrument": "piano"
-      },
-      {
-        "name": "Nate Friedman",
-        "instrument": "drums"
-      }
-    ],
-    "priceRange": "$25",
+    "priceRange": "$XX",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -810,43 +410,18 @@
     "personnel": [
       {
         "name": "Rachel Eckroth",
-        "instrument": "piano"
+        "instrument": "Piano"
       },
       {
         "name": "Emma Dayhuff",
-        "instrument": "bass"
+        "instrument": "Bass"
       },
       {
         "name": "Tina Raymond",
-        "instrument": "drums"
+        "instrument": "Drums"
       }
     ],
-    "priceRange": "$25",
-    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
-  },
-  {
-    "date": "2026-11-07",
-    "time": "09:30 PM",
-    "artist": "The Rachel Eckroth Trio",
-    "venue": {
-      "name": "Sam First",
-      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
-    },
-    "personnel": [
-      {
-        "name": "Rachel Eckroth",
-        "instrument": "piano"
-      },
-      {
-        "name": "Emma Dayhuff",
-        "instrument": "bass"
-      },
-      {
-        "name": "Tina Raymond",
-        "instrument": "drums"
-      }
-    ],
-    "priceRange": "$25",
+    "priceRange": "$XX",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -860,27 +435,10 @@
     "personnel": [
       {
         "name": "Ana Barreiro",
-        "instrument": "drums"
+        "instrument": "Drums"
       }
     ],
-    "priceRange": "$25",
-    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
-  },
-  {
-    "date": "2026-11-11",
-    "time": "09:30 PM",
-    "artist": "QUINTESSÊNCIA — Ana Barreiro Quintet",
-    "venue": {
-      "name": "Sam First",
-      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
-    },
-    "personnel": [
-      {
-        "name": "Ana Barreiro",
-        "instrument": "drums"
-      }
-    ],
-    "priceRange": "$25",
+    "priceRange": "$XX",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   }
 ]
