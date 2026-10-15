@@ -1,30 +1,5 @@
 [
   {
-    "date": "2026-10-14",
-    "time": "7:30 PM",
-    "artist": "Brandon Goldberg Trio",
-    "venue": {
-      "name": "Sam First",
-      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
-    },
-    "personnel": [
-      {
-        "name": "Brandon Goldberg",
-        "instrument": "piano"
-      },
-      {
-        "name": "Mike Gurrola",
-        "instrument": "bass"
-      },
-      {
-        "name": "Aaron Kimmel",
-        "instrument": "drums"
-      }
-    ],
-    "priceRange": "$XX",
-    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
-  },
-  {
     "date": "2026-10-15",
     "time": "7:30 PM",
     "artist": "Max Light Quartet",
@@ -64,7 +39,7 @@
     "personnel": [
       {
         "name": "Darynn Dean",
-        "instrument": "vocals"
+        "instrument": "voice"
       },
       {
         "name": "Donald Dean Sr.",
@@ -126,7 +101,7 @@
     "personnel": [
       {
         "name": "Devin Daniels",
-        "instrument": "host"
+        "instrument": "saxophone"
       }
     ],
     "priceRange": "$XX",
@@ -143,7 +118,7 @@
     "personnel": [
       {
         "name": "Devon Gates",
-        "instrument": "bass/vocals"
+        "instrument": "voice"
       },
       {
         "name": "Christina Galisatus",
@@ -184,7 +159,7 @@
       },
       {
         "name": "Nicolaus Gelin",
-        "instrument": "saxophone"
+        "instrument": "guitar"
       }
     ],
     "priceRange": "$XX",
@@ -213,6 +188,27 @@
       }
     ],
     "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-10-24",
+    "time": "7:30 PM",
+    "artist": "Anthony Wilson & Billy Childs",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Anthony Wilson",
+        "instrument": "guitar"
+      },
+      {
+        "name": "Billy Childs",
+        "instrument": "piano"
+      }
+    ],
+    "priceRange": "Free",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -326,7 +322,7 @@
     "personnel": [
       {
         "name": "Gerald Clayton",
-        "instrument": "host"
+        "instrument": "piano"
       }
     ],
     "priceRange": "$XX",
@@ -343,7 +339,7 @@
     "personnel": [
       {
         "name": "Gabrielle Cavassa",
-        "instrument": "vocals"
+        "instrument": "voice"
       }
     ],
     "priceRange": "$XX",
@@ -410,7 +406,7 @@
   {
     "date": "2026-11-11",
     "time": "7:30 PM",
-    "artist": "QUINTESSÊNCIA — Ana Barreiro Quintet: An Evening of Samba Jazz",
+    "artist": "QUINTESSÊNCIA — Ana Barreiro Quintet",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -419,6 +415,23 @@
       {
         "name": "Ana Barreiro",
         "instrument": "drums"
+      }
+    ],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-11-12",
+    "time": "7:30 PM",
+    "artist": "VDE Jazz Orchestra featuring Adam Hersh",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Adam Hersh",
+        "instrument": "piano"
       }
     ],
     "priceRange": "$XX",
