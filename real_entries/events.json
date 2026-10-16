@@ -25,7 +25,7 @@
         "instrument": "drums"
       }
     ],
-    "priceRange": "$XX",
+    "priceRange": "$25",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -47,18 +47,18 @@
       },
       {
         "name": "Joshua Wong",
-        "instrument": "piano"
+        "instrument": "bass"
       },
       {
         "name": "Marlonius",
-        "instrument": "bass"
+        "instrument": "piano"
       },
       {
         "name": "Mailo Rakotonanahary",
         "instrument": "guitar"
       }
     ],
-    "priceRange": "$XX",
+    "priceRange": "$25",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -87,7 +87,7 @@
         "instrument": "drums"
       }
     ],
-    "priceRange": "$XX",
+    "priceRange": "$25",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -104,7 +104,7 @@
         "instrument": "saxophone"
       }
     ],
-    "priceRange": "$XX",
+    "priceRange": "$25",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -133,7 +133,7 @@
         "instrument": "drums"
       }
     ],
-    "priceRange": "$XX",
+    "priceRange": "$25",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -159,10 +159,10 @@
       },
       {
         "name": "Nicolaus Gelin",
-        "instrument": "guitar"
+        "instrument": "saxophone"
       }
     ],
-    "priceRange": "$XX",
+    "priceRange": "$25",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -187,7 +187,7 @@
         "instrument": "drums"
       }
     ],
-    "priceRange": "$XX",
+    "priceRange": "$25",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -195,7 +195,7 @@
     "time": "7:30 PM",
     "artist": "Anthony Wilson & Billy Childs",
     "venue": {
-      "name": "Sam First",
+      "name": "David Zwirner Gallery",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
     },
     "personnel": [
@@ -208,12 +208,12 @@
         "instrument": "piano"
       }
     ],
-    "priceRange": "Free",
+    "priceRange": "$0",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
     "date": "2026-10-24",
-    "time": "7:30 PM",
+    "time": "9:30 PM",
     "artist": "Michael Ragonese Trio",
     "venue": {
       "name": "Sam First",
@@ -233,7 +233,7 @@
         "instrument": "bass"
       }
     ],
-    "priceRange": "$XX",
+    "priceRange": "$25",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -258,7 +258,7 @@
         "instrument": "drums"
       }
     ],
-    "priceRange": "$XX",
+    "priceRange": "$25",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -283,7 +283,7 @@
         "instrument": "drums"
       }
     ],
-    "priceRange": "$XX",
+    "priceRange": "$25",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -308,7 +308,24 @@
         "instrument": "saxophone"
       }
     ],
-    "priceRange": "$XX",
+    "priceRange": "$25",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-10-31",
+    "time": "7:30 PM",
+    "artist": "Bill Cunliffe Septet",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Bill Cunliffe",
+        "instrument": "piano, arranger"
+      }
+    ],
+    "priceRange": "$25",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -325,7 +342,7 @@
         "instrument": "piano"
       }
     ],
-    "priceRange": "$XX",
+    "priceRange": "$25",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -340,9 +357,21 @@
       {
         "name": "Gabrielle Cavassa",
         "instrument": "voice"
+      },
+      {
+        "name": "Gabriel Schnider",
+        "instrument": "guitar"
+      },
+      {
+        "name": "Luca Allemano",
+        "instrument": "bass"
+      },
+      {
+        "name": "Kyle Poole",
+        "instrument": "drums"
       }
     ],
-    "priceRange": "$XX",
+    "priceRange": "$25",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -360,7 +389,7 @@
       },
       {
         "name": "Julien Knowles",
-        "instrument": "trumpet"
+        "instrument": "saxophone"
       },
       {
         "name": "Devin Daniels",
@@ -375,7 +404,7 @@
         "instrument": "drums"
       }
     ],
-    "priceRange": "$XX",
+    "priceRange": "$25",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -400,7 +429,7 @@
         "instrument": "drums"
       }
     ],
-    "priceRange": "$XX",
+    "priceRange": "$25",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -417,24 +446,7 @@
         "instrument": "drums"
       }
     ],
-    "priceRange": "$XX",
-    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
-  },
-  {
-    "date": "2026-11-12",
-    "time": "7:30 PM",
-    "artist": "VDE Jazz Orchestra featuring Adam Hersh",
-    "venue": {
-      "name": "Sam First",
-      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
-    },
-    "personnel": [
-      {
-        "name": "Adam Hersh",
-        "instrument": "piano"
-      }
-    ],
-    "priceRange": "$XX",
+    "priceRange": "$25",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   }
 ]
