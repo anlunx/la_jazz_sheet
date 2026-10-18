@@ -1,36 +1,7 @@
 [
   {
-    "date": "2026-10-17",
-    "time": "7:30 PM",
-    "artist": "LA Jazz Quartet",
-    "venue": {
-      "name": "Sam First",
-      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
-    },
-    "personnel": [
-      {
-        "name": "Chuck Manning",
-        "instrument": "saxophone"
-      },
-      {
-        "name": "Larry Koonse",
-        "instrument": "guitar"
-      },
-      {
-        "name": "Darek Oles",
-        "instrument": "bass"
-      },
-      {
-        "name": "Jason Harnell",
-        "instrument": "drums"
-      }
-    ],
-    "priceRange": "$XX",
-    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
-  },
-  {
     "date": "2026-10-20",
-    "time": "7:30 PM",
+    "time": "07:30 PM",
     "artist": "Devin Daniels",
     "venue": {
       "name": "Sam First",
@@ -39,7 +10,7 @@
     "personnel": [
       {
         "name": "Devin Daniels",
-        "instrument": ""
+        "instrument": "saxophone"
       }
     ],
     "priceRange": "$XX",
@@ -47,7 +18,7 @@
   },
   {
     "date": "2026-10-21",
-    "time": "7:30 PM",
+    "time": "07:30 PM",
     "artist": "Devon Gates & Christina Galisatus",
     "venue": {
       "name": "Sam First",
@@ -56,7 +27,7 @@
     "personnel": [
       {
         "name": "Devon Gates",
-        "instrument": "bass, vocals"
+        "instrument": "bass"
       },
       {
         "name": "Christina Galisatus",
@@ -76,7 +47,7 @@
   },
   {
     "date": "2026-10-22",
-    "time": "7:30 PM",
+    "time": "07:30 PM",
     "artist": "Yvonne Rogers Quartet",
     "venue": {
       "name": "Sam First",
@@ -97,7 +68,7 @@
       },
       {
         "name": "Nicolaus Gelin",
-        "instrument": "bass"
+        "instrument": "guitar"
       }
     ],
     "priceRange": "$XX",
@@ -105,7 +76,7 @@
   },
   {
     "date": "2026-10-23",
-    "time": "7:30 PM",
+    "time": "07:30 PM",
     "artist": "Joel Frahm Trio",
     "venue": {
       "name": "Sam First",
@@ -130,7 +101,7 @@
   },
   {
     "date": "2026-10-24",
-    "time": "7:30 PM",
+    "time": "07:30 PM",
     "artist": "Anthony Wilson & Billy Childs",
     "venue": {
       "name": "Sam First",
@@ -146,12 +117,12 @@
         "instrument": "piano"
       }
     ],
-    "priceRange": "$XX",
+    "priceRange": "$0",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
     "date": "2026-10-24",
-    "time": "7:30 PM",
+    "time": "09:30 PM",
     "artist": "Michael Ragonese Trio",
     "venue": {
       "name": "Sam First",
@@ -176,7 +147,7 @@
   },
   {
     "date": "2026-10-25",
-    "time": "7:30 PM",
+    "time": "07:30 PM",
     "artist": "Christian Sands Trio",
     "venue": {
       "name": "Sam First",
@@ -201,7 +172,7 @@
   },
   {
     "date": "2026-10-27",
-    "time": "7:30 PM",
+    "time": "07:30 PM",
     "artist": "Julien Knowles",
     "venue": {
       "name": "Sam First",
@@ -230,7 +201,7 @@
   },
   {
     "date": "2026-10-28",
-    "time": "7:30 PM",
+    "time": "07:30 PM",
     "artist": "Carmen Staaf Trio",
     "venue": {
       "name": "Sam First",
@@ -255,7 +226,7 @@
   },
   {
     "date": "2026-10-30",
-    "time": "7:30 PM",
+    "time": "07:30 PM",
     "artist": "Billy Mohler Trio",
     "venue": {
       "name": "Sam First",
@@ -280,7 +251,7 @@
   },
   {
     "date": "2026-10-31",
-    "time": "7:30 PM",
+    "time": "07:30 PM",
     "artist": "Bill Cunliffe Septet",
     "venue": {
       "name": "Sam First",
@@ -289,7 +260,7 @@
     "personnel": [
       {
         "name": "Bill Cunliffe",
-        "instrument": "piano, arranger"
+        "instrument": "piano"
       }
     ],
     "priceRange": "$XX",
@@ -297,7 +268,7 @@
   },
   {
     "date": "2026-11-03",
-    "time": "7:30 PM",
+    "time": "07:30 PM",
     "artist": "Gerald Clayton",
     "venue": {
       "name": "Sam First",
@@ -314,7 +285,7 @@
   },
   {
     "date": "2026-11-04",
-    "time": "7:30 PM",
+    "time": "07:30 PM",
     "artist": "Gabrielle Cavassa",
     "venue": {
       "name": "Sam First",
@@ -343,7 +314,7 @@
   },
   {
     "date": "2026-11-05",
-    "time": "7:30 PM",
+    "time": "07:30 PM",
     "artist": "Emiliano Lasansky Quintet",
     "venue": {
       "name": "Sam First",
@@ -360,7 +331,7 @@
       },
       {
         "name": "Devin Daniels",
-        "instrument": ""
+        "instrument": "saxophone"
       },
       {
         "name": "Javier Santiago",
@@ -376,7 +347,7 @@
   },
   {
     "date": "2026-11-07",
-    "time": "7:30 PM",
+    "time": "07:30 PM",
     "artist": "The Rachel Eckroth Trio",
     "venue": {
       "name": "Sam First",
@@ -401,7 +372,7 @@
   },
   {
     "date": "2026-11-11",
-    "time": "7:30 PM",
+    "time": "07:30 PM",
     "artist": "Ana Barreiro Quintet",
     "venue": {
       "name": "Sam First",
@@ -418,7 +389,7 @@
   },
   {
     "date": "2026-11-12",
-    "time": "7:30 PM",
+    "time": "07:30 PM",
     "artist": "VDE Jazz Orchestra featuring Adam Hersh",
     "venue": {
       "name": "Sam First",
@@ -428,6 +399,23 @@
       {
         "name": "Adam Hersh",
         "instrument": "piano"
+      }
+    ],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-11-13",
+    "time": "07:30 PM",
+    "artist": "Jaz Sawyer Quartet",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Jaz Sawyer",
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
