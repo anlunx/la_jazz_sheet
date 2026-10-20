@@ -10,7 +10,7 @@
     "personnel": [
       {
         "name": "Devin Daniels",
-        "instrument": "saxophone"
+        "instrument": "Alto Saxophone"
       }
     ],
     "priceRange": "$XX",
@@ -27,19 +27,19 @@
     "personnel": [
       {
         "name": "Devon Gates",
-        "instrument": "bass, vocals"
+        "instrument": "Bass"
       },
       {
         "name": "Christina Galisatus",
-        "instrument": "piano"
+        "instrument": "Piano"
       },
       {
         "name": "Nicole McCabe",
-        "instrument": "saxophone"
+        "instrument": "Saxophonist"
       },
       {
         "name": "Mark Valdes",
-        "instrument": "drums"
+        "instrument": "Drummer"
       }
     ],
     "priceRange": "$XX",
@@ -56,19 +56,19 @@
     "personnel": [
       {
         "name": "Yvonne Rogers",
-        "instrument": "piano"
+        "instrument": "Pianist"
       },
       {
         "name": "Jermaine Paul",
-        "instrument": "bass"
+        "instrument": "Bassist"
       },
       {
         "name": "Mark Ferber",
-        "instrument": "drums"
+        "instrument": "Drummer"
       },
       {
         "name": "Nicolaus Gelin",
-        "instrument": "guitar"
+        "instrument": "Saxophonist"
       }
     ],
     "priceRange": "$XX",
@@ -85,15 +85,15 @@
     "personnel": [
       {
         "name": "Joel Frahm",
-        "instrument": "tenor saxophone"
+        "instrument": "Tenor Saxophonist"
       },
       {
         "name": "Dan Loomis",
-        "instrument": "bass"
+        "instrument": "Bassist"
       },
       {
         "name": "Ernesto Cervini",
-        "instrument": "drums"
+        "instrument": "Drummer"
       }
     ],
     "priceRange": "$XX",
@@ -110,15 +110,15 @@
     "personnel": [
       {
         "name": "Michael Ragonese",
-        "instrument": "piano"
+        "instrument": "Pianist"
       },
       {
         "name": "Anthony Fung",
-        "instrument": "drums"
+        "instrument": "Drummer"
       },
       {
         "name": "Luca Alemanno",
-        "instrument": "bass"
+        "instrument": "Bassist"
       }
     ],
     "priceRange": "$XX",
@@ -135,15 +135,15 @@
     "personnel": [
       {
         "name": "Christian Sands",
-        "instrument": "piano"
+        "instrument": "Pianist"
       },
       {
         "name": "Ben Williams",
-        "instrument": "bass"
+        "instrument": "Bassist"
       },
       {
         "name": "John Davis",
-        "instrument": "drums"
+        "instrument": "Drummer"
       }
     ],
     "priceRange": "$XX",
@@ -160,19 +160,19 @@
     "personnel": [
       {
         "name": "Julien Knowles",
-        "instrument": "trumpet"
+        "instrument": "Trumpeter"
       },
       {
         "name": "Chris Fishman",
-        "instrument": "piano"
+        "instrument": "Pianist"
       },
       {
         "name": "Jermaine Paul",
-        "instrument": "bass"
+        "instrument": "Bassist"
       },
       {
         "name": "Christian Euman",
-        "instrument": "drums"
+        "instrument": "Drummer"
       }
     ],
     "priceRange": "$XX",
@@ -189,15 +189,15 @@
     "personnel": [
       {
         "name": "Carmen Staaf",
-        "instrument": "piano"
+        "instrument": "Pianist"
       },
       {
         "name": "Karl McComas-Reichl",
-        "instrument": "bass"
+        "instrument": "Bassist"
       },
       {
         "name": "Christian Euman",
-        "instrument": "drums"
+        "instrument": "Drummer"
       }
     ],
     "priceRange": "$XX",
@@ -206,7 +206,7 @@
   {
     "date": "2026-10-29",
     "time": "7:30 PM",
-    "artist": "CSU Fullerton Jazz Ensemble & CSU Northridge Jazz Ensemble",
+    "artist": "College Night at Sam First",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -214,19 +214,11 @@
     "personnel": [
       {
         "name": "Rodolfo Zuniga",
-        "instrument": "drums"
-      },
-      {
-        "name": "CSU Fullerton Jazz Ensemble",
-        "instrument": "various"
+        "instrument": "Drummer"
       },
       {
         "name": "Gary Fukushima",
-        "instrument": "piano"
-      },
-      {
-        "name": "CSU Northridge Jazz Ensemble",
-        "instrument": "various"
+        "instrument": "Pianist"
       }
     ],
     "priceRange": "$XX",
@@ -243,15 +235,15 @@
     "personnel": [
       {
         "name": "Billy Mohler",
-        "instrument": "bass"
+        "instrument": "Bassist"
       },
       {
         "name": "Joe La Barbera",
-        "instrument": "drums"
+        "instrument": "Drummer"
       },
       {
         "name": "Mark Turner",
-        "instrument": "saxophone"
+        "instrument": "Saxophonist"
       }
     ],
     "priceRange": "$XX",
@@ -268,11 +260,7 @@
     "personnel": [
       {
         "name": "Bill Cunliffe",
-        "instrument": "piano"
-      },
-      {
-        "name": "Septet members",
-        "instrument": "various"
+        "instrument": "Pianist"
       }
     ],
     "priceRange": "$XX",
@@ -289,7 +277,7 @@
     "personnel": [
       {
         "name": "Gerald Clayton",
-        "instrument": "piano"
+        "instrument": "Pianist"
       }
     ],
     "priceRange": "$XX",
@@ -306,19 +294,19 @@
     "personnel": [
       {
         "name": "Gabrielle Cavassa",
-        "instrument": "vocals"
+        "instrument": "Vocalist"
       },
       {
         "name": "Gabriel Schnider",
-        "instrument": "guitar"
+        "instrument": "Guitarist"
       },
       {
         "name": "Luca Alemanno",
-        "instrument": "bass"
+        "instrument": "Bassist"
       },
       {
         "name": "Kyle Poole",
-        "instrument": "drums"
+        "instrument": "Drummer"
       }
     ],
     "priceRange": "$XX",
@@ -335,23 +323,40 @@
     "personnel": [
       {
         "name": "Emiliano Lasansky",
-        "instrument": "bass"
+        "instrument": "Bassist"
       },
       {
         "name": "Julien Knowles",
-        "instrument": "trumpet"
+        "instrument": "Trumpeter"
       },
       {
         "name": "Devin Daniels",
-        "instrument": "saxophone"
+        "instrument": "Alto Saxophonist"
       },
       {
         "name": "Javier Santiago",
-        "instrument": "piano"
+        "instrument": "Pianist"
       },
       {
         "name": "Nate Friedman",
-        "instrument": "drums"
+        "instrument": "Drummer"
+      }
+    ],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-11-06",
+    "time": "7:30 PM",
+    "artist": "Helen Sung Oracles Quartet",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Helen Sung",
+        "instrument": "Pianist"
       }
     ],
     "priceRange": "$XX",
@@ -368,15 +373,15 @@
     "personnel": [
       {
         "name": "Rachel Eckroth",
-        "instrument": "piano"
+        "instrument": "Pianist"
       },
       {
         "name": "Emma Dayhuff",
-        "instrument": "bass"
+        "instrument": "Bassist"
       },
       {
         "name": "Tina Raymond",
-        "instrument": "drums"
+        "instrument": "Drummer"
       }
     ],
     "priceRange": "$XX",
@@ -393,32 +398,7 @@
     "personnel": [
       {
         "name": "Ana Barreiro",
-        "instrument": "drums"
-      },
-      {
-        "name": "Quintet members",
-        "instrument": "various"
-      }
-    ],
-    "priceRange": "$XX",
-    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
-  },
-  {
-    "date": "2026-11-12",
-    "time": "7:30 PM",
-    "artist": "VDE Jazz Orchestra featuring Adam Hersh",
-    "venue": {
-      "name": "Sam First",
-      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
-    },
-    "personnel": [
-      {
-        "name": "Adam Hersh",
-        "instrument": "piano"
-      },
-      {
-        "name": "VDE Jazz Orchestra",
-        "instrument": "various"
+        "instrument": "Drummer"
       }
     ],
     "priceRange": "$XX",
