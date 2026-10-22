@@ -1,34 +1,5 @@
 [
   {
-    "date": "2026-10-21",
-    "time": "7:30 PM",
-    "artist": "Devon Gates & Christina Galisatus",
-    "venue": {
-      "name": "Sam First",
-      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
-    },
-    "personnel": [
-      {
-        "name": "Devon Gates",
-        "instrument": ""
-      },
-      {
-        "name": "Christina Galisatus",
-        "instrument": ""
-      },
-      {
-        "name": "Nicole McCabe",
-        "instrument": "saxophone"
-      },
-      {
-        "name": "Mark Valdes",
-        "instrument": "drums"
-      }
-    ],
-    "priceRange": "$XX",
-    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
-  },
-  {
     "date": "2026-10-22",
     "time": "7:30 PM",
     "artist": "Yvonne Rogers Quartet",
@@ -51,7 +22,7 @@
       },
       {
         "name": "Nicolaus Gelin",
-        "instrument": ""
+        "instrument": "saxophone"
       }
     ],
     "priceRange": "$XX",
@@ -156,7 +127,7 @@
   {
     "date": "2026-10-27",
     "time": "7:30 PM",
-    "artist": "Julien Knowles",
+    "artist": "“Tuesday Happenings”: Hosted by Julien Knowles",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -210,7 +181,7 @@
   {
     "date": "2026-10-29",
     "time": "7:30 PM",
-    "artist": "CSU Fullerton & CSU Northridge",
+    "artist": "College Night at Sam First: CSU Fullerton & CSU Northridge",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -218,11 +189,11 @@
     "personnel": [
       {
         "name": "Rodolfo Zuniga",
-        "instrument": "director"
+        "instrument": "drums"
       },
       {
         "name": "Gary Fukushima",
-        "instrument": "director"
+        "instrument": "piano"
       }
     ],
     "priceRange": "$XX",
@@ -273,7 +244,7 @@
   {
     "date": "2026-11-03",
     "time": "7:30 PM",
-    "artist": "Gerald Clayton",
+    "artist": "“Tuesday Happenings”: Hosted by Gerald Clayton",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -394,7 +365,7 @@
   {
     "date": "2026-11-10",
     "time": "7:30 PM",
-    "artist": "Kevin Kanner",
+    "artist": "“Drum Week” Presents: Tuesday Happenings with Kevin Kanner",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -411,7 +382,7 @@
   {
     "date": "2026-11-11",
     "time": "7:30 PM",
-    "artist": "Ana Barreiro Quintet",
+    "artist": "“Drum Week” Presents: QUINTESSÊNCIA — Ana Barreiro Quintet",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -420,6 +391,23 @@
       {
         "name": "Ana Barreiro",
         "instrument": "drums"
+      }
+    ],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-11-12",
+    "time": "7:30 PM",
+    "artist": "“Drum Week” Presents: VDE Jazz Orchestra featuring Adam Hersh",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Adam Hersh",
+        "instrument": "piano"
       }
     ],
     "priceRange": "$XX",
