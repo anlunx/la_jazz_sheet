@@ -1,37 +1,8 @@
 [
   {
-    "date": "2026-10-22",
-    "time": "7:30 PM",
-    "artist": "Yvonne Rogers Quartet",
-    "venue": {
-      "name": "Sam First",
-      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
-    },
-    "personnel": [
-      {
-        "name": "Yvonne Rogers",
-        "instrument": "piano"
-      },
-      {
-        "name": "Jermaine Paul",
-        "instrument": "bass"
-      },
-      {
-        "name": "Mark Ferber",
-        "instrument": "drums"
-      },
-      {
-        "name": "Nicolaus Gelin",
-        "instrument": "saxophone"
-      }
-    ],
-    "priceRange": "$XX",
-    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
-  },
-  {
     "date": "2026-10-23",
     "time": "7:30 PM",
-    "artist": "Joel Frahm Trio",
+    "artist": "Joel Frahm Trio: Lumination Tour",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -71,7 +42,7 @@
         "instrument": "piano"
       }
     ],
-    "priceRange": "$0",
+    "priceRange": "$XX",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -127,7 +98,7 @@
   {
     "date": "2026-10-27",
     "time": "7:30 PM",
-    "artist": "“Tuesday Happenings”: Hosted by Julien Knowles",
+    "artist": "Tuesday Happenings: Hosted by Julien Knowles",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -181,7 +152,7 @@
   {
     "date": "2026-10-29",
     "time": "7:30 PM",
-    "artist": "College Night at Sam First: CSU Fullerton & CSU Northridge",
+    "artist": "College Night at Sam First",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -189,11 +160,11 @@
     "personnel": [
       {
         "name": "Rodolfo Zuniga",
-        "instrument": "drums"
+        "instrument": "director"
       },
       {
         "name": "Gary Fukushima",
-        "instrument": "piano"
+        "instrument": "director"
       }
     ],
     "priceRange": "$XX",
@@ -227,7 +198,7 @@
   {
     "date": "2026-10-31",
     "time": "7:30 PM",
-    "artist": "Bill Cunliffe Septet",
+    "artist": "Oliver Nelson's Blues and the Abstract Truth, Take 2, with Bill Cunliffe Septet",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -244,7 +215,7 @@
   {
     "date": "2026-11-03",
     "time": "7:30 PM",
-    "artist": "“Tuesday Happenings”: Hosted by Gerald Clayton",
+    "artist": "Tuesday Happenings: Hosted by Gerald Clayton",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -276,7 +247,7 @@
         "instrument": "guitar"
       },
       {
-        "name": "Luca Alemanno",
+        "name": "Luca Allemano",
         "instrument": "bass"
       },
       {
@@ -365,7 +336,7 @@
   {
     "date": "2026-11-10",
     "time": "7:30 PM",
-    "artist": "“Drum Week” Presents: Tuesday Happenings with Kevin Kanner",
+    "artist": "Drum Week Presents: Tuesday Happenings with Kevin Kanner",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -382,7 +353,7 @@
   {
     "date": "2026-11-11",
     "time": "7:30 PM",
-    "artist": "“Drum Week” Presents: QUINTESSÊNCIA — Ana Barreiro Quintet",
+    "artist": "Drum Week Presents: QUINTESSÊNCIA — Ana Barreiro Quintet",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -399,7 +370,7 @@
   {
     "date": "2026-11-12",
     "time": "7:30 PM",
-    "artist": "“Drum Week” Presents: VDE Jazz Orchestra featuring Adam Hersh",
+    "artist": "Drum Week Presents: VDE Jazz Orchestra featuring Adam Hersh",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -408,6 +379,23 @@
       {
         "name": "Adam Hersh",
         "instrument": "piano"
+      }
+    ],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-11-13",
+    "time": "7:30 PM",
+    "artist": "Drum Week Presents: Jaz Sawyer Quartet Honors 3 Kings",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Jaz Sawyer",
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
