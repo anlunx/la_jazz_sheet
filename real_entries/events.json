@@ -1,53 +1,7 @@
 [
   {
-    "date": "2026-10-23",
-    "time": "7:30 PM",
-    "artist": "Joel Frahm Trio: Lumination Tour",
-    "venue": {
-      "name": "Sam First",
-      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
-    },
-    "personnel": [
-      {
-        "name": "Joel Frahm",
-        "instrument": "tenor saxophone"
-      },
-      {
-        "name": "Dan Loomis",
-        "instrument": "bass"
-      },
-      {
-        "name": "Ernesto Cervini",
-        "instrument": "drums"
-      }
-    ],
-    "priceRange": "$XX",
-    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
-  },
-  {
     "date": "2026-10-24",
-    "time": "7:30 PM",
-    "artist": "Anthony Wilson & Billy Childs",
-    "venue": {
-      "name": "Sam First",
-      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
-    },
-    "personnel": [
-      {
-        "name": "Anthony Wilson",
-        "instrument": "guitar"
-      },
-      {
-        "name": "Billy Childs",
-        "instrument": "piano"
-      }
-    ],
-    "priceRange": "$XX",
-    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
-  },
-  {
-    "date": "2026-10-24",
-    "time": "7:30 PM",
+    "time": "07:30 PM",
     "artist": "Michael Ragonese Trio",
     "venue": {
       "name": "Sam First",
@@ -72,7 +26,7 @@
   },
   {
     "date": "2026-10-25",
-    "time": "7:30 PM",
+    "time": "07:30 PM",
     "artist": "Christian Sands Trio",
     "venue": {
       "name": "Sam First",
@@ -97,8 +51,8 @@
   },
   {
     "date": "2026-10-27",
-    "time": "7:30 PM",
-    "artist": "Tuesday Happenings: Hosted by Julien Knowles",
+    "time": "07:30 PM",
+    "artist": "Julien Knowles",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -126,7 +80,7 @@
   },
   {
     "date": "2026-10-28",
-    "time": "7:30 PM",
+    "time": "07:30 PM",
     "artist": "Carmen Staaf Trio",
     "venue": {
       "name": "Sam First",
@@ -151,8 +105,8 @@
   },
   {
     "date": "2026-10-29",
-    "time": "7:30 PM",
-    "artist": "College Night at Sam First",
+    "time": "07:30 PM",
+    "artist": "College Night: CSU Fullerton & CSU Northridge",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -172,7 +126,7 @@
   },
   {
     "date": "2026-10-30",
-    "time": "7:30 PM",
+    "time": "07:30 PM",
     "artist": "Billy Mohler Trio",
     "venue": {
       "name": "Sam First",
@@ -197,8 +151,8 @@
   },
   {
     "date": "2026-10-31",
-    "time": "7:30 PM",
-    "artist": "Oliver Nelson's Blues and the Abstract Truth, Take 2, with Bill Cunliffe Septet",
+    "time": "07:30 PM",
+    "artist": "Bill Cunliffe Septet",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -206,7 +160,7 @@
     "personnel": [
       {
         "name": "Bill Cunliffe",
-        "instrument": "piano"
+        "instrument": "piano/arranger"
       }
     ],
     "priceRange": "$XX",
@@ -214,8 +168,8 @@
   },
   {
     "date": "2026-11-03",
-    "time": "7:30 PM",
-    "artist": "Tuesday Happenings: Hosted by Gerald Clayton",
+    "time": "07:30 PM",
+    "artist": "Gerald Clayton",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -223,7 +177,7 @@
     "personnel": [
       {
         "name": "Gerald Clayton",
-        "instrument": "piano"
+        "instrument": "piano/composer"
       }
     ],
     "priceRange": "$XX",
@@ -231,7 +185,7 @@
   },
   {
     "date": "2026-11-04",
-    "time": "7:30 PM",
+    "time": "07:30 PM",
     "artist": "Gabrielle Cavassa",
     "venue": {
       "name": "Sam First",
@@ -260,7 +214,7 @@
   },
   {
     "date": "2026-11-05",
-    "time": "7:30 PM",
+    "time": "07:30 PM",
     "artist": "Emiliano Lasansky Quintet",
     "venue": {
       "name": "Sam First",
@@ -293,7 +247,7 @@
   },
   {
     "date": "2026-11-06",
-    "time": "7:30 PM",
+    "time": "07:30 PM",
     "artist": "Helen Sung Oracles Quartet",
     "venue": {
       "name": "Sam First",
@@ -310,7 +264,7 @@
   },
   {
     "date": "2026-11-07",
-    "time": "7:30 PM",
+    "time": "07:30 PM",
     "artist": "The Rachel Eckroth Trio",
     "venue": {
       "name": "Sam First",
@@ -335,8 +289,8 @@
   },
   {
     "date": "2026-11-10",
-    "time": "7:30 PM",
-    "artist": "Drum Week Presents: Tuesday Happenings with Kevin Kanner",
+    "time": "07:30 PM",
+    "artist": "Kevin Kanner",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -352,8 +306,8 @@
   },
   {
     "date": "2026-11-11",
-    "time": "7:30 PM",
-    "artist": "Drum Week Presents: QUINTESSÊNCIA — Ana Barreiro Quintet",
+    "time": "07:30 PM",
+    "artist": "Ana Barreiro Quintet (QUINTESSÊNCIA)",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -369,8 +323,8 @@
   },
   {
     "date": "2026-11-12",
-    "time": "7:30 PM",
-    "artist": "Drum Week Presents: VDE Jazz Orchestra featuring Adam Hersh",
+    "time": "07:30 PM",
+    "artist": "VDE Jazz Orchestra featuring Adam Hersh",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -386,8 +340,8 @@
   },
   {
     "date": "2026-11-13",
-    "time": "7:30 PM",
-    "artist": "Drum Week Presents: Jaz Sawyer Quartet Honors 3 Kings",
+    "time": "07:30 PM",
+    "artist": "Jaz Sawyer Quartet",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -396,6 +350,23 @@
       {
         "name": "Jaz Sawyer",
         "instrument": "drums"
+      }
+    ],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-11-14",
+    "time": "07:30 PM",
+    "artist": "Jonathan Pinson Boom Clap Expansion",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Jonathan Pinson",
+        "instrument": "drums/composer/bandleader"
       }
     ],
     "priceRange": "$XX",
