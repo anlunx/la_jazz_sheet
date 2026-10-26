@@ -1,58 +1,8 @@
 [
   {
-    "date": "2026-10-24",
-    "time": "7:30 PM",
-    "artist": "Michael Ragonese Trio",
-    "venue": {
-      "name": "Sam First",
-      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
-    },
-    "personnel": [
-      {
-        "name": "Michael Ragonese",
-        "instrument": "piano"
-      },
-      {
-        "name": "Anthony Fung",
-        "instrument": "drums"
-      },
-      {
-        "name": "Luca Alemanno",
-        "instrument": "bass"
-      }
-    ],
-    "priceRange": "$XX",
-    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
-  },
-  {
-    "date": "2026-10-25",
-    "time": "7:30 PM",
-    "artist": "Christian Sands Trio",
-    "venue": {
-      "name": "Sam First",
-      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
-    },
-    "personnel": [
-      {
-        "name": "Christian Sands",
-        "instrument": "piano"
-      },
-      {
-        "name": "Ben Williams",
-        "instrument": "bass"
-      },
-      {
-        "name": "John Davis",
-        "instrument": "drums"
-      }
-    ],
-    "priceRange": "$XX",
-    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
-  },
-  {
     "date": "2026-10-27",
     "time": "7:30 PM",
-    "artist": "Tuesday Happenings: Hosted by Julien Knowles",
+    "artist": "Julien Knowles' Tuesday Happenings",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -106,7 +56,7 @@
   {
     "date": "2026-10-29",
     "time": "7:30 PM",
-    "artist": "College Night at Sam First: CSU Fullerton & CSU Northridge",
+    "artist": "College Night: CSU Fullerton & CSU Northridge Jazz Ensembles",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -152,7 +102,7 @@
   {
     "date": "2026-10-31",
     "time": "7:30 PM",
-    "artist": "Oliver Nelson's Blues and the Abstract Truth, Take 2, with Bill Cunliffe Septet",
+    "artist": "Bill Cunliffe Septet: Oliver Nelson's Blues and the Abstract Truth, Take 2",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -160,7 +110,7 @@
     "personnel": [
       {
         "name": "Bill Cunliffe",
-        "instrument": "piano/arranger"
+        "instrument": "piano"
       }
     ],
     "priceRange": "$XX",
@@ -169,7 +119,7 @@
   {
     "date": "2026-11-03",
     "time": "7:30 PM",
-    "artist": "Tuesday Happenings: Hosted by Gerald Clayton",
+    "artist": "Gerald Clayton's Tuesday Happenings",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -177,7 +127,7 @@
     "personnel": [
       {
         "name": "Gerald Clayton",
-        "instrument": "piano/composer"
+        "instrument": "piano"
       }
     ],
     "priceRange": "$XX",
@@ -223,7 +173,7 @@
     "personnel": [
       {
         "name": "Emiliano Lasansky",
-        "instrument": "bass/composer"
+        "instrument": "bass"
       },
       {
         "name": "Julien Knowles",
@@ -290,7 +240,7 @@
   {
     "date": "2026-11-10",
     "time": "7:30 PM",
-    "artist": "Drum Week Presents: Tuesday Happenings with Kevin Kanner",
+    "artist": "Drum Week: Kevin Kanner's Tuesday Happenings",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -307,7 +257,7 @@
   {
     "date": "2026-11-11",
     "time": "7:30 PM",
-    "artist": "Drum Week Presents: QUINTESSÊNCIA — Ana Barreiro Quintet",
+    "artist": "Drum Week: QUINTESSÊNCIA — Ana Barreiro Quintet",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -324,7 +274,7 @@
   {
     "date": "2026-11-12",
     "time": "7:30 PM",
-    "artist": "Drum Week Presents: VDE Jazz Orchestra featuring Adam Hersh",
+    "artist": "Drum Week: VDE Jazz Orchestra featuring Adam Hersh",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -341,7 +291,7 @@
   {
     "date": "2026-11-13",
     "time": "7:30 PM",
-    "artist": "Drum Week Presents: Jaz Sawyer Quartet Honors 3 Kings",
+    "artist": "Drum Week: Jaz Sawyer Quartet Honors 3 Kings",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -358,7 +308,7 @@
   {
     "date": "2026-11-14",
     "time": "7:30 PM",
-    "artist": "Drum Week Presents: Jonathan Pinson Boom Clap Expansion",
+    "artist": "Drum Week: Jonathan Pinson Boom Clap Expansion",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -366,7 +316,7 @@
     "personnel": [
       {
         "name": "Jonathan Pinson",
-        "instrument": "drums/composer/bandleader"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -396,6 +346,64 @@
       {
         "name": "Jonathan Richards",
         "instrument": "bass"
+      }
+    ],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-12-01",
+    "time": "7:30 PM",
+    "artist": "Janis Siegel album release \"The Art Of Vocalese\"",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Janis Siegel",
+        "instrument": "vocals"
+      },
+      {
+        "name": "John Di Martino",
+        "instrument": "piano"
+      },
+      {
+        "name": "Darek Oles",
+        "instrument": "bass"
+      }
+    ],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-12-04",
+    "time": "7:30 PM",
+    "artist": "Peter Bernstein & Graham Dechter Quintet",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Peter Bernstein",
+        "instrument": "guitar"
+      },
+      {
+        "name": "Graham Dechter",
+        "instrument": "guitar"
+      },
+      {
+        "name": "Jacob Mann",
+        "instrument": "piano"
+      },
+      {
+        "name": "Alex Frank",
+        "instrument": "bass"
+      },
+      {
+        "name": "Ryan Shaw",
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
