@@ -1,34 +1,5 @@
 [
   {
-    "date": "2026-10-27",
-    "time": "07:30 PM",
-    "artist": "Julien Knowles (Tuesday Happenings)",
-    "venue": {
-      "name": "Sam First",
-      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
-    },
-    "personnel": [
-      {
-        "name": "Julien Knowles",
-        "instrument": "Trumpet"
-      },
-      {
-        "name": "Chris Fishman",
-        "instrument": "Piano"
-      },
-      {
-        "name": "Jermaine Paul",
-        "instrument": "Bass"
-      },
-      {
-        "name": "Christian Euman",
-        "instrument": "Drums"
-      }
-    ],
-    "priceRange": "$XX",
-    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
-  },
-  {
     "date": "2026-10-28",
     "time": "07:30 PM",
     "artist": "Carmen Staaf Trio",
@@ -39,15 +10,15 @@
     "personnel": [
       {
         "name": "Carmen Staaf",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Karl McComas-Reichl",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Christian Euman",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -64,11 +35,11 @@
     "personnel": [
       {
         "name": "Rodolfo Zuniga",
-        "instrument": "Director (CSU Fullerton)"
+        "instrument": "director"
       },
       {
         "name": "Gary Fukushima",
-        "instrument": "Director (CSU Northridge)"
+        "instrument": "director"
       }
     ],
     "priceRange": "$XX",
@@ -85,15 +56,15 @@
     "personnel": [
       {
         "name": "Billy Mohler",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Joe La Barbera",
-        "instrument": "Drums"
+        "instrument": "drums"
       },
       {
         "name": "Mark Turner",
-        "instrument": "Saxophone"
+        "instrument": "saxophone"
       }
     ],
     "priceRange": "$XX",
@@ -110,7 +81,7 @@
     "personnel": [
       {
         "name": "Bill Cunliffe",
-        "instrument": "Piano/Arranger"
+        "instrument": "piano, arranger"
       }
     ],
     "priceRange": "$XX",
@@ -119,7 +90,7 @@
   {
     "date": "2026-11-03",
     "time": "07:30 PM",
-    "artist": "Gerald Clayton (Tuesday Happenings)",
+    "artist": "Tuesday Happenings: Hosted by Gerald Clayton",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -127,7 +98,7 @@
     "personnel": [
       {
         "name": "Gerald Clayton",
-        "instrument": "Piano/Composer"
+        "instrument": "piano, composer"
       }
     ],
     "priceRange": "$XX",
@@ -144,19 +115,19 @@
     "personnel": [
       {
         "name": "Gabrielle Cavassa",
-        "instrument": "Vocalist"
+        "instrument": "vocals"
       },
       {
         "name": "Gabriel Schnider",
-        "instrument": "Guitar"
+        "instrument": "guitar"
       },
       {
         "name": "Luca Allemano",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Kyle Poole",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -173,23 +144,23 @@
     "personnel": [
       {
         "name": "Emiliano Lasansky",
-        "instrument": "Bass/Composer"
+        "instrument": "bass, composer"
       },
       {
         "name": "Julien Knowles",
-        "instrument": "Trumpet"
+        "instrument": "trumpet"
       },
       {
         "name": "Devin Daniels",
-        "instrument": "Saxophone"
+        "instrument": "saxophone"
       },
       {
         "name": "Javier Santiago",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Nate Friedman",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -206,19 +177,15 @@
     "personnel": [
       {
         "name": "Helen Sung",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Reuben Rogers",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Anthony Fung",
-        "instrument": "Drums"
-      },
-      {
-        "name": "Special Guest",
-        "instrument": "Unknown"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -235,15 +202,15 @@
     "personnel": [
       {
         "name": "Rachel Eckroth",
-        "instrument": "Piano"
+        "instrument": "piano/keyboards"
       },
       {
         "name": "Emma Dayhuff",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Tina Raymond",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -252,7 +219,7 @@
   {
     "date": "2026-11-10",
     "time": "07:30 PM",
-    "artist": "Kevin Kanner (Tuesday Happenings)",
+    "artist": "Drum Week Presents: Tuesday Happenings with Kevin Kanner",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -260,7 +227,7 @@
     "personnel": [
       {
         "name": "Kevin Kanner",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -269,7 +236,7 @@
   {
     "date": "2026-11-11",
     "time": "07:30 PM",
-    "artist": "Ana Barreiro Quintet (QUINTESSÊNCIA)",
+    "artist": "Drum Week Presents: QUINTESSÊNCIA — Ana Barreiro Quintet",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -277,7 +244,7 @@
     "personnel": [
       {
         "name": "Ana Barreiro",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -286,7 +253,7 @@
   {
     "date": "2026-11-12",
     "time": "07:30 PM",
-    "artist": "VDE Jazz Orchestra featuring Adam Hersh",
+    "artist": "Drum Week Presents: VDE Jazz Orchestra featuring Adam Hersh",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -294,7 +261,7 @@
     "personnel": [
       {
         "name": "Adam Hersh",
-        "instrument": "Piano"
+        "instrument": "piano"
       }
     ],
     "priceRange": "$XX",
@@ -303,7 +270,7 @@
   {
     "date": "2026-11-13",
     "time": "07:30 PM",
-    "artist": "Jaz Sawyer Quartet",
+    "artist": "Drum Week Presents: Jaz Sawyer Quartet",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -311,7 +278,7 @@
     "personnel": [
       {
         "name": "Jaz Sawyer",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -320,7 +287,7 @@
   {
     "date": "2026-11-14",
     "time": "07:30 PM",
-    "artist": "Jonathan Pinson Boom Clap Expansion",
+    "artist": "Drum Week Presents: Jonathan Pinson Boom Clap Expansion",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -328,7 +295,7 @@
     "personnel": [
       {
         "name": "Jonathan Pinson",
-        "instrument": "Drums/Composer/Bandleader"
+        "instrument": "drums, composer, bandleader"
       }
     ],
     "priceRange": "$XX",
@@ -345,19 +312,57 @@
     "personnel": [
       {
         "name": "Kate McGarry",
-        "instrument": "Vocalist"
+        "instrument": "vocals"
       },
       {
         "name": "Keith Ganz",
-        "instrument": "Guitar"
+        "instrument": "guitar"
       },
       {
         "name": "Clarence Penn",
-        "instrument": "Drums"
+        "instrument": "drums"
       },
       {
         "name": "Jonathan Richards",
-        "instrument": "Bass"
+        "instrument": "bass"
+      }
+    ],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-11-17",
+    "time": "07:30 PM",
+    "artist": "Tuesday Happenings: Hosted by Sasha Berliner",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Sasha Berliner",
+        "instrument": "vibraphone"
+      }
+    ],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-11-18",
+    "time": "07:30 PM",
+    "artist": "College Night at Sam First: UCLA & USC",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Clayton Cameron",
+        "instrument": "director"
+      },
+      {
+        "name": "Jason Goldman",
+        "instrument": "director"
       }
     ],
     "priceRange": "$XX",
@@ -374,48 +379,23 @@
     "personnel": [
       {
         "name": "Camille Kerani",
-        "instrument": "Vocalist"
+        "instrument": "vocals"
       },
       {
         "name": "Isaiah Harwood",
-        "instrument": "Guitar"
+        "instrument": "drums"
       },
       {
         "name": "Jermaine Paul",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Myles Martin",
-        "instrument": "Drums"
+        "instrument": "guitar"
       },
       {
         "name": "Nicolaus Gelin",
-        "instrument": "Piano"
-      }
-    ],
-    "priceRange": "$XX",
-    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
-  },
-  {
-    "date": "2026-12-01",
-    "time": "07:30 PM",
-    "artist": "Janis Siegel",
-    "venue": {
-      "name": "Sam First",
-      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
-    },
-    "personnel": [
-      {
-        "name": "Janis Siegel",
-        "instrument": "Vocalist"
-      },
-      {
-        "name": "John diMartino",
-        "instrument": "Piano/Arranger"
-      },
-      {
-        "name": "Darek Oles",
-        "instrument": "Bass"
+        "instrument": "piano"
       }
     ],
     "priceRange": "$XX",
