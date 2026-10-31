@@ -1,30 +1,5 @@
 [
   {
-    "date": "2026-10-30",
-    "time": "7:30 PM",
-    "artist": "Billy Mohler Trio",
-    "venue": {
-      "name": "Sam First",
-      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
-    },
-    "personnel": [
-      {
-        "name": "Billy Mohler",
-        "instrument": "bass"
-      },
-      {
-        "name": "Joe La Barbera",
-        "instrument": "drums"
-      },
-      {
-        "name": "Mark Turner",
-        "instrument": "saxophone"
-      }
-    ],
-    "priceRange": "$XX",
-    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
-  },
-  {
     "date": "2026-10-31",
     "time": "7:30 PM",
     "artist": "Bill Cunliffe Septet",
@@ -35,7 +10,7 @@
     "personnel": [
       {
         "name": "Bill Cunliffe",
-        "instrument": "piano"
+        "instrument": "piano, arranger"
       }
     ],
     "priceRange": "$XX",
@@ -52,7 +27,7 @@
     "personnel": [
       {
         "name": "Gerald Clayton",
-        "instrument": "piano"
+        "instrument": "piano, composer"
       }
     ],
     "priceRange": "$XX",
@@ -98,7 +73,7 @@
     "personnel": [
       {
         "name": "Emiliano Lasansky",
-        "instrument": "bass"
+        "instrument": "bass, composer"
       },
       {
         "name": "Julien Knowles",
@@ -132,6 +107,10 @@
       {
         "name": "Helen Sung",
         "instrument": "piano"
+      },
+      {
+        "name": "Bob Reynolds",
+        "instrument": "saxophone"
       },
       {
         "name": "Reuben Rogers",
@@ -249,7 +228,7 @@
     "personnel": [
       {
         "name": "Jonathan Pinson",
-        "instrument": "drums"
+        "instrument": "drums, composer, bandleader"
       }
     ],
     "priceRange": "$XX",
@@ -312,11 +291,11 @@
     "personnel": [
       {
         "name": "Clayton Cameron",
-        "instrument": "director"
+        "instrument": "director (UCLA)"
       },
       {
         "name": "Jason Goldman",
-        "instrument": "director"
+        "instrument": "director (USC)"
       }
     ],
     "priceRange": "$XX",
@@ -325,7 +304,7 @@
   {
     "date": "2026-11-19",
     "time": "7:30 PM",
-    "artist": "KCRW Presents: Third Thursdays with Camille Kerani",
+    "artist": "KCRW Presents: Third Thursdays with Camille Kerani Quintet",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -337,7 +316,7 @@
       },
       {
         "name": "Isaiah Harwood",
-        "instrument": "piano"
+        "instrument": "saxophone"
       },
       {
         "name": "Jermaine Paul",
@@ -349,7 +328,7 @@
       },
       {
         "name": "Nicolaus Gelin",
-        "instrument": "guitar"
+        "instrument": "piano"
       }
     ],
     "priceRange": "$XX",
@@ -399,6 +378,35 @@
       },
       {
         "name": "John Davis",
+        "instrument": "drums"
+      }
+    ],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-11-24",
+    "time": "7:30 PM",
+    "artist": "Sarah Hanahan Quartet",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Sarah Hanahan",
+        "instrument": "alto saxophone, composer, bandleader"
+      },
+      {
+        "name": "Julius Rodriguez",
+        "instrument": "piano"
+      },
+      {
+        "name": "Jermaine Paul",
+        "instrument": "bass"
+      },
+      {
+        "name": "Kyle Poole",
         "instrument": "drums"
       }
     ],
