@@ -1,25 +1,8 @@
 [
   {
-    "date": "2026-10-31",
-    "time": "7:30 PM",
-    "artist": "Bill Cunliffe Septet",
-    "venue": {
-      "name": "Sam First",
-      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
-    },
-    "personnel": [
-      {
-        "name": "Bill Cunliffe",
-        "instrument": "piano, arranger"
-      }
-    ],
-    "priceRange": "$XX",
-    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
-  },
-  {
     "date": "2026-11-03",
-    "time": "7:30 PM",
-    "artist": "Tuesday Happenings: Hosted by Gerald Clayton",
+    "time": "07:30 PM",
+    "artist": "Gerald Clayton - Tuesday Happenings",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -27,7 +10,7 @@
     "personnel": [
       {
         "name": "Gerald Clayton",
-        "instrument": "piano, composer"
+        "instrument": "piano"
       }
     ],
     "priceRange": "$XX",
@@ -35,7 +18,7 @@
   },
   {
     "date": "2026-11-04",
-    "time": "7:30 PM",
+    "time": "07:30 PM",
     "artist": "Gabrielle Cavassa",
     "venue": {
       "name": "Sam First",
@@ -64,7 +47,7 @@
   },
   {
     "date": "2026-11-05",
-    "time": "7:30 PM",
+    "time": "07:30 PM",
     "artist": "Emiliano Lasansky Quintet",
     "venue": {
       "name": "Sam First",
@@ -73,15 +56,15 @@
     "personnel": [
       {
         "name": "Emiliano Lasansky",
-        "instrument": "bass, composer"
+        "instrument": "bass"
       },
       {
         "name": "Julien Knowles",
-        "instrument": "trumpet"
+        "instrument": "saxophone"
       },
       {
         "name": "Devin Daniels",
-        "instrument": "saxophone"
+        "instrument": "trumpet"
       },
       {
         "name": "Javier Santiago",
@@ -97,7 +80,7 @@
   },
   {
     "date": "2026-11-06",
-    "time": "7:30 PM",
+    "time": "07:30 PM",
     "artist": "Helen Sung Oracles Quartet",
     "venue": {
       "name": "Sam First",
@@ -126,7 +109,7 @@
   },
   {
     "date": "2026-11-07",
-    "time": "7:30 PM",
+    "time": "07:30 PM",
     "artist": "The Rachel Eckroth Trio",
     "venue": {
       "name": "Sam First",
@@ -151,8 +134,8 @@
   },
   {
     "date": "2026-11-10",
-    "time": "7:30 PM",
-    "artist": "Drum Week Presents: Tuesday Happenings with Kevin Kanner",
+    "time": "07:30 PM",
+    "artist": "Kevin Kanner - Tuesday Happenings",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -168,8 +151,8 @@
   },
   {
     "date": "2026-11-11",
-    "time": "7:30 PM",
-    "artist": "Drum Week Presents: QUINTESSÊNCIA — Ana Barreiro Quintet",
+    "time": "07:30 PM",
+    "artist": "Ana Barreiro Quintet: Quintessência",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -185,8 +168,8 @@
   },
   {
     "date": "2026-11-12",
-    "time": "7:30 PM",
-    "artist": "Drum Week Presents: VDE Jazz Orchestra featuring Adam Hersh",
+    "time": "07:30 PM",
+    "artist": "VDE Jazz Orchestra featuring Adam Hersh",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -202,8 +185,8 @@
   },
   {
     "date": "2026-11-13",
-    "time": "7:30 PM",
-    "artist": "Drum Week Presents: Jaz Sawyer Quartet",
+    "time": "07:30 PM",
+    "artist": "Jaz Sawyer Quartet",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -219,8 +202,8 @@
   },
   {
     "date": "2026-11-14",
-    "time": "7:30 PM",
-    "artist": "Drum Week Presents: Jonathan Pinson Boom Clap Expansion",
+    "time": "07:30 PM",
+    "artist": "Jonathan Pinson Boom Clap Expansion",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -228,7 +211,7 @@
     "personnel": [
       {
         "name": "Jonathan Pinson",
-        "instrument": "drums, composer, bandleader"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -236,7 +219,7 @@
   },
   {
     "date": "2026-11-15",
-    "time": "7:30 PM",
+    "time": "07:30 PM",
     "artist": "Kate McGarry/Keith Ganz Quartet",
     "venue": {
       "name": "Sam First",
@@ -265,8 +248,8 @@
   },
   {
     "date": "2026-11-17",
-    "time": "7:30 PM",
-    "artist": "Tuesday Happenings: Hosted by Sasha Berliner",
+    "time": "07:30 PM",
+    "artist": "Sasha Berliner - Tuesday Happenings",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -282,8 +265,8 @@
   },
   {
     "date": "2026-11-18",
-    "time": "7:30 PM",
-    "artist": "College Night at Sam First: UCLA & USC Jazz Ensembles",
+    "time": "07:30 PM",
+    "artist": "College Night at Sam First: UCLA dir. by Clayton Cameron & USC dir. Jason Goldman",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -291,11 +274,11 @@
     "personnel": [
       {
         "name": "Clayton Cameron",
-        "instrument": "director (UCLA)"
+        "instrument": "director"
       },
       {
         "name": "Jason Goldman",
-        "instrument": "director (USC)"
+        "instrument": "director"
       }
     ],
     "priceRange": "$XX",
@@ -303,8 +286,8 @@
   },
   {
     "date": "2026-11-19",
-    "time": "7:30 PM",
-    "artist": "KCRW Presents: Third Thursdays with Camille Kerani Quintet",
+    "time": "07:30 PM",
+    "artist": "Camille Kerani",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -336,7 +319,7 @@
   },
   {
     "date": "2026-11-20",
-    "time": "7:30 PM",
+    "time": "07:30 PM",
     "artist": "Ben Williams Trio (Live Recording)",
     "venue": {
       "name": "Sam First",
@@ -361,7 +344,7 @@
   },
   {
     "date": "2026-11-21",
-    "time": "7:30 PM",
+    "time": "07:30 PM",
     "artist": "Ben Williams Trio (Live Recording)",
     "venue": {
       "name": "Sam First",
@@ -386,7 +369,7 @@
   },
   {
     "date": "2026-11-24",
-    "time": "7:30 PM",
+    "time": "07:30 PM",
     "artist": "Sarah Hanahan Quartet",
     "venue": {
       "name": "Sam First",
@@ -395,7 +378,36 @@
     "personnel": [
       {
         "name": "Sarah Hanahan",
-        "instrument": "alto saxophone, composer, bandleader"
+        "instrument": "alto saxophone"
+      },
+      {
+        "name": "Julius Rodriguez",
+        "instrument": "piano"
+      },
+      {
+        "name": "Jermaine Paul",
+        "instrument": "bass"
+      },
+      {
+        "name": "Kyle Poole",
+        "instrument": "drums"
+      }
+    ],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-11-25",
+    "time": "07:30 PM",
+    "artist": "Sarah Hanahan Quartet",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Sarah Hanahan",
+        "instrument": "alto saxophone"
       },
       {
         "name": "Julius Rodriguez",
