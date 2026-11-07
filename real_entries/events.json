@@ -1,34 +1,5 @@
 [
   {
-    "date": "2026-11-06",
-    "time": "7:30 PM",
-    "artist": "Helen Sung Oracles Quartet",
-    "venue": {
-      "name": "Sam First",
-      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
-    },
-    "personnel": [
-      {
-        "name": "Helen Sung",
-        "instrument": "Piano"
-      },
-      {
-        "name": "Bob Reynolds",
-        "instrument": "Saxophone"
-      },
-      {
-        "name": "Reuben Rogers",
-        "instrument": "Bass"
-      },
-      {
-        "name": "Anthony Fung",
-        "instrument": "Drums"
-      }
-    ],
-    "priceRange": "$XX",
-    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
-  },
-  {
     "date": "2026-11-07",
     "time": "7:30 PM",
     "artist": "The Rachel Eckroth Trio",
@@ -39,15 +10,15 @@
     "personnel": [
       {
         "name": "Rachel Eckroth",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Emma Dayhuff",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Tina Raymond",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -64,7 +35,7 @@
     "personnel": [
       {
         "name": "Kevin Kanner",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -81,7 +52,7 @@
     "personnel": [
       {
         "name": "Ana Barreiro",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -98,11 +69,7 @@
     "personnel": [
       {
         "name": "Adam Hersh",
-        "instrument": "Piano"
-      },
-      {
-        "name": "VDE Jazz Orchestra",
-        "instrument": "Orchestra"
+        "instrument": "piano"
       }
     ],
     "priceRange": "$XX",
@@ -119,7 +86,7 @@
     "personnel": [
       {
         "name": "Jaz Sawyer",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -136,7 +103,7 @@
     "personnel": [
       {
         "name": "Jonathan Pinson",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -153,19 +120,19 @@
     "personnel": [
       {
         "name": "Kate McGarry",
-        "instrument": "Vocals"
+        "instrument": "vocals"
       },
       {
         "name": "Keith Ganz",
-        "instrument": "Guitar"
+        "instrument": "guitar"
       },
       {
         "name": "Clarence Penn",
-        "instrument": "Drums"
+        "instrument": "drums"
       },
       {
         "name": "Jonathan Richards",
-        "instrument": "Bass"
+        "instrument": "bass"
       }
     ],
     "priceRange": "$XX",
@@ -182,7 +149,7 @@
     "personnel": [
       {
         "name": "Sasha Berliner",
-        "instrument": "Vibraphone"
+        "instrument": "vibraphone"
       }
     ],
     "priceRange": "$XX",
@@ -191,7 +158,7 @@
   {
     "date": "2026-11-18",
     "time": "7:30 PM",
-    "artist": "College Night: UCLA dir. by Clayton Cameron & USC dir. Jason Goldman",
+    "artist": "College Night at Sam First: UCLA & USC Jazz Ensembles",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -199,11 +166,11 @@
     "personnel": [
       {
         "name": "Clayton Cameron",
-        "instrument": "Director"
+        "instrument": "director (UCLA)"
       },
       {
         "name": "Jason Goldman",
-        "instrument": "Director"
+        "instrument": "director (USC)"
       }
     ],
     "priceRange": "$XX",
@@ -220,7 +187,7 @@
     "personnel": [
       {
         "name": "Camille Kerani",
-        "instrument": "Vocals"
+        "instrument": "vocals"
       },
       {
         "name": "Isaiah Harwood",
@@ -228,7 +195,7 @@
       },
       {
         "name": "Jermaine Paul",
-        "instrument": "Bass"
+        "instrument": ""
       },
       {
         "name": "Myles Martin",
@@ -245,7 +212,7 @@
   {
     "date": "2026-11-20",
     "time": "7:30 PM",
-    "artist": "Ben Williams Trio (Live Recording)",
+    "artist": "Ben Williams Trio",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -253,15 +220,15 @@
     "personnel": [
       {
         "name": "Ben Williams",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Adam Hersh",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "John Davis",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -270,7 +237,7 @@
   {
     "date": "2026-11-21",
     "time": "7:30 PM",
-    "artist": "Ben Williams Trio (Live Recording)",
+    "artist": "Ben Williams Trio",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -278,15 +245,15 @@
     "personnel": [
       {
         "name": "Ben Williams",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Adam Hersh",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "John Davis",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -303,19 +270,19 @@
     "personnel": [
       {
         "name": "Sarah Hanahan",
-        "instrument": "Alto Saxophone"
+        "instrument": "alto saxophone"
       },
       {
         "name": "Julius Rodriguez",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Jermaine Paul",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Kyle Poole",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -332,19 +299,19 @@
     "personnel": [
       {
         "name": "Sarah Hanahan",
-        "instrument": "Alto Saxophone"
+        "instrument": "alto saxophone"
       },
       {
         "name": "Julius Rodriguez",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Jermaine Paul",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Kyle Poole",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -361,19 +328,19 @@
     "personnel": [
       {
         "name": "Devin Daniels",
-        "instrument": "Saxophone"
+        "instrument": "saxophone"
       },
       {
         "name": "Julien Knowles",
-        "instrument": "Trumpet"
+        "instrument": "trumpet"
       },
       {
         "name": "Jermaine Paul",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Christian Euman",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -390,19 +357,19 @@
     "personnel": [
       {
         "name": "Devin Daniels",
-        "instrument": "Saxophone"
+        "instrument": "saxophone"
       },
       {
         "name": "Julien Knowles",
-        "instrument": "Trumpet"
+        "instrument": "trumpet"
       },
       {
         "name": "Jermaine Paul",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Christian Euman",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -419,15 +386,48 @@
     "personnel": [
       {
         "name": "Janis Siegel",
-        "instrument": "Vocals"
+        "instrument": "vocals"
       },
       {
         "name": "John diMartino",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Darek Oles",
-        "instrument": "Bass"
+        "instrument": "bass"
+      }
+    ],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-12-02",
+    "time": "7:30 PM",
+    "artist": "Tristan Cappel's \"North Star\"",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Tristan Cappel",
+        "instrument": ""
+      },
+      {
+        "name": "Sasha Berliner",
+        "instrument": "vibraphone"
+      },
+      {
+        "name": "Adam Hersh",
+        "instrument": "piano"
+      },
+      {
+        "name": "Marlon Martinez",
+        "instrument": "bass"
+      },
+      {
+        "name": "Efajemue Etoroma, Jr.",
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
