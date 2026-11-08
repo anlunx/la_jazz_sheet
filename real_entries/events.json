@@ -1,32 +1,7 @@
 [
   {
-    "date": "2026-11-07",
-    "time": "7:30 PM",
-    "artist": "The Rachel Eckroth Trio",
-    "venue": {
-      "name": "Sam First",
-      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
-    },
-    "personnel": [
-      {
-        "name": "Rachel Eckroth",
-        "instrument": "piano"
-      },
-      {
-        "name": "Emma Dayhuff",
-        "instrument": "bass"
-      },
-      {
-        "name": "Tina Raymond",
-        "instrument": "drums"
-      }
-    ],
-    "priceRange": "$XX",
-    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
-  },
-  {
     "date": "2026-11-10",
-    "time": "7:30 PM",
+    "time": "07:30 PM",
     "artist": "Kevin Kanner",
     "venue": {
       "name": "Sam First",
@@ -43,7 +18,7 @@
   },
   {
     "date": "2026-11-11",
-    "time": "7:30 PM",
+    "time": "07:30 PM",
     "artist": "QUINTESSÊNCIA — Ana Barreiro Quintet",
     "venue": {
       "name": "Sam First",
@@ -60,7 +35,7 @@
   },
   {
     "date": "2026-11-12",
-    "time": "7:30 PM",
+    "time": "07:30 PM",
     "artist": "VDE Jazz Orchestra featuring Adam Hersh",
     "venue": {
       "name": "Sam First",
@@ -77,7 +52,7 @@
   },
   {
     "date": "2026-11-13",
-    "time": "7:30 PM",
+    "time": "07:30 PM",
     "artist": "Jaz Sawyer Quartet",
     "venue": {
       "name": "Sam First",
@@ -94,7 +69,7 @@
   },
   {
     "date": "2026-11-14",
-    "time": "7:30 PM",
+    "time": "07:30 PM",
     "artist": "Jonathan Pinson Boom Clap Expansion",
     "venue": {
       "name": "Sam First",
@@ -111,7 +86,7 @@
   },
   {
     "date": "2026-11-15",
-    "time": "7:30 PM",
+    "time": "07:30 PM",
     "artist": "Kate McGarry/Keith Ganz Quartet",
     "venue": {
       "name": "Sam First",
@@ -140,7 +115,7 @@
   },
   {
     "date": "2026-11-17",
-    "time": "7:30 PM",
+    "time": "07:30 PM",
     "artist": "Sasha Berliner",
     "venue": {
       "name": "Sam First",
@@ -157,8 +132,8 @@
   },
   {
     "date": "2026-11-18",
-    "time": "7:30 PM",
-    "artist": "College Night at Sam First: UCLA & USC Jazz Ensembles",
+    "time": "07:30 PM",
+    "artist": "UCLA Jazz Ensemble & USC Jazz Ensemble",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -166,11 +141,11 @@
     "personnel": [
       {
         "name": "Clayton Cameron",
-        "instrument": "director (UCLA)"
+        "instrument": "director"
       },
       {
         "name": "Jason Goldman",
-        "instrument": "director (USC)"
+        "instrument": "director"
       }
     ],
     "priceRange": "$XX",
@@ -178,7 +153,7 @@
   },
   {
     "date": "2026-11-19",
-    "time": "7:30 PM",
+    "time": "07:30 PM",
     "artist": "Camille Kerani Quintet",
     "venue": {
       "name": "Sam First",
@@ -191,19 +166,19 @@
       },
       {
         "name": "Isaiah Harwood",
-        "instrument": ""
+        "instrument": "bass"
       },
       {
         "name": "Jermaine Paul",
-        "instrument": ""
+        "instrument": "drums"
       },
       {
         "name": "Myles Martin",
-        "instrument": ""
+        "instrument": "drums"
       },
       {
         "name": "Nicolaus Gelin",
-        "instrument": ""
+        "instrument": "piano"
       }
     ],
     "priceRange": "$XX",
@@ -211,7 +186,7 @@
   },
   {
     "date": "2026-11-20",
-    "time": "7:30 PM",
+    "time": "07:30 PM",
     "artist": "Ben Williams Trio",
     "venue": {
       "name": "Sam First",
@@ -236,7 +211,7 @@
   },
   {
     "date": "2026-11-21",
-    "time": "7:30 PM",
+    "time": "07:30 PM",
     "artist": "Ben Williams Trio",
     "venue": {
       "name": "Sam First",
@@ -261,7 +236,7 @@
   },
   {
     "date": "2026-11-24",
-    "time": "7:30 PM",
+    "time": "07:30 PM",
     "artist": "Sarah Hanahan Quartet",
     "venue": {
       "name": "Sam First",
@@ -278,7 +253,7 @@
       },
       {
         "name": "Jermaine Paul",
-        "instrument": "bass"
+        "instrument": "drums"
       },
       {
         "name": "Kyle Poole",
@@ -290,7 +265,7 @@
   },
   {
     "date": "2026-11-25",
-    "time": "7:30 PM",
+    "time": "07:30 PM",
     "artist": "Sarah Hanahan Quartet",
     "venue": {
       "name": "Sam First",
@@ -307,7 +282,7 @@
       },
       {
         "name": "Jermaine Paul",
-        "instrument": "bass"
+        "instrument": "drums"
       },
       {
         "name": "Kyle Poole",
@@ -319,7 +294,7 @@
   },
   {
     "date": "2026-11-27",
-    "time": "7:30 PM",
+    "time": "07:30 PM",
     "artist": "Devin Daniels/Julien Knowles Quartet",
     "venue": {
       "name": "Sam First",
@@ -336,7 +311,7 @@
       },
       {
         "name": "Jermaine Paul",
-        "instrument": "bass"
+        "instrument": "drums"
       },
       {
         "name": "Christian Euman",
@@ -348,7 +323,7 @@
   },
   {
     "date": "2026-11-28",
-    "time": "7:30 PM",
+    "time": "07:30 PM",
     "artist": "Devin Daniels/Julien Knowles Quartet",
     "venue": {
       "name": "Sam First",
@@ -365,7 +340,7 @@
       },
       {
         "name": "Jermaine Paul",
-        "instrument": "bass"
+        "instrument": "drums"
       },
       {
         "name": "Christian Euman",
@@ -377,7 +352,7 @@
   },
   {
     "date": "2026-12-01",
-    "time": "7:30 PM",
+    "time": "07:30 PM",
     "artist": "Janis Siegel",
     "venue": {
       "name": "Sam First",
@@ -402,7 +377,7 @@
   },
   {
     "date": "2026-12-02",
-    "time": "7:30 PM",
+    "time": "07:30 PM",
     "artist": "Tristan Cappel's \"North Star\"",
     "venue": {
       "name": "Sam First",
@@ -411,7 +386,7 @@
     "personnel": [
       {
         "name": "Tristan Cappel",
-        "instrument": ""
+        "instrument": "saxophone"
       },
       {
         "name": "Sasha Berliner",
@@ -427,6 +402,39 @@
       },
       {
         "name": "Efajemue Etoroma, Jr.",
+        "instrument": "drums"
+      }
+    ],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-12-04",
+    "time": "07:30 PM",
+    "artist": "Peter Bernstein & Graham Dechter Quintet",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Peter Bernstein",
+        "instrument": "guitar"
+      },
+      {
+        "name": "Graham Dechter",
+        "instrument": "guitar"
+      },
+      {
+        "name": "Jacob Mann",
+        "instrument": "piano"
+      },
+      {
+        "name": "Alex Frank",
+        "instrument": "bass"
+      },
+      {
+        "name": "Ryan Shaw",
         "instrument": "drums"
       }
     ],
