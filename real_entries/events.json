@@ -19,7 +19,7 @@
   {
     "date": "2026-11-11",
     "time": "07:30 PM",
-    "artist": "QUINTESSÊNCIA — Ana Barreiro Quintet",
+    "artist": "QUINTESSÊNCIA — Ana Barreiro Quintet: An Evening of Samba Jazz",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -36,7 +36,7 @@
   {
     "date": "2026-11-12",
     "time": "07:30 PM",
-    "artist": "VDE Jazz Orchestra featuring Adam Hersh",
+    "artist": "VDE Jazz Orchestra featuring Adam Hersh: The Music of Monk and Herbie",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -53,7 +53,7 @@
   {
     "date": "2026-11-13",
     "time": "07:30 PM",
-    "artist": "Jaz Sawyer Quartet",
+    "artist": "Jaz Sawyer Quartet Honors 3 Kings: Art Blakey, Roy Haynes & Billy Higgins",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -125,6 +125,18 @@
       {
         "name": "Sasha Berliner",
         "instrument": "vibraphone"
+      },
+      {
+        "name": "Adam Hersh",
+        "instrument": "piano"
+      },
+      {
+        "name": "Brandon Rose",
+        "instrument": "bass"
+      },
+      {
+        "name": "Gary Novak",
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -133,7 +145,7 @@
   {
     "date": "2026-11-18",
     "time": "07:30 PM",
-    "artist": "UCLA Jazz Ensemble & USC Jazz Ensemble",
+    "artist": "College Night at Sam First: UCLA dir. by Clayton Cameron & USC dir. Jason Goldman",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -141,11 +153,11 @@
     "personnel": [
       {
         "name": "Clayton Cameron",
-        "instrument": "director"
+        "instrument": "director/drums"
       },
       {
         "name": "Jason Goldman",
-        "instrument": "director"
+        "instrument": "director/saxophone"
       }
     ],
     "priceRange": "$XX",
@@ -154,7 +166,7 @@
   {
     "date": "2026-11-19",
     "time": "07:30 PM",
-    "artist": "Camille Kerani Quintet",
+    "artist": "Camille Kerani",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -174,11 +186,11 @@
       },
       {
         "name": "Myles Martin",
-        "instrument": "drums"
+        "instrument": "piano"
       },
       {
         "name": "Nicolaus Gelin",
-        "instrument": "piano"
+        "instrument": "guitar"
       }
     ],
     "priceRange": "$XX",
@@ -187,7 +199,7 @@
   {
     "date": "2026-11-20",
     "time": "07:30 PM",
-    "artist": "Ben Williams Trio",
+    "artist": "Ben Williams Trio (Live Recording)",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -212,7 +224,7 @@
   {
     "date": "2026-11-21",
     "time": "07:30 PM",
-    "artist": "Ben Williams Trio",
+    "artist": "Ben Williams Trio (Live Recording)",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -253,7 +265,7 @@
       },
       {
         "name": "Jermaine Paul",
-        "instrument": "drums"
+        "instrument": "bass"
       },
       {
         "name": "Kyle Poole",
@@ -282,7 +294,7 @@
       },
       {
         "name": "Jermaine Paul",
-        "instrument": "drums"
+        "instrument": "bass"
       },
       {
         "name": "Kyle Poole",
@@ -311,7 +323,7 @@
       },
       {
         "name": "Jermaine Paul",
-        "instrument": "drums"
+        "instrument": "bass"
       },
       {
         "name": "Christian Euman",
@@ -340,7 +352,7 @@
       },
       {
         "name": "Jermaine Paul",
-        "instrument": "drums"
+        "instrument": "bass"
       },
       {
         "name": "Christian Euman",
@@ -353,7 +365,7 @@
   {
     "date": "2026-12-01",
     "time": "07:30 PM",
-    "artist": "Janis Siegel",
+    "artist": "Janis Siegel album release \"The Art Of Vocalese\"",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
