@@ -13,13 +13,12 @@
         "instrument": "drums"
       }
     ],
-    "priceRange": "$XX",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
     "date": "2026-11-11",
     "time": "07:30 PM",
-    "artist": "QUINTESSÊNCIA — Ana Barreiro Quintet: An Evening of Samba Jazz",
+    "artist": "QUINTESSÊNCIA — Ana Barreiro Quintet",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -30,13 +29,12 @@
         "instrument": "drums"
       }
     ],
-    "priceRange": "$XX",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
     "date": "2026-11-12",
     "time": "07:30 PM",
-    "artist": "VDE Jazz Orchestra featuring Adam Hersh: The Music of Monk and Herbie",
+    "artist": "VDE Jazz Orchestra featuring Adam Hersh",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -47,13 +45,12 @@
         "instrument": "piano"
       }
     ],
-    "priceRange": "$XX",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
     "date": "2026-11-13",
     "time": "07:30 PM",
-    "artist": "Jaz Sawyer Quartet Honors 3 Kings: Art Blakey, Roy Haynes & Billy Higgins",
+    "artist": "Jaz Sawyer Quartet",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -64,7 +61,6 @@
         "instrument": "drums"
       }
     ],
-    "priceRange": "$XX",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -81,7 +77,6 @@
         "instrument": "drums"
       }
     ],
-    "priceRange": "$XX",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -110,7 +105,6 @@
         "instrument": "bass"
       }
     ],
-    "priceRange": "$XX",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -139,13 +133,12 @@
         "instrument": "drums"
       }
     ],
-    "priceRange": "$XX",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
     "date": "2026-11-18",
     "time": "07:30 PM",
-    "artist": "College Night at Sam First: UCLA dir. by Clayton Cameron & USC dir. Jason Goldman",
+    "artist": "College Night at Sam First: UCLA & USC",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -153,20 +146,19 @@
     "personnel": [
       {
         "name": "Clayton Cameron",
-        "instrument": "director/drums"
+        "instrument": "director"
       },
       {
-        "name": "Jason Goldman",
-        "instrument": "director/saxophone"
+        "name": "Jon Hatamiya",
+        "instrument": "director"
       }
     ],
-    "priceRange": "$XX",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
     "date": "2026-11-19",
     "time": "07:30 PM",
-    "artist": "Camille Kerani",
+    "artist": "Camille Kerani Quintet",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -190,16 +182,15 @@
       },
       {
         "name": "Nicolaus Gelin",
-        "instrument": "guitar"
+        "instrument": "saxophone"
       }
     ],
-    "priceRange": "$XX",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
     "date": "2026-11-20",
     "time": "07:30 PM",
-    "artist": "Ben Williams Trio (Live Recording)",
+    "artist": "Ben Williams Trio",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -218,13 +209,12 @@
         "instrument": "drums"
       }
     ],
-    "priceRange": "$XX",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
     "date": "2026-11-21",
     "time": "07:30 PM",
-    "artist": "Ben Williams Trio (Live Recording)",
+    "artist": "Ben Williams Trio",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -243,7 +233,6 @@
         "instrument": "drums"
       }
     ],
-    "priceRange": "$XX",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -272,7 +261,6 @@
         "instrument": "drums"
       }
     ],
-    "priceRange": "$XX",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -301,7 +289,6 @@
         "instrument": "drums"
       }
     ],
-    "priceRange": "$XX",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -319,7 +306,7 @@
       },
       {
         "name": "Julien Knowles",
-        "instrument": "trumpet"
+        "instrument": "piano"
       },
       {
         "name": "Jermaine Paul",
@@ -330,7 +317,6 @@
         "instrument": "drums"
       }
     ],
-    "priceRange": "$XX",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -348,7 +334,7 @@
       },
       {
         "name": "Julien Knowles",
-        "instrument": "trumpet"
+        "instrument": "piano"
       },
       {
         "name": "Jermaine Paul",
@@ -359,13 +345,12 @@
         "instrument": "drums"
       }
     ],
-    "priceRange": "$XX",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
     "date": "2026-12-01",
     "time": "07:30 PM",
-    "artist": "Janis Siegel album release \"The Art Of Vocalese\"",
+    "artist": "Janis Siegel",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -382,9 +367,12 @@
       {
         "name": "Darek Oles",
         "instrument": "bass"
+      },
+      {
+        "name": "Clayton Cameron",
+        "instrument": "drums"
       }
     ],
-    "priceRange": "$XX",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -417,7 +405,6 @@
         "instrument": "drums"
       }
     ],
-    "priceRange": "$XX",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -450,7 +437,6 @@
         "instrument": "drums"
       }
     ],
-    "priceRange": "$XX",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   }
 ]
