@@ -1,22 +1,5 @@
 [
   {
-    "date": "2026-11-11",
-    "time": "7:30 PM",
-    "artist": "QUINTESSÊNCIA — Ana Barreiro Quintet",
-    "venue": {
-      "name": "Sam First",
-      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
-    },
-    "personnel": [
-      {
-        "name": "Ana Barreiro",
-        "instrument": "drums"
-      }
-    ],
-    "priceRange": "",
-    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
-  },
-  {
     "date": "2026-11-12",
     "time": "7:30 PM",
     "artist": "VDE Jazz Orchestra featuring Adam Hersh",
@@ -30,13 +13,13 @@
         "instrument": "piano"
       }
     ],
-    "priceRange": "",
+    "priceRange": "$XX",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
     "date": "2026-11-13",
     "time": "7:30 PM",
-    "artist": "Jaz Sawyer Quartet Honors 3 Kings",
+    "artist": "Jaz Sawyer Quartet",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -47,7 +30,7 @@
         "instrument": "drums"
       }
     ],
-    "priceRange": "",
+    "priceRange": "$XX",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -64,7 +47,7 @@
         "instrument": "drums"
       }
     ],
-    "priceRange": "",
+    "priceRange": "$XX",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -93,7 +76,7 @@
         "instrument": "bass"
       }
     ],
-    "priceRange": "",
+    "priceRange": "$XX",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -122,36 +105,7 @@
         "instrument": "drums"
       }
     ],
-    "priceRange": "",
-    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
-  },
-  {
-    "date": "2026-11-17",
-    "time": "9:30 PM",
-    "artist": "Sasha Berliner (Host) with Adam Hersh, Brandon Rose & Gary Novak (House Band) - Jam Session",
-    "venue": {
-      "name": "Sam First",
-      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
-    },
-    "personnel": [
-      {
-        "name": "Sasha Berliner",
-        "instrument": "vibraphone"
-      },
-      {
-        "name": "Adam Hersh",
-        "instrument": "piano"
-      },
-      {
-        "name": "Brandon Rose",
-        "instrument": "bass"
-      },
-      {
-        "name": "Gary Novak",
-        "instrument": "drums"
-      }
-    ],
-    "priceRange": "",
+    "priceRange": "$XX",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -172,13 +126,13 @@
         "instrument": "director"
       }
     ],
-    "priceRange": "",
+    "priceRange": "$XX",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
     "date": "2026-11-19",
     "time": "7:30 PM",
-    "artist": "Camille Kerani Quintet",
+    "artist": "Camille Kerani with Isaiah Harwood, Jermaine Paul, Myles Martin & Nicolaus Gelin",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -190,22 +144,22 @@
       },
       {
         "name": "Isaiah Harwood",
-        "instrument": ""
+        "instrument": "piano"
       },
       {
         "name": "Jermaine Paul",
-        "instrument": ""
+        "instrument": "bass"
       },
       {
         "name": "Myles Martin",
-        "instrument": ""
+        "instrument": "drums"
       },
       {
         "name": "Nicolaus Gelin",
-        "instrument": ""
+        "instrument": "guitar"
       }
     ],
-    "priceRange": "",
+    "priceRange": "$XX",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -230,7 +184,7 @@
         "instrument": "drums"
       }
     ],
-    "priceRange": "",
+    "priceRange": "$XX",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -255,7 +209,7 @@
         "instrument": "drums"
       }
     ],
-    "priceRange": "",
+    "priceRange": "$XX",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -284,7 +238,7 @@
         "instrument": "drums"
       }
     ],
-    "priceRange": "",
+    "priceRange": "$XX",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -313,7 +267,7 @@
         "instrument": "drums"
       }
     ],
-    "priceRange": "",
+    "priceRange": "$XX",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -331,7 +285,7 @@
       },
       {
         "name": "Julien Knowles",
-        "instrument": ""
+        "instrument": "piano"
       },
       {
         "name": "Jermaine Paul",
@@ -342,7 +296,7 @@
         "instrument": "drums"
       }
     ],
-    "priceRange": "",
+    "priceRange": "$XX",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -360,7 +314,7 @@
       },
       {
         "name": "Julien Knowles",
-        "instrument": ""
+        "instrument": "piano"
       },
       {
         "name": "Jermaine Paul",
@@ -371,7 +325,7 @@
         "instrument": "drums"
       }
     ],
-    "priceRange": "",
+    "priceRange": "$XX",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -400,7 +354,7 @@
         "instrument": "drums"
       }
     ],
-    "priceRange": "",
+    "priceRange": "$XX",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -414,7 +368,7 @@
     "personnel": [
       {
         "name": "Tristan Cappel",
-        "instrument": ""
+        "instrument": "saxophone"
       },
       {
         "name": "Sasha Berliner",
@@ -433,7 +387,7 @@
         "instrument": "drums"
       }
     ],
-    "priceRange": "",
+    "priceRange": "$XX",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -466,7 +420,7 @@
         "instrument": "drums"
       }
     ],
-    "priceRange": "",
+    "priceRange": "$XX",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -499,7 +453,24 @@
         "instrument": "drums"
       }
     ],
-    "priceRange": "",
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-12-08",
+    "time": "7:30 PM",
+    "artist": "Gerald Clayton (Host) (House Band)",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Gerald Clayton",
+        "instrument": "piano"
+      }
+    ],
+    "priceRange": "$XX",
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   }
 ]
