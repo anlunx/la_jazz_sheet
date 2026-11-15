@@ -1,39 +1,5 @@
 [
   {
-    "date": "2026-11-14",
-    "time": "07:30 PM",
-    "artist": "Jonathan Pinson Boom Clap Expansion",
-    "venue": {
-      "name": "Sam First",
-      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
-    },
-    "personnel": [
-      {
-        "name": "Jonathan Pinson",
-        "instrument": "drums"
-      }
-    ],
-    "priceRange": "$XX",
-    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
-  },
-  {
-    "date": "2026-11-14",
-    "time": "09:30 PM",
-    "artist": "Jonathan Pinson Boom Clap Expansion",
-    "venue": {
-      "name": "Sam First",
-      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
-    },
-    "personnel": [
-      {
-        "name": "Jonathan Pinson",
-        "instrument": "drums"
-      }
-    ],
-    "priceRange": "$XX",
-    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
-  },
-  {
     "date": "2026-11-15",
     "time": "07:30 PM",
     "artist": "Kate McGarry/Keith Ganz Quartet",
@@ -94,7 +60,36 @@
   {
     "date": "2026-11-17",
     "time": "07:30 PM",
-    "artist": "Sasha Berliner (Host)",
+    "artist": "\"Tuesday Happenings\": Hosted by Sasha Berliner",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Sasha Berliner",
+        "instrument": "vibraphone"
+      },
+      {
+        "name": "Adam Hersh",
+        "instrument": "piano"
+      },
+      {
+        "name": "Brandon Rose",
+        "instrument": "bass"
+      },
+      {
+        "name": "Gary Novak",
+        "instrument": "drums"
+      }
+    ],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-11-17",
+    "time": "09:30 PM",
+    "artist": "\"Tuesday Happenings\": Hosted by Sasha Berliner (Jam Session)",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -123,7 +118,7 @@
   {
     "date": "2026-11-18",
     "time": "07:30 PM",
-    "artist": "UCLA Jazz Ensemble & USC Jazz Ensemble",
+    "artist": "College Night at Sam First: UCLA & USC",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -131,11 +126,11 @@
     "personnel": [
       {
         "name": "Clayton Cameron",
-        "instrument": "director, drums"
+        "instrument": "drums"
       },
       {
         "name": "Jon Hatamiya",
-        "instrument": "director, trombone"
+        "instrument": "trombone"
       }
     ],
     "priceRange": "$XX",
@@ -144,7 +139,7 @@
   {
     "date": "2026-11-18",
     "time": "09:30 PM",
-    "artist": "UCLA Jazz Ensemble & USC Jazz Ensemble",
+    "artist": "College Night at Sam First: UCLA & USC",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -152,11 +147,11 @@
     "personnel": [
       {
         "name": "Clayton Cameron",
-        "instrument": "director, drums"
+        "instrument": "drums"
       },
       {
         "name": "Jon Hatamiya",
-        "instrument": "director, trombone"
+        "instrument": "trombone"
       }
     ],
     "priceRange": "$XX",
@@ -174,22 +169,6 @@
       {
         "name": "Camille Kerani",
         "instrument": "vocals"
-      },
-      {
-        "name": "Isaiah Harwood",
-        "instrument": "drums"
-      },
-      {
-        "name": "Jermaine Paul",
-        "instrument": "bass"
-      },
-      {
-        "name": "Myles Martin",
-        "instrument": "piano"
-      },
-      {
-        "name": "Nicolaus Gelin",
-        "instrument": "saxophone"
       }
     ],
     "priceRange": "$XX",
@@ -207,22 +186,6 @@
       {
         "name": "Camille Kerani",
         "instrument": "vocals"
-      },
-      {
-        "name": "Isaiah Harwood",
-        "instrument": "drums"
-      },
-      {
-        "name": "Jermaine Paul",
-        "instrument": "bass"
-      },
-      {
-        "name": "Myles Martin",
-        "instrument": "piano"
-      },
-      {
-        "name": "Nicolaus Gelin",
-        "instrument": "saxophone"
       }
     ],
     "priceRange": "$XX",
@@ -231,7 +194,7 @@
   {
     "date": "2026-11-20",
     "time": "07:30 PM",
-    "artist": "Ben Williams Trio",
+    "artist": "Ben Williams Trio (Live Recording)",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -256,7 +219,7 @@
   {
     "date": "2026-11-20",
     "time": "09:30 PM",
-    "artist": "Ben Williams Trio",
+    "artist": "Ben Williams Trio (Live Recording)",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -281,7 +244,7 @@
   {
     "date": "2026-11-21",
     "time": "07:30 PM",
-    "artist": "Ben Williams Trio",
+    "artist": "Ben Williams Trio (Live Recording)",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -306,7 +269,7 @@
   {
     "date": "2026-11-21",
     "time": "09:30 PM",
-    "artist": "Ben Williams Trio",
+    "artist": "Ben Williams Trio (Live Recording)",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -563,7 +526,7 @@
   {
     "date": "2026-12-01",
     "time": "07:30 PM",
-    "artist": "Janis Siegel",
+    "artist": "Janis Siegel album release \"The Art Of Vocalese\"",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -592,7 +555,7 @@
   {
     "date": "2026-12-01",
     "time": "09:30 PM",
-    "artist": "Janis Siegel",
+    "artist": "Janis Siegel album release \"The Art Of Vocalese\"",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -786,7 +749,7 @@
   {
     "date": "2026-12-05",
     "time": "09:30 PM",
-    "artist": "Peter Bernstein/Graham Dechter Quintet",
+    "artist": "Peter Bernstein/Graham Dechter Quintet (KJAZZ Broadcast)",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -819,7 +782,24 @@
   {
     "date": "2026-12-08",
     "time": "07:30 PM",
-    "artist": "Gerald Clayton (Host)",
+    "artist": "\"Tuesday Happenings\": Hosted by Gerald Clayton",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Gerald Clayton",
+        "instrument": "piano"
+      }
+    ],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-12-08",
+    "time": "09:30 PM",
+    "artist": "\"Tuesday Happenings\": Hosted by Gerald Clayton (Jam Session)",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -836,7 +816,7 @@
   {
     "date": "2026-12-09",
     "time": "07:30 PM",
-    "artist": "USC Jazz Ensemble & CalArts Jazz Ensemble",
+    "artist": "College Night at Sam First: USC & CalArts",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -844,11 +824,11 @@
     "personnel": [
       {
         "name": "Katie Thiroux",
-        "instrument": "director, bass"
+        "instrument": "bass"
       },
       {
         "name": "Vardan Ovsepian",
-        "instrument": "director, piano"
+        "instrument": "piano"
       }
     ],
     "priceRange": "$XX",
@@ -857,7 +837,7 @@
   {
     "date": "2026-12-09",
     "time": "09:30 PM",
-    "artist": "USC Jazz Ensemble & CalArts Jazz Ensemble",
+    "artist": "College Night at Sam First: USC & CalArts",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -865,11 +845,11 @@
     "personnel": [
       {
         "name": "Katie Thiroux",
-        "instrument": "director, bass"
+        "instrument": "bass"
       },
       {
         "name": "Vardan Ovsepian",
-        "instrument": "director, piano"
+        "instrument": "piano"
       }
     ],
     "priceRange": "$XX",
@@ -878,7 +858,7 @@
   {
     "date": "2026-12-11",
     "time": "07:30 PM",
-    "artist": "Eric Scott Reed Quartet",
+    "artist": "Eric Scott Reed Quartet presents \"Chick's Tunes: The Music of Chick Corea\"",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -907,7 +887,65 @@
   {
     "date": "2026-12-11",
     "time": "09:30 PM",
-    "artist": "Eric Scott Reed Quartet",
+    "artist": "Eric Scott Reed Quartet presents \"Chick's Tunes: The Music of Chick Corea\"",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Eric Scott Reed",
+        "instrument": "piano"
+      },
+      {
+        "name": "Ralph Moore",
+        "instrument": "tenor saxophone"
+      },
+      {
+        "name": "Luca Alemanno",
+        "instrument": "bass"
+      },
+      {
+        "name": "Marcello Carelli",
+        "instrument": "drums"
+      }
+    ],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-12-12",
+    "time": "07:30 PM",
+    "artist": "Eric Scott Reed Quartet presents \"Chick's Tunes: The Music of Chick Corea\"",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Eric Scott Reed",
+        "instrument": "piano"
+      },
+      {
+        "name": "Ralph Moore",
+        "instrument": "tenor saxophone"
+      },
+      {
+        "name": "Luca Alemanno",
+        "instrument": "bass"
+      },
+      {
+        "name": "Marcello Carelli",
+        "instrument": "drums"
+      }
+    ],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-12-12",
+    "time": "09:30 PM",
+    "artist": "Eric Scott Reed Quartet presents \"Chick's Tunes: The Music of Chick Corea\"",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
