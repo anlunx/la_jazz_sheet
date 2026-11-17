@@ -2,36 +2,7 @@
   {
     "date": "2026-11-17",
     "time": "07:30 PM",
-    "artist": "Tuesday Happenings: Hosted by Sasha Berliner (House Band)",
-    "venue": {
-      "name": "Sam First",
-      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
-    },
-    "personnel": [
-      {
-        "name": "Sasha Berliner",
-        "instrument": "vibraphone"
-      },
-      {
-        "name": "Adam Hersh",
-        "instrument": "piano"
-      },
-      {
-        "name": "Brandon Rose",
-        "instrument": "bass"
-      },
-      {
-        "name": "Gary Novak",
-        "instrument": "drums"
-      }
-    ],
-    "priceRange": "$XX",
-    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
-  },
-  {
-    "date": "2026-11-17",
-    "time": "09:30 PM",
-    "artist": "Tuesday Happenings: Hosted by Sasha Berliner (Jam Session)",
+    "artist": "Sasha Berliner",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -60,7 +31,7 @@
   {
     "date": "2026-11-18",
     "time": "07:30 PM",
-    "artist": "College Night at Sam First: UCLA dir. by Clayton Cameron & USC dir. Jon Hatamiya",
+    "artist": "College Night: UCLA & USC Jazz Ensembles",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -68,11 +39,11 @@
     "personnel": [
       {
         "name": "Clayton Cameron",
-        "instrument": "director/drums"
+        "instrument": "drums"
       },
       {
         "name": "Jon Hatamiya",
-        "instrument": "director/trombone"
+        "instrument": "trombone"
       }
     ],
     "priceRange": "$XX",
@@ -81,7 +52,7 @@
   {
     "date": "2026-11-19",
     "time": "07:30 PM",
-    "artist": "KCRW Presents: \"Third Thursdays\" with \"Feed The Fire\": Camille Kerani Quintet",
+    "artist": "Feed The Fire: Camille Kerani",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -301,7 +272,7 @@
     "personnel": [
       {
         "name": "Tristan Cappel",
-        "instrument": "leader/composer"
+        "instrument": "saxophone"
       },
       {
         "name": "Sasha Berliner",
@@ -317,6 +288,39 @@
       },
       {
         "name": "Efajemue Etoroma, Jr.",
+        "instrument": "drums"
+      }
+    ],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-12-03",
+    "time": "07:30 PM",
+    "artist": "Max Walker Quintet",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Max Walker",
+        "instrument": "guitar"
+      },
+      {
+        "name": "Tristan Cappel",
+        "instrument": "saxophone"
+      },
+      {
+        "name": "Adam Hersh",
+        "instrument": "piano"
+      },
+      {
+        "name": "Graeham Guerin",
+        "instrument": "bass"
+      },
+      {
+        "name": "Nate Friedman",
         "instrument": "drums"
       }
     ],
@@ -392,24 +396,7 @@
   {
     "date": "2026-12-08",
     "time": "07:30 PM",
-    "artist": "Tuesday Happenings: Hosted by Gerald Clayton (House Band)",
-    "venue": {
-      "name": "Sam First",
-      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
-    },
-    "personnel": [
-      {
-        "name": "Gerald Clayton",
-        "instrument": "piano"
-      }
-    ],
-    "priceRange": "$XX",
-    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
-  },
-  {
-    "date": "2026-12-08",
-    "time": "09:30 PM",
-    "artist": "Tuesday Happenings: Hosted by Gerald Clayton (Jam Session)",
+    "artist": "Gerald Clayton",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -426,7 +413,7 @@
   {
     "date": "2026-12-09",
     "time": "07:30 PM",
-    "artist": "College Night at Sam First: USC dir. by Katie Thiroux & CalArts dir. by Vardan Ovsepian",
+    "artist": "College Night: USC & CalArts Jazz Ensembles",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -434,11 +421,11 @@
     "personnel": [
       {
         "name": "Katie Thiroux",
-        "instrument": "director/bass"
+        "instrument": "bass"
       },
       {
         "name": "Vardan Ovsepian",
-        "instrument": "director/piano"
+        "instrument": "piano"
       }
     ],
     "priceRange": "$XX",
@@ -447,7 +434,7 @@
   {
     "date": "2026-12-11",
     "time": "07:30 PM",
-    "artist": "\"Chick's Tunes: The Music of Chick Corea\" with Eric Scott Reed Quartet",
+    "artist": "Eric Scott Reed Quartet: \"Chick's Tunes: The Music of Chick Corea\"",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -476,7 +463,7 @@
   {
     "date": "2026-12-12",
     "time": "07:30 PM",
-    "artist": "\"Chick's Tunes: The Music of Chick Corea\" with Eric Scott Reed Quartet",
+    "artist": "Eric Scott Reed Quartet: \"Chick's Tunes: The Music of Chick Corea\"",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -497,40 +484,6 @@
       {
         "name": "Marcello Carelli",
         "instrument": "drums"
-      }
-    ],
-    "priceRange": "$XX",
-    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
-  },
-  {
-    "date": "2026-12-15",
-    "time": "07:30 PM",
-    "artist": "Tuesday Happenings: Hosted by Gerald Clayton (House Band)",
-    "venue": {
-      "name": "Sam First",
-      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
-    },
-    "personnel": [
-      {
-        "name": "Gerald Clayton",
-        "instrument": "piano"
-      }
-    ],
-    "priceRange": "$XX",
-    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
-  },
-  {
-    "date": "2026-12-15",
-    "time": "09:30 PM",
-    "artist": "Tuesday Happenings: Hosted by Gerald Clayton (Jam Session)",
-    "venue": {
-      "name": "Sam First",
-      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
-    },
-    "personnel": [
-      {
-        "name": "Gerald Clayton",
-        "instrument": "piano"
       }
     ],
     "priceRange": "$XX",
