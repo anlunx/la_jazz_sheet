@@ -1,29 +1,8 @@
 [
   {
-    "date": "2026-11-18",
-    "time": "7:30 PM",
-    "artist": "College Night at Sam First: UCLA & USC",
-    "venue": {
-      "name": "Sam First",
-      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
-    },
-    "personnel": [
-      {
-        "name": "Clayton Cameron",
-        "instrument": "director"
-      },
-      {
-        "name": "Jon Hatamiya",
-        "instrument": "director"
-      }
-    ],
-    "priceRange": "$XX",
-    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
-  },
-  {
     "date": "2026-11-19",
     "time": "7:30 PM",
-    "artist": "Camille Kerani with \"Feed The Fire\"",
+    "artist": "Camille Kerani",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -365,9 +344,42 @@
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
+    "date": "2026-12-05",
+    "time": "9:30 PM",
+    "artist": "Peter Bernstein/Graham Dechter Quintet (2nd set KJAZZ Broadcast)",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Peter Bernstein",
+        "instrument": "guitar"
+      },
+      {
+        "name": "Graham Dechter",
+        "instrument": "guitar"
+      },
+      {
+        "name": "Jacob Mann",
+        "instrument": "piano"
+      },
+      {
+        "name": "Alex Frank",
+        "instrument": "bass"
+      },
+      {
+        "name": "Ryan Shaw",
+        "instrument": "drums"
+      }
+    ],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
     "date": "2026-12-08",
     "time": "7:30 PM",
-    "artist": "Tuesday Happenings: Hosted by Gerald Clayton",
+    "artist": "Gerald Clayton (Host) / House Band",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -375,7 +387,24 @@
     "personnel": [
       {
         "name": "Gerald Clayton",
-        "instrument": "piano, host"
+        "instrument": "piano"
+      }
+    ],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-12-08",
+    "time": "9:30 PM",
+    "artist": "Gerald Clayton (Host) / Jam Session",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Gerald Clayton",
+        "instrument": "piano"
       }
     ],
     "priceRange": "$XX",
@@ -384,7 +413,7 @@
   {
     "date": "2026-12-09",
     "time": "7:30 PM",
-    "artist": "College Night at Sam First: USC & CalArts",
+    "artist": "College Night at Sam First: USC & CalArts Ensembles",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -392,11 +421,11 @@
     "personnel": [
       {
         "name": "Katie Thiroux",
-        "instrument": "director"
+        "instrument": "director, bass"
       },
       {
         "name": "Vardan Ovsepian",
-        "instrument": "director"
+        "instrument": "director, piano"
       }
     ],
     "priceRange": "$XX",
@@ -405,7 +434,7 @@
   {
     "date": "2026-12-11",
     "time": "7:30 PM",
-    "artist": "Eric Scott Reed Quartet: \"Chick's Tunes: The Music of Chick Corea\"",
+    "artist": "\"Chick's Tunes: The Music of Chick Corea\" with Eric Scott Reed Quartet",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -434,7 +463,7 @@
   {
     "date": "2026-12-12",
     "time": "7:30 PM",
-    "artist": "Eric Scott Reed Quartet: \"Chick's Tunes: The Music of Chick Corea\"",
+    "artist": "\"Chick's Tunes: The Music of Chick Corea\" with Eric Scott Reed Quartet",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -463,7 +492,7 @@
   {
     "date": "2026-12-15",
     "time": "7:30 PM",
-    "artist": "Tuesday Happenings: Hosted by Gerald Clayton",
+    "artist": "Gerald Clayton (Host) / House Band",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -471,7 +500,49 @@
     "personnel": [
       {
         "name": "Gerald Clayton",
-        "instrument": "piano, host"
+        "instrument": "piano"
+      }
+    ],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-12-15",
+    "time": "9:30 PM",
+    "artist": "Gerald Clayton (Host) / Jam Session",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Gerald Clayton",
+        "instrument": "piano"
+      }
+    ],
+    "priceRange": "$XX",
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-12-16",
+    "time": "7:30 PM",
+    "artist": "Jimmy Branly Trio",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [
+      {
+        "name": "Jimmy Branly",
+        "instrument": "drums"
+      },
+      {
+        "name": "Andy Langham",
+        "instrument": "piano"
+      },
+      {
+        "name": "Rene Camacho",
+        "instrument": "bass"
       }
     ],
     "priceRange": "$XX",
