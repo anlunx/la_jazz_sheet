@@ -1,55 +1,5 @@
 [
   {
-    "date": "2026-11-20",
-    "time": "07:30 PM",
-    "artist": "Ben Williams Trio",
-    "venue": {
-      "name": "Sam First",
-      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
-    },
-    "personnel": [
-      {
-        "name": "Ben Williams",
-        "instrument": "Bass"
-      },
-      {
-        "name": "Adam Hersh",
-        "instrument": "Piano"
-      },
-      {
-        "name": "John Davis",
-        "instrument": "Drums"
-      }
-    ],
-    "priceRange": "$XX",
-    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
-  },
-  {
-    "date": "2026-11-20",
-    "time": "09:30 PM",
-    "artist": "Ben Williams Trio",
-    "venue": {
-      "name": "Sam First",
-      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
-    },
-    "personnel": [
-      {
-        "name": "Ben Williams",
-        "instrument": "Bass"
-      },
-      {
-        "name": "Adam Hersh",
-        "instrument": "Piano"
-      },
-      {
-        "name": "John Davis",
-        "instrument": "Drums"
-      }
-    ],
-    "priceRange": "$XX",
-    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
-  },
-  {
     "date": "2026-11-21",
     "time": "07:30 PM",
     "artist": "Ben Williams Trio",
@@ -60,18 +10,18 @@
     "personnel": [
       {
         "name": "Ben Williams",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Adam Hersh",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "John Davis",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
-    "priceRange": "$XX",
+    "priceRange": null,
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -85,18 +35,18 @@
     "personnel": [
       {
         "name": "Ben Williams",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Adam Hersh",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "John Davis",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
-    "priceRange": "$XX",
+    "priceRange": null,
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -110,22 +60,22 @@
     "personnel": [
       {
         "name": "Sarah Hanahan",
-        "instrument": "Alto Saxophone"
+        "instrument": "alto saxophone"
       },
       {
         "name": "Julius Rodriguez",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Jermaine Paul",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Kyle Poole",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
-    "priceRange": "$XX",
+    "priceRange": null,
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -139,22 +89,22 @@
     "personnel": [
       {
         "name": "Sarah Hanahan",
-        "instrument": "Alto Saxophone"
+        "instrument": "alto saxophone"
       },
       {
         "name": "Julius Rodriguez",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Jermaine Paul",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Kyle Poole",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
-    "priceRange": "$XX",
+    "priceRange": null,
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -168,22 +118,22 @@
     "personnel": [
       {
         "name": "Sarah Hanahan",
-        "instrument": "Alto Saxophone"
+        "instrument": "alto saxophone"
       },
       {
         "name": "Julius Rodriguez",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Jermaine Paul",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Kyle Poole",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
-    "priceRange": "$XX",
+    "priceRange": null,
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -197,22 +147,22 @@
     "personnel": [
       {
         "name": "Sarah Hanahan",
-        "instrument": "Alto Saxophone"
+        "instrument": "alto saxophone"
       },
       {
         "name": "Julius Rodriguez",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Jermaine Paul",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Kyle Poole",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
-    "priceRange": "$XX",
+    "priceRange": null,
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -226,18 +176,18 @@
     "personnel": [
       {
         "name": "Devin Daniels",
-        "instrument": "Saxophone"
+        "instrument": "musician"
       },
       {
         "name": "Julien Knowles",
-        "instrument": "Guitar"
+        "instrument": "musician"
       },
       {
         "name": "Paul Cornish",
-        "instrument": "Piano"
+        "instrument": "piano"
       }
     ],
-    "priceRange": "$XX",
+    "priceRange": null,
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -251,18 +201,18 @@
     "personnel": [
       {
         "name": "Devin Daniels",
-        "instrument": "Saxophone"
+        "instrument": "musician"
       },
       {
         "name": "Julien Knowles",
-        "instrument": "Guitar"
+        "instrument": "musician"
       },
       {
         "name": "Paul Cornish",
-        "instrument": "Piano"
+        "instrument": "piano"
       }
     ],
-    "priceRange": "$XX",
+    "priceRange": null,
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -276,18 +226,18 @@
     "personnel": [
       {
         "name": "Devin Daniels",
-        "instrument": "Saxophone"
+        "instrument": "musician"
       },
       {
         "name": "Julien Knowles",
-        "instrument": "Guitar"
+        "instrument": "musician"
       },
       {
         "name": "Paul Cornish",
-        "instrument": "Piano"
+        "instrument": "piano"
       }
     ],
-    "priceRange": "$XX",
+    "priceRange": null,
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -301,18 +251,18 @@
     "personnel": [
       {
         "name": "Devin Daniels",
-        "instrument": "Saxophone"
+        "instrument": "musician"
       },
       {
         "name": "Julien Knowles",
-        "instrument": "Guitar"
+        "instrument": "musician"
       },
       {
         "name": "Paul Cornish",
-        "instrument": "Piano"
+        "instrument": "piano"
       }
     ],
-    "priceRange": "$XX",
+    "priceRange": null,
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -326,22 +276,22 @@
     "personnel": [
       {
         "name": "Janis Siegel",
-        "instrument": "Vocals"
+        "instrument": "vocals"
       },
       {
         "name": "John diMartino",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Darek Oles",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Clayton Cameron",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
-    "priceRange": "$XX",
+    "priceRange": null,
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -355,22 +305,22 @@
     "personnel": [
       {
         "name": "Janis Siegel",
-        "instrument": "Vocals"
+        "instrument": "vocals"
       },
       {
         "name": "John diMartino",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Darek Oles",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Clayton Cameron",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
-    "priceRange": "$XX",
+    "priceRange": null,
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -384,26 +334,26 @@
     "personnel": [
       {
         "name": "Tristan Cappel",
-        "instrument": "Guitar"
+        "instrument": "saxophone"
       },
       {
         "name": "Sasha Berliner",
-        "instrument": "Vibraphone"
+        "instrument": "vibraphone"
       },
       {
         "name": "Adam Hersh",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Marlon Martinez",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Efajemue Etoroma, Jr.",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
-    "priceRange": "$XX",
+    "priceRange": null,
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -417,26 +367,26 @@
     "personnel": [
       {
         "name": "Tristan Cappel",
-        "instrument": "Guitar"
+        "instrument": "saxophone"
       },
       {
         "name": "Sasha Berliner",
-        "instrument": "Vibraphone"
+        "instrument": "vibraphone"
       },
       {
         "name": "Adam Hersh",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Marlon Martinez",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Efajemue Etoroma, Jr.",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
-    "priceRange": "$XX",
+    "priceRange": null,
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -450,26 +400,26 @@
     "personnel": [
       {
         "name": "Max Walker",
-        "instrument": "Guitar"
+        "instrument": "guitar"
       },
       {
         "name": "Tristan Cappel",
-        "instrument": "Guitar"
+        "instrument": "saxophone"
       },
       {
         "name": "Adam Hersh",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Graeham Guerin",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Nate Friedman",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
-    "priceRange": "$XX",
+    "priceRange": null,
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -483,26 +433,26 @@
     "personnel": [
       {
         "name": "Max Walker",
-        "instrument": "Guitar"
+        "instrument": "guitar"
       },
       {
         "name": "Tristan Cappel",
-        "instrument": "Guitar"
+        "instrument": "saxophone"
       },
       {
         "name": "Adam Hersh",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Graeham Guerin",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Nate Friedman",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
-    "priceRange": "$XX",
+    "priceRange": null,
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -516,26 +466,26 @@
     "personnel": [
       {
         "name": "Peter Bernstein",
-        "instrument": "Guitar"
+        "instrument": "guitar"
       },
       {
         "name": "Graham Dechter",
-        "instrument": "Guitar"
+        "instrument": "guitar"
       },
       {
         "name": "Jacob Mann",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Alex Frank",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Ryan Shaw",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
-    "priceRange": "$XX",
+    "priceRange": null,
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -549,26 +499,26 @@
     "personnel": [
       {
         "name": "Peter Bernstein",
-        "instrument": "Guitar"
+        "instrument": "guitar"
       },
       {
         "name": "Graham Dechter",
-        "instrument": "Guitar"
+        "instrument": "guitar"
       },
       {
         "name": "Jacob Mann",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Alex Frank",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Ryan Shaw",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
-    "priceRange": "$XX",
+    "priceRange": null,
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -582,26 +532,26 @@
     "personnel": [
       {
         "name": "Peter Bernstein",
-        "instrument": "Guitar"
+        "instrument": "guitar"
       },
       {
         "name": "Graham Dechter",
-        "instrument": "Guitar"
+        "instrument": "guitar"
       },
       {
         "name": "Jacob Mann",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Alex Frank",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Ryan Shaw",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
-    "priceRange": "$XX",
+    "priceRange": null,
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -615,26 +565,26 @@
     "personnel": [
       {
         "name": "Peter Bernstein",
-        "instrument": "Guitar"
+        "instrument": "guitar"
       },
       {
         "name": "Graham Dechter",
-        "instrument": "Guitar"
+        "instrument": "guitar"
       },
       {
         "name": "Jacob Mann",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Alex Frank",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Ryan Shaw",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
-    "priceRange": "$XX",
+    "priceRange": null,
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -648,16 +598,16 @@
     "personnel": [
       {
         "name": "Gerald Clayton",
-        "instrument": "Piano"
+        "instrument": "piano"
       }
     ],
-    "priceRange": "$XX",
+    "priceRange": null,
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
     "date": "2026-12-09",
     "time": "07:30 PM",
-    "artist": "USC & CalArts Jazz Ensembles",
+    "artist": "College Night: USC & CalArts Jazz Ensembles",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -665,20 +615,20 @@
     "personnel": [
       {
         "name": "Katie Thiroux",
-        "instrument": "Bass"
+        "instrument": "director"
       },
       {
         "name": "Vardan Ovsepian",
-        "instrument": "Piano"
+        "instrument": "director"
       }
     ],
-    "priceRange": "$XX",
+    "priceRange": null,
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
     "date": "2026-12-09",
     "time": "09:30 PM",
-    "artist": "USC & CalArts Jazz Ensembles",
+    "artist": "College Night: USC & CalArts Jazz Ensembles",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -686,20 +636,20 @@
     "personnel": [
       {
         "name": "Katie Thiroux",
-        "instrument": "Bass"
+        "instrument": "director"
       },
       {
         "name": "Vardan Ovsepian",
-        "instrument": "Piano"
+        "instrument": "director"
       }
     ],
-    "priceRange": "$XX",
+    "priceRange": null,
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
     "date": "2026-12-11",
     "time": "07:30 PM",
-    "artist": "Eric Scott Reed Quartet",
+    "artist": "Eric Scott Reed Quartet: Chick's Tunes",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -707,28 +657,28 @@
     "personnel": [
       {
         "name": "Eric Scott Reed",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Ralph Moore",
-        "instrument": "Tenor Saxophone"
+        "instrument": "tenor saxophone"
       },
       {
         "name": "Luca Alemanno",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Marcello Carelli",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
-    "priceRange": "$XX",
+    "priceRange": null,
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
     "date": "2026-12-11",
     "time": "09:30 PM",
-    "artist": "Eric Scott Reed Quartet",
+    "artist": "Eric Scott Reed Quartet: Chick's Tunes",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -736,28 +686,28 @@
     "personnel": [
       {
         "name": "Eric Scott Reed",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Ralph Moore",
-        "instrument": "Tenor Saxophone"
+        "instrument": "tenor saxophone"
       },
       {
         "name": "Luca Alemanno",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Marcello Carelli",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
-    "priceRange": "$XX",
+    "priceRange": null,
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
     "date": "2026-12-12",
     "time": "07:30 PM",
-    "artist": "Eric Scott Reed Quartet",
+    "artist": "Eric Scott Reed Quartet: Chick's Tunes",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -765,28 +715,28 @@
     "personnel": [
       {
         "name": "Eric Scott Reed",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Ralph Moore",
-        "instrument": "Tenor Saxophone"
+        "instrument": "tenor saxophone"
       },
       {
         "name": "Luca Alemanno",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Marcello Carelli",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
-    "priceRange": "$XX",
+    "priceRange": null,
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
     "date": "2026-12-12",
     "time": "09:30 PM",
-    "artist": "Eric Scott Reed Quartet",
+    "artist": "Eric Scott Reed Quartet: Chick's Tunes",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -794,22 +744,22 @@
     "personnel": [
       {
         "name": "Eric Scott Reed",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Ralph Moore",
-        "instrument": "Tenor Saxophone"
+        "instrument": "tenor saxophone"
       },
       {
         "name": "Luca Alemanno",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Marcello Carelli",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
-    "priceRange": "$XX",
+    "priceRange": null,
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -823,10 +773,10 @@
     "personnel": [
       {
         "name": "Gerald Clayton",
-        "instrument": "Piano"
+        "instrument": "piano"
       }
     ],
-    "priceRange": "$XX",
+    "priceRange": null,
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -840,18 +790,18 @@
     "personnel": [
       {
         "name": "Jimmy Branly",
-        "instrument": "Drums"
+        "instrument": "drums"
       },
       {
         "name": "Andy Langham",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Rene Camacho",
-        "instrument": "Bass"
+        "instrument": "bass"
       }
     ],
-    "priceRange": "$XX",
+    "priceRange": null,
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
@@ -865,24 +815,24 @@
     "personnel": [
       {
         "name": "Jimmy Branly",
-        "instrument": "Drums"
+        "instrument": "drums"
       },
       {
         "name": "Andy Langham",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Rene Camacho",
-        "instrument": "Bass"
+        "instrument": "bass"
       }
     ],
-    "priceRange": "$XX",
+    "priceRange": null,
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
     "date": "2026-12-17",
     "time": "07:30 PM",
-    "artist": "Shai Golan",
+    "artist": "Shai Golan Quartet",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -890,28 +840,28 @@
     "personnel": [
       {
         "name": "Shai Golan",
-        "instrument": "Saxophone"
+        "instrument": "saxophone"
       },
       {
         "name": "Adam Hersh",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Dario Bizio",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Gavin Harris",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
-    "priceRange": "$XX",
+    "priceRange": null,
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   },
   {
     "date": "2026-12-17",
     "time": "09:30 PM",
-    "artist": "Shai Golan",
+    "artist": "Shai Golan Quartet",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -919,22 +869,46 @@
     "personnel": [
       {
         "name": "Shai Golan",
-        "instrument": "Saxophone"
+        "instrument": "saxophone"
       },
       {
         "name": "Adam Hersh",
-        "instrument": "Piano"
+        "instrument": "piano"
       },
       {
         "name": "Dario Bizio",
-        "instrument": "Bass"
+        "instrument": "bass"
       },
       {
         "name": "Gavin Harris",
-        "instrument": "Drums"
+        "instrument": "drums"
       }
     ],
-    "priceRange": "$XX",
+    "priceRange": null,
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-12-18",
+    "time": "07:30 PM",
+    "artist": "Gengis Don",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [],
+    "priceRange": null,
+    "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
+  },
+  {
+    "date": "2026-12-18",
+    "time": "09:30 PM",
+    "artist": "Gengis Don",
+    "venue": {
+      "name": "Sam First",
+      "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
+    },
+    "personnel": [],
+    "priceRange": null,
     "ticketLink": "https://www.samfirstbar.com/upcoming-shows"
   }
 ]
