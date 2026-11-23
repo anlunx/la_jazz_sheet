@@ -60,7 +60,7 @@
   {
     "date": "2026-11-27",
     "time": "7:30 PM",
-    "artist": "Devin Daniels & Julien Knowles",
+    "artist": "Devin Daniels & Julien Knowles: \"Now Then\" Single Release Show",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -72,7 +72,7 @@
       },
       {
         "name": "Julien Knowles",
-        "instrument": "guitar"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -81,7 +81,7 @@
   {
     "date": "2026-11-28",
     "time": "7:30 PM",
-    "artist": "Devin Daniels & Julien Knowles",
+    "artist": "Devin Daniels & Julien Knowles: \"Now Then\" Single Release Show",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -93,7 +93,7 @@
       },
       {
         "name": "Julien Knowles",
-        "instrument": "guitar"
+        "instrument": "drums"
       }
     ],
     "priceRange": "$XX",
@@ -102,7 +102,7 @@
   {
     "date": "2026-12-01",
     "time": "7:30 PM",
-    "artist": "Janis Siegel",
+    "artist": "Janis Siegel album release \"The Art Of Vocalese\"",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -131,7 +131,7 @@
   {
     "date": "2026-12-02",
     "time": "7:30 PM",
-    "artist": "Tristan Cappel",
+    "artist": "Tristan Cappel's \"North Star\"",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -263,7 +263,7 @@
   {
     "date": "2026-12-08",
     "time": "7:30 PM",
-    "artist": "Gerald Clayton",
+    "artist": "“Tuesday Happenings”: Hosted by Gerald Clayton",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -280,7 +280,7 @@
   {
     "date": "2026-12-09",
     "time": "7:30 PM",
-    "artist": "USC & CalArts Jazz Ensembles",
+    "artist": "College Night at Sam First: USC dir. by Katie Thiroux & CalArts dir. by Vardan Ovsepian",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -301,7 +301,7 @@
   {
     "date": "2026-12-11",
     "time": "7:30 PM",
-    "artist": "Eric Scott Reed",
+    "artist": "\"Chick's Tunes: The Music of Chick Corea\" with Eric Scott Reed",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -330,7 +330,7 @@
   {
     "date": "2026-12-12",
     "time": "7:30 PM",
-    "artist": "Eric Scott Reed",
+    "artist": "\"Chick's Tunes: The Music of Chick Corea\" with Eric Scott Reed",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -359,7 +359,7 @@
   {
     "date": "2026-12-15",
     "time": "7:30 PM",
-    "artist": "Gerald Clayton",
+    "artist": "“Tuesday Happenings”: Hosted by Gerald Clayton",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -401,7 +401,7 @@
   {
     "date": "2026-12-17",
     "time": "7:30 PM",
-    "artist": "Shai Golan",
+    "artist": "KCRW Presents: \"Third Thursdays\" with Shai Golan: Album Release Show",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
@@ -430,7 +430,7 @@
   {
     "date": "2026-12-18",
     "time": "7:30 PM",
-    "artist": "Gengis Don",
+    "artist": "“Gengis Don Presents: Out With The Old, In With The New”",
     "venue": {
       "name": "Sam First",
       "address": "6171 W Century Blvd #180, Los Angeles, CA 90045"
